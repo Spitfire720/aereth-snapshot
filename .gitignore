@@ -1,0 +1,14 @@
+﻿*.db
+*.sqlite
+*.sqlite3
+*.mv.db
+*.h2.db
+*.jar
+*.zip
+*token*
+*secret*
+*credential*
+*password*
+raw/
+snapshots/
+latest.zip
