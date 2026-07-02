@@ -1,0 +1,400 @@
+﻿[10:14:34] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'main_the_end'
+[10:14:34] [Server thread/INFO]: [WorldGuard] Loading region data...
+[10:14:34] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v5.3.4
+[10:14:34] [Server thread/INFO]: Preparing start region for dimension minecraft:creator_world
+[10:14:34] [Server thread/INFO]: Time elapsed: 120 ms
+[10:14:34] [Server thread/INFO]: [WorldGuard] (creator_world) TNT ignition is PERMITTED.
+[10:14:34] [Server thread/INFO]: [WorldGuard] (creator_world) Lighters are PERMITTED.
+[10:14:34] [Server thread/INFO]: [WorldGuard] (creator_world) Lava fire is PERMITTED.
+[10:14:34] [Server thread/INFO]: [WorldGuard] (creator_world) Fire spread is UNRESTRICTED.
+[10:14:34] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'creator_world'
+[10:14:34] [Server thread/INFO]: Preparing start region for dimension minecraft:world_the_end
+[10:14:34] [Server thread/INFO]: Time elapsed: 49 ms
+[10:14:34] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[10:14:34] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[10:14:34] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[10:14:34] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[10:14:34] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[10:14:34] [Server thread/INFO]: Preparing start region for dimension minecraft:build
+[10:14:34] [Server thread/INFO]: Time elapsed: 19 ms
+[10:14:34] [Server thread/INFO]: [WorldGuard] (build) TNT ignition is PERMITTED.
+[10:14:34] [Server thread/INFO]: [WorldGuard] (build) Lighters are PERMITTED.
+[10:14:34] [Server thread/INFO]: [WorldGuard] (build) Lava fire is PERMITTED.
+[10:14:34] [Server thread/INFO]: [WorldGuard] (build) Fire spread is UNRESTRICTED.
+[10:14:34] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'build'
+[10:14:34] [Server thread/INFO]: Preparing start region for dimension minecraft:world_nether
+[10:14:34] [Server thread/INFO]: Time elapsed: 66 ms
+[10:14:34] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[10:14:34] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[10:14:34] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[10:14:34] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[10:14:34] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[10:14:35] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: multiverse-core [5.3.4]
+[10:14:35] [Server thread/INFO]: [Multiverse-Core] API service loaded!
+[10:14:35] [Server thread/INFO]: [Multiverse-Core] Version 5.3.4 (API v5.3) Enabled - By dumptruckman, Rigby, fernferret, lithium3141, main--, benwoo1110 and Zax71
+[10:14:35] [Server thread/INFO]: [Multiverse-Core] Loving Multiverse-Core? Please consider supporting the project with a small donation: https://github.com/sponsors/Multiverse
+[10:14:35] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v16.18.5
+[10:14:35] [Server thread/INFO]: [GriefPrevention] Finished loading configuration.
+[10:14:35] [Server thread/INFO]: [GriefPrevention] 0 total claims loaded.
+[10:14:35] [Server thread/INFO]: [GriefPrevention] Customizable messages loaded.
+[10:14:35] [Server thread/INFO]: [GriefPrevention] Successfully hooked into WorldGuard.
+[10:14:35] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
+[10:14:35] [Server thread/INFO]: [GriefPrevention] Boot finished.
+[10:14:35] [Server thread/INFO]: [DecentHolograms] Enabling DecentHolograms v2.9.9
+[10:14:35] [Server thread/INFO]: [DecentHolograms] Initialized NMS adapter for v1_20_R4 (1.20.6).
+[10:14:35] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.20.6! Trying to find NMS support
+[10:14:35] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R4' loaded!
+[10:14:35] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'DecentHolograms' to create a bStats instance!
+[10:14:35] [Server thread/INFO]: [DecentHolograms] NBT-API loaded successfully.
+[10:14:35] [Server thread/INFO]: [MythicMobs] Enabling MythicMobs v5.9.5-f13ab4a1
+[10:14:35] [Server thread/INFO]: [MythicMobs] Loading MythicMobs for Paper (MC: 1.20.6)...
+[10:14:35] [Server thread/INFO]: [MythicMobs] The server is running Paper; enabled Paper exclusive functionality
+[10:14:36] [Server thread/INFO]: [MythicMobs] Mythic GriefPrevention Support has been enabled!
+[10:14:36] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: mythic [5.0.0]
+[10:14:37] [Server thread/INFO]: [MythicMobs] Mythic PlaceholderAPI Support has been enabled!
+[10:14:37] [Server thread/INFO]: [MythicMobs] Mythic Vault Support has been enabled!
+[10:14:37] [Server thread/INFO]: [MythicMobs] Mythic WorldGuard Support has been enabled!
+[10:14:38] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[10:14:38] [Server thread/INFO]: [MythicMobs] Loading Items...
+[10:14:38] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[10:14:38] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[10:14:38] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[10:14:38] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[10:14:38] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[10:14:38] [Server thread/INFO]: [MythicMobs] âœ“ Loaded 27 mobs.
+[10:14:38] [Server thread/INFO]: [MythicMobs] âœ“ Loaded 3 vanilla mob overrides.
+[10:14:38] [Server thread/INFO]: [MythicMobs] âœ“ Loaded 0 mob stacks.
+[10:14:38] [Server thread/INFO]: [MythicMobs] âœ“ Loaded 29 skills.
+[10:14:38] [Server thread/INFO]: [MythicMobs] âœ“ Loaded 0 random spawns.
+[10:14:38] [Server thread/INFO]: [MythicMobs] âœ“ Loaded 12 mythic items.
+[10:14:38] [Server thread/INFO]: [MythicMobs] âœ“ Loaded 9 drop tables.
+[10:14:38] [Server thread/INFO]: [MythicMobs] âœ“ Loaded 0 mob spawners.
+[10:14:38] [Server thread/INFO]: [MythicMobs] MythicMobs configuration file loaded successfully.
+[10:14:38] [Server thread/INFO]: [MythicMobs] Started up bStats Metrics
+[10:14:38] [Server thread/INFO]: [MythicMobs] âœ“ MythicMobs v5.9.5 ( build f13ab4a1 ) has been successfully loaded!
+[10:14:39] [Server thread/INFO]: [MythicMobs] Model Engine Compatibility Loaded.
+[10:14:39] [Server thread/INFO]: [ModelEngine] [S] Compatibility applied: MythicMobs
+[10:14:39] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v2.22.2
+[10:14:39] [Server thread/INFO]: [Skript] Enabling Skript v2.12.2
+[10:14:40] [ForkJoinPool.commonPool-worker-1/INFO]: [Skript] A new version of Skript is available: 2.15.4 (you're currently running 2.12.2)
+[10:14:40] [ForkJoinPool.commonPool-worker-1/INFO]: Download it at: https://github.com/SkriptLang/Skript/releases/download/2.15.4/Skript-2.15.4.jar
+[10:14:41] [Server thread/INFO]: [Skript]  ~ created by & Â© Peter GÃ¼ttinger aka Njol ~
+[10:14:41] [Server thread/INFO]: [FragmentEngine] Enabling FragmentEngine v1.7.0
+[10:14:41] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: aereth [1.7.0]
+[10:14:41] [Server thread/INFO]: [FragmentEngine] PlaceholderAPI expansion registered: %aereth_...%
+[10:14:41] [Server thread/INFO]: [FragmentEngine] FragmentEngine enabled. Reality has begun remembering.
+[10:14:41] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v23.1
+[10:14:41] [ForkJoinPool.commonPool-worker-1/INFO]: [Skript] Loaded 5324 aliases in 604ms
+[10:14:41] [Server thread/INFO]: [CoreProtect] CoreProtect Community Edition has been successfully enabled! 
+[10:14:41] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[10:14:41] [Server thread/INFO]: --------------------
+[10:14:41] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Join our Discord!
+[10:14:41] [Server thread/INFO]: [CoreProtect] Discord: www.coreprotect.net/discord/
+[10:14:41] [Server thread/INFO]: --------------------
+[10:14:41] [Server thread/INFO]: [BlueMap] Enabling BlueMap v5.15
+[10:14:41] [Server thread/INFO]: [BlueMap] Saving all worlds once, to make sure the level.dat is present...
+[10:14:41] [Server thread/WARN]: A manual (plugin-induced) save has been detected while server is configured to auto-save. This may affect performance.
+[10:14:42] [BlueMap-Load/INFO]: [BlueMap] Loading...
+[10:14:42] [Server thread/INFO]: [BetonQuest] Enabling BetonQuest v2.2.1
+[10:14:42] [Server thread/INFO]: [BetonQuest] Running on JRE 21.0.7 (build 6, optional LTS, pre-release info N/A) by Eclipse Adoptium
+[10:14:43] [Server thread/INFO]: [BetonQuest] Using SQLite for storing data!
+[10:14:43] [Server thread/INFO]: [BetonQuest] Hooking into PlaceholderAPI
+[10:14:43] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: betonquest [2.2.1]
+[10:14:43] [Server thread/INFO]: [BetonQuest] Hooking into LuckPerms
+[10:14:43] [Server thread/INFO]: [BetonQuest] Hooking into Vault
+[10:14:43] [Server thread/INFO]: [BetonQuest] Hooking into WorldEdit
+[10:14:43] [Server thread/INFO]: [BetonQuest] Hooking into WorldGuard
+[10:14:43] [Server thread/INFO]: [BetonQuest] Hooking into ProtocolLib
+[10:14:43] [Server thread/INFO]: [BetonQuest] Hooking into DecentHolograms
+[10:14:43] [Server thread/INFO]: [BetonQuest] Hooking into MythicMobs
+[10:14:43] [Server thread/INFO]: [BetonQuest] Hooking into Shopkeepers
+[10:14:43] [Server thread/INFO]: [BetonQuest] Hooking into Skript
+[10:14:43] [Server thread/INFO]: [BetonQuest] Using DecentHolograms as dedicated hologram provider!
+[10:14:43] [BlueMap-Load/INFO]: [BlueMap] Loading resources...
+[10:14:43] [Server thread/INFO]: [BetonQuest] BetonQuest successfully enabled!
+[10:14:43] [Server thread/INFO]: [WorldFracture] Enabling WorldFracture v1.7.0
+[10:14:43] [Server thread/WARN]: [WorldFracture] Could not save zones.yml to plugins/WorldFracture/zones.yml because zones.yml already exists.
+[10:14:43] [Server thread/INFO]: [WorldFracture] WorldFracture enabled. The world is listening.
+[10:14:43] [Server thread/INFO]: [MiniMOTD] Enabling MiniMOTD v2.2.2
+[10:14:43] [Server thread/INFO]: [SimpleScore] Enabling SimpleScore v4.0.1
+[10:14:43] [Server thread/INFO]: [TheNewEconomy] Enabling TheNewEconomy v0.1.4.0
+[10:14:44] [BlueMap-Load/INFO]: [BlueMap] Resources loaded.
+[10:14:44] [BlueMap-Load/WARN]: [BlueMap] 
+################################
+ There is a problem with your BlueMap setup!
+
+ '/home/container/world' does not exist or is no directory!
+ Check if the 'world' setting in the config-file for that map is correct, or remove the entire config-file if you don't want that map.
+################################
+[10:14:44] [BlueMap-Load/INFO]: [BlueMap] Initializing Storage: 'file' (Type: 'bluemap:file')
+[10:14:44] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world_the_end'...
+[10:14:44] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world_nether'...
+[10:14:44] [BlueMap-Load/INFO]: [BlueMap] WebServer bound to all network interfaces on port 8100
+[10:14:44] [Thread-20/INFO]: [BlueMap] WebServer started.
+[10:14:44] [BlueMap-Load/INFO]: [BlueMap] Loaded!
+[10:14:44] [Server thread/WARN]: [TheNewEconomy] Unable to contact update server!
+[10:14:44] [Server thread/WARN]: [TheNewEconomy] Unable to contact update server!
+[10:14:44] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: tne [0.1.4.0]
+[10:14:44] [Server thread/INFO]: [TheNewEconomy] The New Economy has been enabled!
+[10:14:44] [Server thread/INFO]: [AerethCharacterCreatorCore] Enabling AerethCharacterCreatorCore v1.0.0
+[10:14:44] [Server thread/INFO]: [AerethCharacterCreatorCore] Aereth Character Creator Core enabled.
+[10:14:44] [Server thread/INFO]: [spark] Enabling spark v1.10.173
+[10:14:45] [Server thread/INFO]: [spark] Using Paper ServerTickStartEvent for tick monitoring
+[10:14:45] [Server thread/INFO]: [spark] Starting background profiler...
+[10:14:45] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: spark [1.10.173]
+[10:14:45] [Server thread/INFO]: [spark] Registered PlaceholderAPI placeholders
+[10:14:45] [Server thread/INFO]: [MythicLib] Enabling MythicLib v1.7
+[10:14:45] [Server thread/INFO]: [MythicLib] Hooked onto TextDisplays (holograms)
+[10:14:45] [Server thread/INFO]: [MythicMobs] MMO Plugin Support has been enabled!
+[10:14:45] [Server thread/INFO]: [MythicLib] Hooked onto MythicMobs
+[10:14:45] [Server thread/INFO]: [MythicLib] Hooked onto ProtocolLib
+[10:14:45] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: mythiclib [1.7]
+[10:14:45] [Server thread/INFO]: [MythicLib] Hooked onto PlaceholderAPI
+[10:14:45] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[10:14:46] [Server thread/INFO]: [BetonQuest] Hooking into MythicLib
+[10:14:46] [Server thread/INFO]: [PlayerTitles] Enabling PlayerTitles v1.2
+[10:14:46] [Server thread/INFO]: [DeluxeMenus] Enabling DeluxeMenus v1.14.1-Release
+[10:14:46] [Server thread/INFO]: [DeluxeMenus] Successfully hooked into PlaceholderAPI!
+[10:14:46] [Server thread/INFO]: [DeluxeMenus] Successfully hooked into Vault!
+[10:14:46] [Server thread/WARN]: [DeluxeMenus] Found 'data' option for item: teststone in menu: basics_menu. This option is deprecated and will be removed soon. Please use 'damage' instead.
+[10:14:46] [Server thread/INFO]: [DeluxeMenus] 3 GUI menus loaded!
+[10:14:46] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: deluxemenus [1.14.1-Release]
+[10:14:46] [Server thread/INFO]: [DeluxeMenus] You are running the latest version of DeluxeMenus!
+[10:14:46] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[10:14:46] [Server thread/INFO]: 0 placeholder hook(s) registered!
+[10:14:46] [Server thread/INFO]: Running delayed init tasks
+[10:14:46] [ForkJoinPool.commonPool-worker-1/INFO]: [ModelEngine] [A] 
+[10:14:46] [ForkJoinPool.commonPool-worker-1/INFO]: [ModelEngine] [A] [Importing models]
+[10:14:46] [ForkJoinPool.commonPool-worker-1/INFO]: [ModelEngine] [A] Loading cache version: R4.0.8
+[10:14:46] [Craft Scheduler Thread - 6 - BetonQuest/WARN]: [BetonQuest] Could not fetch version updates. Probably the host is currently not available: nexus.betonquest.org
+[10:14:46] [Craft Scheduler Thread - 2 - DecentHolograms/INFO]: 
+A newer version of DecentHolograms is available. Download it from: 
+- https://www.spigotmc.org/resources/96927/
+- https://modrinth.com/plugin/decentholograms
+[10:14:46] [Craft Scheduler Thread - 7 - SimpleScore/WARN]: [SimpleScore] New version (v4.2.0) available. Download at:
+[10:14:46] [Craft Scheduler Thread - 7 - SimpleScore/WARN]: [SimpleScore] https://modrinth.com/plugin/simplescore
+[10:14:46] [pool-19-thread-5/INFO]: [ModelEngine] [A] 
+[10:14:46] [pool-19-thread-5/INFO]: [ModelEngine] [A] Importing internal_fire.bbmodel.
+[10:14:46] [pool-19-thread-4/INFO]: [ModelEngine] [A] 
+[10:14:46] [pool-19-thread-4/INFO]: [ModelEngine] [A] Importing aereth_vireborn_preview_v2.bbmodel.
+[10:14:46] [pool-19-thread-4/WARN]: [ModelEngine] [A] --Warning: Missing hitbox.
+[10:14:46] [pool-19-thread-3/INFO]: [ModelEngine] [A] 
+[10:14:46] [pool-19-thread-3/INFO]: [ModelEngine] [A] Importing aereth_sylvae_preview_v2.bbmodel.
+[10:14:46] [pool-19-thread-3/WARN]: [ModelEngine] [A] --Warning: Missing hitbox.
+[10:14:46] [pool-19-thread-2/INFO]: [ModelEngine] [A] 
+[10:14:46] [pool-19-thread-2/INFO]: [ModelEngine] [A] Importing aereth_remnant_preview_v2.bbmodel.
+[10:14:46] [pool-19-thread-2/WARN]: [ModelEngine] [A] --Warning: Missing hitbox.
+[10:14:46] [pool-19-thread-1/INFO]: [ModelEngine] [A] 
+[10:14:46] [pool-19-thread-1/INFO]: [ModelEngine] [A] Importing aereth_delver_preview_v2.bbmodel.
+[10:14:46] [pool-19-thread-1/WARN]: [ModelEngine] [A] --Warning: Missing hitbox.
+[10:14:46] [Server thread/INFO]: [Skript] Loading variables...
+[10:14:46] [pool-19-thread-10/INFO]: [ModelEngine] [A] 
+[10:14:46] [pool-19-thread-10/INFO]: [ModelEngine] [A] Resource pack zipped.
+[10:14:46] [pool-19-thread-10/INFO]: [ModelEngine] [A] Generator Profiled:
+[10:14:46] [pool-19-thread-10/INFO]: [ModelEngine] [A]  - Import Phase: 97.0ms
+[10:14:46] [pool-19-thread-10/INFO]: [ModelEngine] [A]  - Assets Phase: 9.2ms
+[10:14:46] [pool-19-thread-10/INFO]: [ModelEngine] [A]  - Zipping Phase: 7.3ms
+[10:14:46] [Server thread/INFO]: [Skript] Loaded 0 variables in 0.0 seconds
+[10:14:46] [Server thread/INFO]: [Skript] All scripts loaded without errors.
+[10:14:46] [Server thread/INFO]: [Skript]     No scripts were found, maybe you should write some ;)
+[10:14:46] [Server thread/INFO]: [Skript] Finished loading.
+[10:14:46] [Server thread/INFO]: [CoreProtect] WorldEdit logging successfully initialized.
+[10:14:46] [Server thread/INFO]: [BetonQuest] Enabled compatibility for LuckPerms, WorldEdit, Skript, DecentHolograms, PlaceholderAPI, MythicLib, WorldGuard, ProtocolLib, Shopkeepers, MythicMobs, Vault!
+[10:14:46] [Server thread/WARN]: [BetonQuest] Objective type MemorySection[path='objectives.touch_memory', is not registered, check if it's spelled correctly in 'AerethAwakening.touch_memory' objective.
+[10:14:46] [Server thread/WARN]: [BetonQuest] Objective type MemorySection[path='objectives.observe_world', is not registered, check if it's spelled correctly in 'AerethAwakening.observe_world' objective.
+[10:14:46] [Server thread/WARN]: [BetonQuest] Error in 'AerethAwakening.remnant_awakening' conversation: NPC option fragment points to end player option, but it does not exist
+[10:14:46] [Craft Scheduler Thread - 4 - MiniMOTD/INFO]: [MiniMOTD] There is an update available for MiniMOTD!
+[10:14:46] [Craft Scheduler Thread - 4 - MiniMOTD/INFO]: [MiniMOTD] This server is running version v2.2.2, which is 2 versions outdated.
+[10:14:46] [Craft Scheduler Thread - 4 - MiniMOTD/INFO]: [MiniMOTD] Download the latest version, v2.2.4 from Modrinth at the link below:
+[10:14:46] [Craft Scheduler Thread - 4 - MiniMOTD/INFO]: [MiniMOTD] https://modrinth.com/plugin/minimotd
+[10:14:46] [Server thread/INFO]: [BetonQuest] There are 23 conditions, 71 events, 1 objectives and 0 conversations loaded from 2 packages.
+[10:14:46] [Server thread/INFO]: [BetonQuest] Â§aReloaded 0Â§a menus
+[10:14:47] [Server thread/INFO]: Done (22.265s)! For help, type "help"
+[10:14:47] [Server thread/INFO]: Timings Reset
+[10:14:47] [Server thread/INFO]: [PlaceholderAPI] An update for PlaceholderAPI (v2.12.2) is available at:
+[10:14:47] [Server thread/INFO]: [PlaceholderAPI] https://www.spigotmc.org/resources/placeholderapi.6245/
+[10:14:48] [Thread-32/INFO]: --------------------
+[10:14:48] [Thread-32/INFO]: [CoreProtect] Version 23.2 is now available.
+[10:14:48] [Thread-32/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
+[10:14:48] [Thread-32/INFO]: --------------------
+[10:15:37] [User Authenticator #0/INFO]: UUID of player SpitFire720 is 4b4818c2-6201-4cf7-9f35-035ef8fb19aa
+[10:15:38] [Folia Async Scheduler Thread Timer/INFO]: [WorldGuardRegionProtect] Checking for updates using Paper schedulers.
+[10:15:38] [Server thread/WARN]: [BetonQuest] Loaded 'core.xpRecovery' objective from the database, but it is not defined in configuration. Skipping.
+[10:15:38] [Server thread/INFO]: SpitFire720 joined the game
+[10:15:38] [Server thread/INFO]: SpitFire720[/213.22.17.64:34992] logged in with entity id 167 at ([creator_world]-5.3570065750227505, 113.37429331309657, -56.179181770955125)
+[10:15:45] [Server thread/INFO]: SpitFire720 issued server command: /playercreator reload
+[10:15:48] [Server thread/INFO]: SpitFire720 issued server command: /playercreator cleanup
+[10:15:52] [Server thread/INFO]: SpitFire720 issued server command: /playercreator reset
+[10:15:55] [Server thread/INFO]: SpitFire720 issued server command: /playercreator enter
+[10:16:09] [Server thread/INFO]: SpitFire720 issued server command: /gamemode 1
+[10:16:10] [Server thread/INFO]: SpitFire720 issued server command: /gamemode creative
+[10:16:10] [Server thread/INFO]: [SpitFire720: Set own game mode to Creative Mode]
+[10:24:44] [Server thread/INFO]: SpitFire720 lost connection: Disconnected
+[10:24:44] [Server thread/INFO]: SpitFire720 left the game
+[12:43:21] [Server thread/INFO]: Stopping the server
+[12:43:21] [Server thread/INFO]: Stopping server
+[12:43:21] [Server thread/INFO]: [DeluxeMenus] Disabling DeluxeMenus v1.14.1-Release
+[12:43:21] [Server thread/INFO]: [PlayerTitles] Disabling PlayerTitles v1.2
+[12:43:21] [Server thread/INFO]: [MythicLib] Disabling MythicLib v1.7
+[12:43:21] [Server thread/INFO]: [spark] Disabling spark v1.10.173
+[12:43:21] [Server thread/INFO]: [AerethCharacterCreatorCore] Disabling AerethCharacterCreatorCore v1.0.0
+[12:43:21] [Server thread/INFO]: [TheNewEconomy] Disabling TheNewEconomy v0.1.4.0
+[12:43:21] [Server thread/INFO]: [SimpleScore] Disabling SimpleScore v4.0.1
+[12:43:21] [Server thread/INFO]: [ModelEngine] Disabling ModelEngine vR4.0.9
+[12:43:21] [Server thread/INFO]: [MiniMOTD] Disabling MiniMOTD v2.2.2
+[12:43:21] [Server thread/INFO]: [WorldFracture] Disabling WorldFracture v1.7.0
+[12:43:21] [Server thread/INFO]: [WorldFracture] WorldFracture disabled. Zone memory saved.
+[12:43:21] [Server thread/INFO]: [BetonQuest] Disabling BetonQuest v2.2.1
+[12:43:21] [Server thread/INFO]: [BetonQuest] BetonQuest successfully disabled!
+[12:43:21] [Server thread/INFO]: [BlueMap] Disabling BlueMap v5.15
+[12:43:21] [Server thread/INFO]: [BlueMap] Stopping...
+[12:43:21] [Server thread/INFO]: [BlueMap] Saved and stopped!
+[12:43:21] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v23.1
+[12:43:21] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[12:43:21] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v23.1
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Disabling WorldGuardRegionProtect v1.10.11.21
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Saving all configuration files before the plugin shuts down...
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: CONFIG_VERSION = 5
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: LANG = en_US
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: SEND_NO_UPDATE = true
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: UPDATE_CHECKER = true
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: INTERACT_TYPE = [player, bat, armor_stand, end_crystal, bucket, water_bucket, lava_bucket, tropical_fish_bucket, pufferfish_bucket, axolotl_bucket, cod_bucket, salmon_bucket, tadpole_bucket, item_frame, glow_item_frame, painting]
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: VEHICLE_TYPE = [minecart, tnt_minecart, command_block_minecart, hopper_minecart, chest_minecart, furnace_minecart, oak_boat, oak_chest_boat, spruce_boat, spruce_chest_boat, birch_boat, birch_chest_boat, jungle_boat, jungle_chest_boat, acacia_boat, acacia_chest_boat, dark_oak_boat, dark_oak_chest_boat, mangrove_boat, mangrove_chest_boat, cherry_boat, cherry_chest_boat, bamboo_raft, bamboo_chest_raft]
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: ANIMAL_TYPE = [axolotl, villager, donkey, parrot, allay, trader_llama, horse, polar_bear, ocelot, cat, frog, cow, fox, mushroom_cow, zombie_horse, panda, bee, skeleton_horse, pig, llama, goat, wolf, chicken, sniffer, sheep, rabbit, turtle, wandering_trader, mule, tadpole, camel, snowman, iron_golem]
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: MONSTER_TYPE = [vindicator, guardian, creeper, vex, hoglin, cave_spider, evoker, elder_guardian, husk, wither, enderman, spider, skeleton, piglin, wither_skeleton, giant, zombie_villager, endermite, warden, ravager, zombified_piglin, silverfish, phantom, stray, drowned, blaze, illusioner, piglin_brute, zombie, shulker, witch, pillager, zoglin, breeze, bogged, creaking]
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: ENEMY_ENTITY_TYPE = [ender_dragon, magma_cube, slime, ghast]
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: MISC_ENTITY_TYPE = [egg, ender_pearl, experience_orb, snowball]
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: WATER_MOB_TYPE = [squid, dolphin, glow_squid, cod, tropical_fish, salmon, pufferfish]
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: SIGN_TYPE = [oak_sign, spruce_sign, birch_sign, jungle_sign, acacia_sign, dark_oak_sign, mangrove_sign, cherry_sign, bamboo_sign, crimson_sign, warped_sign, oak_hanging_sign, spruce_hanging_sign, birch_hanging_sign, jungle_hanging_sign, acacia_hanging_sign, dark_oak_hanging_sign, mangrove_hanging_sign, cherry_hanging_sign, bamboo_hanging_sign, crimson_hanging_sign, warped_hanging_sign]
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: ENTITY_EXPLODE_TYPE = [fireball, primed_tnt, end_crystal, minecart_tnt, wither_skull]
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: NATURAL_BLOCK_OR_ITEM = [oak_sapling, spruce_sapling, birch_sapling, jungle_sapling, dark_oak_sapling, mangrove_propagule, dead_bush, fern, azalea, flowering_azalea, dandelion, poppy, blue_orchid, allium, azure_bluet, red_tulip, orange_tulip, white_tulip, pink_tulip, oxeye_daisy, cornflower, lily_of_the_valley, bamboo, sugar_cane, cactus, wither_rose, crimson_roots, warped_roots, cherry_sapling, torchflower]
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_COLLISION_WITH_VEHICLE = true
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_SIT_AS_PASSENGER_IN_VEHICLE = true
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_DAMAGE_VEHICLE = true
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_TAKE_LECTERN_BOOK = true
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_MANIPULATE_WITH_FLOWERPOT = true
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_LAVA_FLOW_TO_REGION = true
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_FORM_BLOCK_FROM_LAVA_AND_WATER = true
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_USE_SUPER_PICKAXE = true
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_CREATURE_SPAWN = true
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_MOB_SPAWN_FROM_SPAWNER = true
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_MOB_NATURALLY_SPAWN = true
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_WATER_FLOW_TO_REGION = true
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_INTERACT_WITH_FLOWER_POT = true
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_PLACE_ITEM_FRAME_OR_PAINTING = true
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_INTERACT_WITH_ITEM_FRAME = true
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_DAMAGE_ITEM_FRAME_OR_PAINTING = true
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_STONECUTTER_RECIPE_SELECT = true
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_LOOM_PATTERN_SELECT = true
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: CHECK_PLAYER_IN_STANDING_REGION = false
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: CMD_WE = [//set, //replace, //overlay, //walls, //deform, //fill, //fillr, //fixlava, //hollow, //move, //stack, //smooth, //cut, //replacenear]
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: CMD_WE_C = [//cyl, //hcyl, //drain, //rep]
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: CMD_WE_P = [//pyramid, //hpyramid]
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: CMD_WE_S = [//sphere, //hsphere]
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: CMD_WE_U = [//up, /up]
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: CMD_WE_CP = [//paste, //place, //replacenear, //hollow]
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_EXPLODE_ENTITY = true
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: REGION_MESSAGE_PROTECT_BY_PLAYER = true
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: REGION_MESSAGE_PROTECT = true
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: REGION_MESSAGE_PROTECT_WE = true
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: IS_SPY_COMMAND_NOTIFY_CONSOLE_ENABLE = true
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: IS_SPY_COMMAND_NOTIFY_ADMIN_ENABLE = true
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: IS_SPY_COMMAND_NOTIFY_ADMIN_PLAY_SOUND_ENABLE = true
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: SPY_COMMAND_NOTIFY_PLAY_SOUND_TYPE = BLOCK_ANVIL_PLACE
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: SPY_COMMAND_LIST = [//set, //replace, //overlay, //walls, //deform, //fill, //fillr, //fixlava, //hollow, //move, //stack, //smooth, //cut, //replacenear]
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_ENABLE = false
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_HOST = localhost
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_PORT = 3306
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_DATABASE = wgrp_core
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_USER = null
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_PASSWORD = root
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_TABLE = null
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_MAX_POOL_SIZE = 10
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_MAX_LIFE_TIME = 1800
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_CONNECTION_TIMEOUT = 5000
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_USE_SSL = true
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_INTERVAL_RELOAD = 60
+[12:43:21] [Server thread/INFO]: [WorldGuardRegionProtect] Saved complete. Good luck and thanks for using WorldGuardRegionProtect!
+[12:43:21] [Server thread/INFO]: [FragmentEngine] Disabling FragmentEngine v1.7.0
+[12:43:21] [Server thread/INFO]: [FragmentEngine] FragmentEngine disabled. Memories persisted.
+[12:43:21] [Server thread/INFO]: [Skript] Disabling Skript v2.12.2
+[12:43:21] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v2.22.2
+[12:43:21] [Server thread/INFO]: [MythicMobs] Disabling MythicMobs v5.9.5-f13ab4a1
+[12:43:21] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
+[12:43:21] [Server thread/INFO]: [MythicMobs] - 
+[12:43:21] [Server thread/INFO]: [MythicMobs] - Unloading Mythic...
+[12:43:21] [Server thread/INFO]: [MythicMobs] - 
+[12:43:21] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
+[12:43:21] [Server thread/INFO]: [MythicMobs] - Spawners saved and unloaded...
+[12:43:21] [Server thread/INFO]: [MythicMobs] - Mobs saved and unloaded...
+[12:43:21] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[12:43:21] [Server thread/INFO]: [MythicMobs] âœ“Saving Finished
+[12:43:21] [Server thread/INFO]: [MythicMobs] - Variables saved...
+[12:43:21] [Server thread/INFO]: [MythicMobs] - All active settings have been saved!
+[12:43:21] [Server thread/INFO]: [MythicMobs] - Mythic has been unloaded!
+[12:43:21] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
+[12:43:21] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[12:43:21] [Server thread/INFO]: [MythicMobs] âœ“Saving Finished
+[12:43:21] [Server thread/INFO]: [DecentHolograms] Disabling DecentHolograms v2.9.9
+[12:43:21] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.4.0
+[12:43:21] [Server thread/INFO]: [GriefPrevention] Disabling GriefPrevention v16.18.5
+[12:43:21] [Server thread/INFO]: [GriefPrevention] GriefPrevention disabled.
+[12:43:21] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v5.3.4
+[12:43:21] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.10+d9424b1
+[12:43:21] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[12:43:21] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.9+6959-7adf70b
+[12:43:22] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[12:43:22] [Server thread/INFO]: [Vault] Disabling Vault v2.17.0
+[12:43:22] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.21
+[12:43:22] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[12:43:22] [Server thread/INFO]: [LuckPerms] Closing storage...
+[12:43:22] [Server thread/INFO]: [LuckPerms] Goodbye!
+[12:43:22] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.7
+[12:43:22] [Server thread/INFO]: Saving players
+[12:43:22] [Server thread/INFO]: Saving worlds
+[12:43:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[main]'/minecraft:overworld
+[12:43:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'main'
+[12:43:22] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'main'
+[12:43:22] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'main'
+[12:43:22] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 23 entity chunks, 0 poi chunks in world 'main' in 0.00s
+[12:43:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (main): All chunks are saved
+[12:43:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[main_nether]'/minecraft:the_nether
+[12:43:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'main_nether'
+[12:43:22] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'main_nether'
+[12:43:22] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'main_nether'
+[12:43:22] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 3 entity chunks, 0 poi chunks in world 'main_nether' in 0.00s
+[12:43:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:43:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[main_the_end]'/minecraft:the_end
+[12:43:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'main_the_end'
+[12:43:22] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'main_the_end'
+[12:43:22] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'main_the_end'
+[12:43:22] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'main_the_end' in 0.00s
+[12:43:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:43:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[creator_world]'/minecraft:creator_world
+[12:43:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'creator_world'
+[12:43:22] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'creator_world'
+[12:43:22] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'creator_world'
+[12:43:22] [Server thread/INFO]: [ChunkHolderManager] Saved 5 block chunks, 161 entity chunks, 0 poi chunks in world 'creator_world' in 0.03s
+[12:43:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (creator_world): All chunks are saved
+[12:43:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:world_the_end
+[12:43:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[12:43:22] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[12:43:22] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[12:43:22] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 5 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[12:43:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:43:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[build]'/minecraft:build
+[12:43:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'build'
+[12:43:22] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'build'
+[12:43:22] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'build'
+[12:43:22] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 7 entity chunks, 0 poi chunks in world 'build' in 0.00s
+[12:43:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (build): All chunks are saved
+[12:43:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:world_nether
+[12:43:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[12:43:22] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[12:43:22] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[12:43:22] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[12:43:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:43:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12:43:22] [Server thread/INFO]: Flushing Chunk IO
+[12:43:22] [Server thread/INFO]: Closing Thread Pool
+[12:43:22] [Server thread/INFO]: Closing Server
