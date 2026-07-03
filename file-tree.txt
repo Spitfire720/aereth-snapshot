@@ -20,6 +20,7 @@
 .trash-c8af669c\a860b6b7fcf7711398ffad96a3fbe7a2.yml
 .trash-c8af669c\bfffb62fdffdc77dc5413c43c2b81952.yml
 .trash-c8af669c\c037ef22f30f867d55f160e23f8a5f2e.yml
+.trash-c8af669c\c18426c1b6d56b92710c7ec89c55f32d.bak
 .trash-c8af669c\c35107a7dc728fd9dfaad6efa7b296aa\config.yml
 .trash-c8af669c\c35107a7dc728fd9dfaad6efa7b296aa\creator_scenes.yml
 .trash-c8af669c\c35107a7dc728fd9dfaad6efa7b296aa\player_profiles.yml
@@ -2632,6 +2633,7 @@ logs\2026-07-02-6.log.gz
 logs\2026-07-02-7.log.gz
 logs\2026-07-02-8.log.gz
 logs\2026-07-03-1.log.gz
+logs\2026-07-03-10.log.gz
 logs\2026-07-03-2.log.gz
 logs\2026-07-03-3.log.gz
 logs\2026-07-03-4.log.gz
@@ -2796,6 +2798,7 @@ plugins\BetonQuest\logs\26-07-03-10-19-1.log
 plugins\BetonQuest\logs\26-07-03-10-24-1.log
 plugins\BetonQuest\logs\26-07-03-10-46-1.log
 plugins\BetonQuest\logs\26-07-03-11-16-1.log
+plugins\BetonQuest\logs\26-07-03-11-56-1.log
 plugins\BetonQuest\logs\latest.log
 plugins\BetonQuest\logs\latest.log.lck
 plugins\BetonQuest\menuConfig.yml
@@ -2828,7 +2831,6 @@ plugins\FragmentEngine\agent\latest-status.json
 plugins\FragmentEngine\agent\manifest.yml
 plugins\FragmentEngine\agent\schema.yml
 plugins\FragmentEngine\config.yml
-plugins\FragmentEngine-1.7.0.jar.bak
 plugins\GriefPreventionData\_schemaVersion
 plugins\GriefPreventionData\bannedWords.txt
 plugins\GriefPreventionData\config.yml
