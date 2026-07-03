@@ -2634,6 +2634,8 @@ logs\2026-07-02-7.log.gz
 logs\2026-07-02-8.log.gz
 logs\2026-07-03-1.log.gz
 logs\2026-07-03-10.log.gz
+logs\2026-07-03-11.log.gz
+logs\2026-07-03-12.log.gz
 logs\2026-07-03-2.log.gz
 logs\2026-07-03-3.log.gz
 logs\2026-07-03-4.log.gz
@@ -2799,6 +2801,8 @@ plugins\BetonQuest\logs\26-07-03-10-24-1.log
 plugins\BetonQuest\logs\26-07-03-10-46-1.log
 plugins\BetonQuest\logs\26-07-03-11-16-1.log
 plugins\BetonQuest\logs\26-07-03-11-56-1.log
+plugins\BetonQuest\logs\26-07-03-12-51-1.log
+plugins\BetonQuest\logs\26-07-03-14-11-1.log
 plugins\BetonQuest\logs\latest.log
 plugins\BetonQuest\logs\latest.log.lck
 plugins\BetonQuest\menuConfig.yml
@@ -2831,6 +2835,7 @@ plugins\FragmentEngine\agent\latest-status.json
 plugins\FragmentEngine\agent\manifest.yml
 plugins\FragmentEngine\agent\schema.yml
 plugins\FragmentEngine\config.yml
+plugins\FragmentEngine\races.yml
 plugins\GriefPreventionData\_schemaVersion
 plugins\GriefPreventionData\bannedWords.txt
 plugins\GriefPreventionData\config.yml
