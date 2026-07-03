@@ -1,0 +1,18 @@
+account-folder: accounts
+character-folder: characters
+account-fields:
+  - uuid
+  - username
+  - active-slot
+  - maximum-slots
+  - slots
+character-fields:
+  - profile-id
+  - owner-uuid
+  - slot
+  - race
+  - progression
+  - stats
+  - derived
+  - fragments
+  - intent

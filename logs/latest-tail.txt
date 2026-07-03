@@ -1,124 +1,98 @@
-﻿[17:18:53] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /home/container/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
-[17:18:53] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /home/container/libraries/org/jetbrains/annotations/24.1.0/annotations-24.1.0.jar
-[17:18:53] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /home/container/libraries/net/kyori/adventure-platform-bukkit/4.3.2/adventure-platform-bukkit-4.3.2.jar
-[17:18:53] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /home/container/libraries/net/kyori/adventure-platform-api/4.3.2/adventure-platform-api-4.3.2.jar
-[17:18:53] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /home/container/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.2/adventure-text-serializer-bungeecord-4.3.2.jar
-[17:18:53] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /home/container/libraries/net/kyori/adventure-text-serializer-legacy/4.13.1/adventure-text-serializer-legacy-4.13.1.jar
-[17:18:53] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /home/container/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
-[17:18:53] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /home/container/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
-[17:18:53] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /home/container/libraries/net/kyori/adventure-platform-facet/4.3.2/adventure-platform-facet-4.3.2.jar
-[17:18:53] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /home/container/libraries/net/kyori/adventure-platform-viaversion/4.3.2/adventure-platform-viaversion-4.3.2.jar
-[17:18:53] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /home/container/libraries/net/kyori/adventure-text-minimessage/4.16.0/adventure-text-minimessage-4.16.0.jar
-[17:18:53] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /home/container/libraries/net/kyori/adventure-text-serializer-gson/4.16.0/adventure-text-serializer-gson-4.16.0.jar
-[17:18:53] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /home/container/libraries/net/kyori/adventure-text-serializer-json/4.16.0/adventure-text-serializer-json-4.16.0.jar
-[17:18:53] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /home/container/libraries/net/kyori/option/1.0.0/option-1.0.0.jar
-[17:18:53] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /home/container/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
-[17:18:54] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loading 2 libraries... please wait
-[17:18:54] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /home/container/libraries/net/kyori/adventure-text-minimessage/4.17.0/adventure-text-minimessage-4.17.0.jar
-[17:18:54] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /home/container/libraries/net/kyori/adventure-api/4.17.0/adventure-api-4.17.0.jar
-[17:18:54] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /home/container/libraries/net/kyori/adventure-key/4.17.0/adventure-key-4.17.0.jar
-[17:18:54] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /home/container/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
-[17:18:54] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /home/container/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
-[17:18:54] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /home/container/libraries/org/jetbrains/annotations/24.1.0/annotations-24.1.0.jar
-[17:18:54] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /home/container/libraries/net/kyori/adventure-platform-bukkit/4.3.2/adventure-platform-bukkit-4.3.2.jar
-[17:18:54] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /home/container/libraries/net/kyori/adventure-platform-api/4.3.2/adventure-platform-api-4.3.2.jar
-[17:18:54] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /home/container/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.2/adventure-text-serializer-bungeecord-4.3.2.jar
-[17:18:54] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /home/container/libraries/net/kyori/adventure-text-serializer-legacy/4.13.1/adventure-text-serializer-legacy-4.13.1.jar
-[17:18:54] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /home/container/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
-[17:18:54] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /home/container/libraries/net/kyori/adventure-text-serializer-gson/4.13.1/adventure-text-serializer-gson-4.13.1.jar
-[17:18:54] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /home/container/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
-[17:18:54] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /home/container/libraries/net/kyori/adventure-platform-facet/4.3.2/adventure-platform-facet-4.3.2.jar
-[17:18:54] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /home/container/libraries/net/kyori/adventure-platform-viaversion/4.3.2/adventure-platform-viaversion-4.3.2.jar
-[17:18:54] [Server thread/INFO]: [SpigotLibraryLoader] [BlueMap] Loading 1 libraries... please wait
-[17:18:54] [Server thread/INFO]: [SpigotLibraryLoader] [BlueMap] Loaded library /home/container/libraries/com/flowpowered/flow-math/1.0.3/flow-math-1.0.3.jar
-[17:18:54] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loading 3 libraries... please wait
-[17:18:54] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /home/container/libraries/net/kyori/adventure-api/4.14.0/adventure-api-4.14.0.jar
-[17:18:54] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /home/container/libraries/net/kyori/adventure-key/4.14.0/adventure-key-4.14.0.jar
-[17:18:54] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /home/container/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
-[17:18:54] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /home/container/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
-[17:18:54] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /home/container/libraries/org/jetbrains/annotations/24.0.1/annotations-24.0.1.jar
-[17:18:54] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /home/container/libraries/net/kyori/adventure-text-serializer-gson/4.14.0/adventure-text-serializer-gson-4.14.0.jar
-[17:18:54] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /home/container/libraries/net/kyori/adventure-text-serializer-json/4.14.0/adventure-text-serializer-json-4.14.0.jar
-[17:18:54] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /home/container/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
-[17:18:54] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /home/container/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.0/adventure-text-serializer-bungeecord-4.3.0.jar
-[17:18:54] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /home/container/libraries/net/kyori/adventure-text-serializer-legacy/4.13.0/adventure-text-serializer-legacy-4.13.0.jar
-[17:18:54] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.7
-[17:18:54] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.21
-[17:18:54] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[17:18:54] [Server thread/INFO]: [Vault] Loading server plugin Vault v2.17.0
-[17:18:54] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.9+6959-7adf70b
-[17:18:55] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@523b8e6b]
-[17:18:55] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.10+d9424b1
-[17:18:55] [Server thread/INFO]: [CoreLogging] Loading server plugin Multiverse-Core v5.3.4
-[17:18:55] [Server thread/INFO]: [GriefPrevention] Loading server plugin GriefPrevention v16.18.5
-[17:18:55] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.4.0
-[17:18:55] [Server thread/INFO]: [DecentHolograms] Loading server plugin DecentHolograms v2.9.9
-[17:18:55] [Server thread/INFO]: [MythicMobs] Loading server plugin MythicMobs v5.9.5-f13ab4a1
-[17:18:55] [Server thread/INFO]: [LumineUtils] (io.lumine.mythic.bukkit.utils.) is bound to plugin MythicMobs - io.lumine.mythic.bukkit.MythicBukkit
-[17:18:55] [Server thread/INFO]: [MythicMobs] Â§xÂ§fÂ§fÂ§0Â§0Â§0Â§0MÂ§xÂ§fÂ§fÂ§6Â§6Â§0Â§0yÂ§xÂ§fÂ§fÂ§cÂ§cÂ§0Â§0tÂ§xÂ§cÂ§bÂ§fÂ§fÂ§0Â§0hÂ§xÂ§6Â§5Â§fÂ§fÂ§0Â§0iÂ§xÂ§0Â§0Â§fÂ§fÂ§0Â§0cÂ§xÂ§0Â§0Â§fÂ§fÂ§6Â§6 Â§xÂ§0Â§0Â§fÂ§fÂ§cÂ§bEÂ§xÂ§0Â§0Â§cÂ§bÂ§fÂ§fnÂ§xÂ§0Â§0Â§6Â§5Â§fÂ§faÂ§xÂ§0Â§0Â§0Â§0Â§fÂ§fbÂ§xÂ§6Â§6Â§0Â§0Â§fÂ§flÂ§xÂ§cÂ§cÂ§0Â§0Â§fÂ§feÂ§xÂ§fÂ§fÂ§0Â§0Â§cÂ§cdÂ§xÂ§fÂ§fÂ§0Â§0Â§6Â§6!
-[17:18:55] [Server thread/INFO]: [Shopkeepers] Loading server plugin Shopkeepers v2.22.2
-[17:18:56] [Server thread/INFO]: [Shopkeepers] Loaded all plugin classes (798 ms).
-[17:18:56] [Server thread/INFO]: [Shopkeepers] Loading config.
-[17:18:56] [Server thread/INFO]: [Shopkeepers] Loading language file: language-en-default.yml
-[17:18:56] [Server thread/INFO]: [Shopkeepers] Registering WorldGuard flag 'allow-shop'.
-[17:18:56] [Server thread/INFO]: [Shopkeepers] Registering defaults.
-[17:18:56] [Server thread/INFO]: [Skript] Loading server plugin Skript v2.12.2
-[17:18:56] [Server thread/INFO]: [FragmentEngine] Loading server plugin FragmentEngine v1.7.0
-[17:18:56] [Server thread/INFO]: [WorldGuardRegionProtect] Loading server plugin WorldGuardRegionProtect v1.10.11.21
-[17:18:56] [Server thread/INFO]: [CoreProtect] Loading server plugin CoreProtect v23.1
-[17:18:56] [Server thread/INFO]: [BlueMap] Loading server plugin BlueMap v5.15
-[17:18:56] [Server thread/INFO]: [BetonQuest] Loading server plugin BetonQuest v2.2.1
-[17:18:56] [Server thread/INFO]: [WorldFracture] Loading server plugin WorldFracture v1.7.0
-[17:18:56] [Server thread/INFO]: [MiniMOTD] Loading server plugin MiniMOTD v2.2.2
-[17:18:56] [Server thread/INFO]: [ModelEngine] Loading server plugin ModelEngine vR4.0.9
-[17:18:56] [Server thread/INFO]: [SimpleScore] Loading server plugin SimpleScore v4.0.1
-[17:18:57] [Server thread/INFO]: [TheNewEconomy] Loading server plugin TheNewEconomy v0.1.4.0
-[17:18:57] [Server thread/INFO]: [TheNewEconomy] Loading configurations!
-[17:18:57] [Server thread/INFO]: [AerethCharacterCreatorCore] Loading server plugin AerethCharacterCreatorCore v1.0.0
-[17:18:57] [Server thread/INFO]: [spark] Loading server plugin spark v1.10.173
-[17:18:57] [Server thread/INFO]: [MythicLib] Loading server plugin MythicLib v1.7
-[17:18:57] [Server thread/INFO]: [MythicLib] Plugin file is called 'MythicLib-1.7.jar'
-[17:18:57] [Server thread/INFO]: [MythicLib] Detected Bukkit Version: v1_20_R4
-[17:18:57] [Server thread/INFO]: [MythicLib] Hooked onto WorldGuard
-[17:18:57] [Server thread/INFO]: [PlayerTitles] Loading server plugin PlayerTitles v1.2
-[17:18:57] [Server thread/INFO]: [DeluxeMenus] Loading server plugin DeluxeMenus v1.14.1-Release
-[17:18:57] [Server thread/WARN]: [DeluxeMenus] Could not setup a NMS hook for your server version! The following Item options will not work: nbt_int, nbt_ints, nbt_string and nbt_strings.
-[17:18:57] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[17:18:57] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.21
-[17:18:57] [Server thread/INFO]:         __    
-[17:18:57] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.21
-[17:18:57] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[17:18:57] [Server thread/INFO]: 
-[17:18:57] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[17:18:58] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[17:18:58] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[17:18:58] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 803ms)
-[17:18:58] [Server thread/INFO]: [Vault] Enabling Vault v2.17.0
-[17:18:58] [Server thread/INFO]: [Vault] Enabled Version 2.17.0
-[17:18:58] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[17:18:58] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.9+6959-7adf70b
-[17:18:58] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[17:18:58] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
-[17:18:58] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R4.PaperweightAdapter as the Bukkit adapter
-[17:18:59] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.4.0
-[17:18:59] [Server thread/INFO]: [WorldGuardRegionProtect] Enabling WorldGuardRegionProtect v1.10.11.21
-[17:18:59] [Server thread/INFO]: [WorldGuardRegionProtect] config file is up to date. No update required.
-[17:18:59] [Server thread/INFO]: [WorldGuardRegionProtect] lang file is up to date. No update required.
-[17:18:59] [Server thread/INFO]: [WorldGuardRegionProtect] === Loaded fully protected regions ===
-[17:18:59] [Server thread/INFO]: [WorldGuardRegionProtect]   world           : [spawn, pvp]
-[17:18:59] [Server thread/INFO]: [WorldGuardRegionProtect] === Loaded player protected regions ===
-[17:18:59] [Server thread/INFO]: [WorldGuardRegionProtect]   world           : [None]
-[17:18:59] [Server thread/INFO]: [WorldGuardRegionProtect]   another_world   : [None]
-[17:18:59] [Server thread/INFO]: [WorldGuardRegionProtect] === Loaded regions allowing interact ===
-[17:18:59] [Server thread/INFO]: [WorldGuardRegionProtect]   world           : [None]
-[17:18:59] [Server thread/INFO]: [WorldGuardRegionProtect]   another_world   : [None]
-[17:18:59] [Server thread/INFO]: [WorldGuardRegionProtect] === Loaded regions allowing only break events ===
-[17:18:59] [Server thread/INFO]: [WorldGuardRegionProtect]   world           : [None]
-[17:18:59] [Server thread/INFO]: [WorldGuardRegionProtect]   another_world   : [None]
-[17:18:59] [Server thread/INFO]: [WorldGuardRegionProtect] Messages loaded for language: en_US
-[17:18:59] [Server thread/INFO]: [WorldGuardRegionProtect] Server version supported: 1.20.6
-[17:18:59] [Server thread/INFO]: [WorldGuardRegionProtect] Supported range: 1.20 - 1.21.11
-[17:18:59] [Server thread/INFO]: [WorldGuardRegionProtect] ====================================================
+﻿[09:57:31] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /home/container/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
+[09:57:31] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /home/container/libraries/net/kyori/adventure-text-serializer-gson/4.13.1/adventure-text-serializer-gson-4.13.1.jar
+[09:57:31] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /home/container/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
+[09:57:31] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /home/container/libraries/net/kyori/adventure-platform-facet/4.3.2/adventure-platform-facet-4.3.2.jar
+[09:57:31] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /home/container/libraries/net/kyori/adventure-platform-viaversion/4.3.2/adventure-platform-viaversion-4.3.2.jar
+[09:57:31] [Server thread/INFO]: [SpigotLibraryLoader] [BlueMap] Loading 1 libraries... please wait
+[09:57:31] [Server thread/INFO]: [SpigotLibraryLoader] [BlueMap] Loaded library /home/container/libraries/com/flowpowered/flow-math/1.0.3/flow-math-1.0.3.jar
+[09:57:31] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loading 3 libraries... please wait
+[09:57:31] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /home/container/libraries/net/kyori/adventure-api/4.14.0/adventure-api-4.14.0.jar
+[09:57:31] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /home/container/libraries/net/kyori/adventure-key/4.14.0/adventure-key-4.14.0.jar
+[09:57:31] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /home/container/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[09:57:31] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /home/container/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[09:57:31] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /home/container/libraries/org/jetbrains/annotations/24.0.1/annotations-24.0.1.jar
+[09:57:31] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /home/container/libraries/net/kyori/adventure-text-serializer-gson/4.14.0/adventure-text-serializer-gson-4.14.0.jar
+[09:57:31] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /home/container/libraries/net/kyori/adventure-text-serializer-json/4.14.0/adventure-text-serializer-json-4.14.0.jar
+[09:57:31] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /home/container/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+[09:57:31] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /home/container/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.0/adventure-text-serializer-bungeecord-4.3.0.jar
+[09:57:31] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /home/container/libraries/net/kyori/adventure-text-serializer-legacy/4.13.0/adventure-text-serializer-legacy-4.13.0.jar
+[09:57:31] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.7
+[09:57:31] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.21
+[09:57:31] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[09:57:31] [Server thread/INFO]: [Vault] Loading server plugin Vault v2.17.0
+[09:57:31] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.9+6959-7adf70b
+[09:57:32] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@5061850b]
+[09:57:32] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.10+d9424b1
+[09:57:32] [Server thread/INFO]: [CoreLogging] Loading server plugin Multiverse-Core v5.3.4
+[09:57:32] [Server thread/INFO]: [GriefPrevention] Loading server plugin GriefPrevention v16.18.5
+[09:57:32] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.4.0
+[09:57:32] [Server thread/INFO]: [DecentHolograms] Loading server plugin DecentHolograms v2.9.9
+[09:57:32] [Server thread/INFO]: [MythicMobs] Loading server plugin MythicMobs v5.9.5-f13ab4a1
+[09:57:32] [Server thread/INFO]: [LumineUtils] (io.lumine.mythic.bukkit.utils.) is bound to plugin MythicMobs - io.lumine.mythic.bukkit.MythicBukkit
+[09:57:32] [Server thread/INFO]: [MythicMobs] Â§xÂ§fÂ§fÂ§0Â§0Â§0Â§0MÂ§xÂ§fÂ§fÂ§6Â§6Â§0Â§0yÂ§xÂ§fÂ§fÂ§cÂ§cÂ§0Â§0tÂ§xÂ§cÂ§bÂ§fÂ§fÂ§0Â§0hÂ§xÂ§6Â§5Â§fÂ§fÂ§0Â§0iÂ§xÂ§0Â§0Â§fÂ§fÂ§0Â§0cÂ§xÂ§0Â§0Â§fÂ§fÂ§6Â§6 Â§xÂ§0Â§0Â§fÂ§fÂ§cÂ§bEÂ§xÂ§0Â§0Â§cÂ§bÂ§fÂ§fnÂ§xÂ§0Â§0Â§6Â§5Â§fÂ§faÂ§xÂ§0Â§0Â§0Â§0Â§fÂ§fbÂ§xÂ§6Â§6Â§0Â§0Â§fÂ§flÂ§xÂ§cÂ§cÂ§0Â§0Â§fÂ§feÂ§xÂ§fÂ§fÂ§0Â§0Â§cÂ§cdÂ§xÂ§fÂ§fÂ§0Â§0Â§6Â§6!
+[09:57:32] [Server thread/INFO]: [Shopkeepers] Loading server plugin Shopkeepers v2.22.2
+[09:57:32] [Server thread/INFO]: [Shopkeepers] Loaded all plugin classes (281 ms).
+[09:57:32] [Server thread/INFO]: [Shopkeepers] Loading config.
+[09:57:32] [Server thread/INFO]: [Shopkeepers] Loading language file: language-en-default.yml
+[09:57:32] [Server thread/INFO]: [Shopkeepers] Registering WorldGuard flag 'allow-shop'.
+[09:57:32] [Server thread/INFO]: [Shopkeepers] Registering defaults.
+[09:57:32] [Server thread/INFO]: [Skript] Loading server plugin Skript v2.12.2
+[09:57:32] [Server thread/INFO]: [AerethCharacterCreatorCore] Loading server plugin AerethCharacterCreatorCore v1.0.0
+[09:57:32] [Server thread/INFO]: [BetonQuest] Loading server plugin BetonQuest v2.2.1
+[09:57:32] [Server thread/INFO]: [WorldGuardRegionProtect] Loading server plugin WorldGuardRegionProtect v1.10.11.21
+[09:57:32] [Server thread/INFO]: [CoreProtect] Loading server plugin CoreProtect v23.1
+[09:57:32] [Server thread/INFO]: [BlueMap] Loading server plugin BlueMap v5.15
+[09:57:32] [Server thread/INFO]: [FragmentEngine] Loading server plugin FragmentEngine v1.8.0
+[09:57:32] [Server thread/INFO]: [WorldFracture] Loading server plugin WorldFracture v1.7.0
+[09:57:32] [Server thread/INFO]: [MiniMOTD] Loading server plugin MiniMOTD v2.2.2
+[09:57:32] [Server thread/INFO]: [ModelEngine] Loading server plugin ModelEngine vR4.0.9
+[09:57:32] [Server thread/INFO]: [SimpleScore] Loading server plugin SimpleScore v4.0.1
+[09:57:33] [Server thread/INFO]: [TheNewEconomy] Loading server plugin TheNewEconomy v0.1.4.0
+[09:57:33] [Server thread/INFO]: [TheNewEconomy] Loading configurations!
+[09:57:34] [Server thread/INFO]: [spark] Loading server plugin spark v1.10.173
+[09:57:34] [Server thread/INFO]: [MythicLib] Loading server plugin MythicLib v1.7
+[09:57:34] [Server thread/INFO]: [MythicLib] Plugin file is called 'MythicLib-1.7.jar'
+[09:57:34] [Server thread/INFO]: [MythicLib] Detected Bukkit Version: v1_20_R4
+[09:57:34] [Server thread/INFO]: [MythicLib] Hooked onto WorldGuard
+[09:57:34] [Server thread/INFO]: [PlayerTitles] Loading server plugin PlayerTitles v1.2
+[09:57:34] [Server thread/INFO]: [DeluxeMenus] Loading server plugin DeluxeMenus v1.14.1-Release
+[09:57:34] [Server thread/WARN]: [DeluxeMenus] Could not setup a NMS hook for your server version! The following Item options will not work: nbt_int, nbt_ints, nbt_string and nbt_strings.
+[09:57:34] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[09:57:34] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.21
+[09:57:34] [Server thread/INFO]:         __    
+[09:57:34] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.21
+[09:57:34] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[09:57:34] [Server thread/INFO]: 
+[09:57:34] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[09:57:34] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[09:57:35] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[09:57:35] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1063ms)
+[09:57:35] [Server thread/INFO]: [Vault] Enabling Vault v2.17.0
+[09:57:35] [Server thread/INFO]: [Vault] Enabled Version 2.17.0
+[09:57:35] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[09:57:35] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.9+6959-7adf70b
+[09:57:35] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[09:57:35] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[09:57:35] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R4.PaperweightAdapter as the Bukkit adapter
+[09:57:36] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.4.0
+[09:57:36] [Server thread/INFO]: [WorldGuardRegionProtect] Enabling WorldGuardRegionProtect v1.10.11.21
+[09:57:36] [Server thread/INFO]: [WorldGuardRegionProtect] config file is up to date. No update required.
+[09:57:36] [Server thread/INFO]: [WorldGuardRegionProtect] lang file is up to date. No update required.
+[09:57:36] [Server thread/INFO]: [WorldGuardRegionProtect] === Loaded fully protected regions ===
+[09:57:36] [Server thread/INFO]: [WorldGuardRegionProtect]   world           : [spawn, pvp]
+[09:57:36] [Server thread/INFO]: [WorldGuardRegionProtect] === Loaded player protected regions ===
+[09:57:36] [Server thread/INFO]: [WorldGuardRegionProtect]   world           : [None]
+[09:57:36] [Server thread/INFO]: [WorldGuardRegionProtect]   another_world   : [None]
+[09:57:36] [Server thread/INFO]: [WorldGuardRegionProtect] === Loaded regions allowing interact ===
+[09:57:36] [Server thread/INFO]: [WorldGuardRegionProtect]   world           : [None]
+[09:57:36] [Server thread/INFO]: [WorldGuardRegionProtect]   another_world   : [None]
+[09:57:36] [Server thread/INFO]: [WorldGuardRegionProtect] === Loaded regions allowing only break events ===
+[09:57:36] [Server thread/INFO]: [WorldGuardRegionProtect]   world           : [None]
+[09:57:36] [Server thread/INFO]: [WorldGuardRegionProtect]   another_world   : [None]
+[09:57:36] [Server thread/INFO]: [WorldGuardRegionProtect] Messages loaded for language: en_US
+[09:57:36] [Server thread/INFO]: [WorldGuardRegionProtect] Server version supported: 1.20.6
+[09:57:36] [Server thread/INFO]: [WorldGuardRegionProtect] Supported range: 1.20 - 1.21.11
+[09:57:36] [Server thread/INFO]: [WorldGuardRegionProtect] ====================================================
 
     WorldGuardRegionProtect 1.10.11.21-release
     Server running on 1.20.6-151-a4f0f5c (MC: 1.20.6) - 1.20.6-R0.1-SNAPSHOT - Paper
@@ -128,273 +102,299 @@
 
 ====================================================
 
-[17:18:59] [Server thread/INFO]: [WorldGuardRegionProtect] Registered listener: AdminProtect
-[17:18:59] [Server thread/INFO]: [WorldGuardRegionProtect] Registered listener: BlockProtect
-[17:18:59] [Server thread/INFO]: [WorldGuardRegionProtect] Registered listener: EntityProtect
-[17:18:59] [Server thread/INFO]: [WorldGuardRegionProtect] Registered listener: HangingProtect
-[17:18:59] [Server thread/INFO]: [WorldGuardRegionProtect] Registered listener: MiscProtect
-[17:18:59] [Server thread/INFO]: [WorldGuardRegionProtect] Registered listener: PlayerProtect
-[17:18:59] [Server thread/INFO]: [WorldGuardRegionProtect] Registered listener: ToolsProtect
-[17:18:59] [Server thread/INFO]: [WorldGuardRegionProtect] Registered listener: VehicleProtect
-[17:18:59] [Server thread/INFO]: [WorldGuardRegionProtect] Finished registering listeners.
-[17:18:59] [Server thread/INFO]: [WorldGuardRegionProtect] All listeners registered successfully! List of Listeners: AdminProtect, BlockProtect, EntityProtect, HangingProtect, MiscProtect, PlayerProtect, ToolsProtect, VehicleProtect
-[17:18:59] [Server thread/INFO]: [WorldGuardRegionProtect] Registered command: CommandWGRP
-[17:18:59] [Server thread/INFO]: [WorldGuardRegionProtect] All commands registered successfully! List of available registered commands: CommandWGRP
-[17:18:59] [Server thread/INFO]: [WorldGuardRegionProtect] All tasks registered successfully! List: 
-[17:18:59] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully enabled. (took 5647ms)
-[17:18:59] [Server thread/INFO]: [ModelEngine] Enabling ModelEngine vR4.0.9
-[17:19:00] [Server thread/INFO]: [ModelEngine] [S] Loading cache version: R4.0.8
-[17:19:00] [Server thread/WARN]: [ModelEngine] [S] Unable to activate MineSkin skin generation: Empty API Key
-[17:19:00] [Server thread/INFO]: [ModelEngine] [S] Loading default skin: Steve
-[17:19:00] [Server thread/INFO]: [ModelEngine] [S] Registered default skin: Steve
-[17:19:00] [Server thread/INFO]: [ModelEngine] [S] Loading default skin: Alex
-[17:19:00] [Server thread/INFO]: [ModelEngine] [S] Registered default skin: Alex
-[17:19:00] [Server thread/INFO]: Preparing level "main"
-[17:19:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:19:01] [Server thread/INFO]: Time elapsed: 606 ms
-[17:19:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[17:19:01] [Server thread/INFO]: Time elapsed: 69 ms
-[17:19:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[17:19:01] [Server thread/INFO]: Time elapsed: 33 ms
-[17:19:01] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.7
-[17:19:01] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[17:19:01] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: vaultunlocked [2.13.1]
-[17:19:01] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.10+d9424b1
-[17:19:02] [Server thread/INFO]: [WorldGuard] (main) TNT ignition is blocked.
-[17:19:02] [Server thread/INFO]: [WorldGuard] (main) Lighters are blocked.
-[17:19:02] [Server thread/INFO]: [WorldGuard] (main) Lava fire is blocked.
-[17:19:02] [Server thread/INFO]: [WorldGuard] (main) All fire spread is disabled.
-[17:19:02] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'main'
-[17:19:02] [Server thread/INFO]: [WorldGuard] (main_nether) TNT ignition is blocked.
-[17:19:02] [Server thread/INFO]: [WorldGuard] (main_nether) Lighters are blocked.
-[17:19:02] [Server thread/INFO]: [WorldGuard] (main_nether) Lava fire is blocked.
-[17:19:02] [Server thread/INFO]: [WorldGuard] (main_nether) All fire spread is disabled.
-[17:19:02] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'main_nether'
-[17:19:02] [Server thread/INFO]: [WorldGuard] (main_the_end) TNT ignition is blocked.
-[17:19:02] [Server thread/INFO]: [WorldGuard] (main_the_end) Lighters are blocked.
-[17:19:02] [Server thread/INFO]: [WorldGuard] (main_the_end) Lava fire is blocked.
-[17:19:02] [Server thread/INFO]: [WorldGuard] (main_the_end) All fire spread is disabled.
-[17:19:02] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'main_the_end'
-[17:19:02] [Server thread/INFO]: [WorldGuard] Loading region data...
-[17:19:02] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v5.3.4
-[17:19:02] [Server thread/INFO]: Preparing start region for dimension minecraft:creator_world
-[17:19:02] [Server thread/INFO]: Time elapsed: 153 ms
-[17:19:02] [Server thread/INFO]: [WorldGuard] (creator_world) TNT ignition is blocked.
-[17:19:02] [Server thread/INFO]: [WorldGuard] (creator_world) Lighters are blocked.
-[17:19:02] [Server thread/INFO]: [WorldGuard] (creator_world) Lava fire is blocked.
-[17:19:02] [Server thread/INFO]: [WorldGuard] (creator_world) All fire spread is disabled.
-[17:19:02] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'creator_world'
-[17:19:02] [Server thread/INFO]: Preparing start region for dimension minecraft:world_the_end
-[17:19:02] [Server thread/INFO]: Time elapsed: 32 ms
-[17:19:02] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is blocked.
-[17:19:02] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are blocked.
-[17:19:02] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
-[17:19:02] [Server thread/INFO]: [WorldGuard] (world_the_end) All fire spread is disabled.
-[17:19:03] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
-[17:19:03] [Server thread/INFO]: Preparing start region for dimension minecraft:build
-[17:19:03] [Server thread/INFO]: Time elapsed: 45 ms
-[17:19:03] [Server thread/INFO]: [WorldGuard] (build) TNT ignition is blocked.
-[17:19:03] [Server thread/INFO]: [WorldGuard] (build) Lighters are blocked.
-[17:19:03] [Server thread/INFO]: [WorldGuard] (build) Lava fire is blocked.
-[17:19:03] [Server thread/INFO]: [WorldGuard] (build) All fire spread is disabled.
-[17:19:03] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'build'
-[17:19:03] [Server thread/INFO]: Preparing start region for dimension minecraft:world_nether
-[17:19:03] [Server thread/INFO]: Time elapsed: 32 ms
-[17:19:03] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is blocked.
-[17:19:03] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are blocked.
-[17:19:03] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
-[17:19:03] [Server thread/INFO]: [WorldGuard] (world_nether) All fire spread is disabled.
-[17:19:03] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
-[17:19:03] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: multiverse-core [5.3.4]
-[17:19:03] [Server thread/INFO]: [Multiverse-Core] API service loaded!
-[17:19:03] [Server thread/INFO]: [Multiverse-Core] Version 5.3.4 (API v5.3) Enabled - By dumptruckman, Rigby, fernferret, lithium3141, main--, benwoo1110 and Zax71
-[17:19:03] [Server thread/INFO]: [Multiverse-Core] Loving Multiverse-Core? Please consider supporting the project with a small donation: https://github.com/sponsors/Multiverse
-[17:19:03] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v16.18.5
-[17:19:03] [Server thread/INFO]: [GriefPrevention] Finished loading configuration.
-[17:19:03] [Server thread/INFO]: [GriefPrevention] 0 total claims loaded.
-[17:19:03] [Server thread/INFO]: [GriefPrevention] Customizable messages loaded.
-[17:19:03] [Server thread/INFO]: [GriefPrevention] Successfully hooked into WorldGuard.
-[17:19:03] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
-[17:19:03] [Server thread/INFO]: [GriefPrevention] Boot finished.
-[17:19:03] [Server thread/INFO]: [DecentHolograms] Enabling DecentHolograms v2.9.9
-[17:19:03] [Server thread/INFO]: [DecentHolograms] Initialized NMS adapter for v1_20_R4 (1.20.6).
-[17:19:04] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.20.6! Trying to find NMS support
-[17:19:04] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R4' loaded!
-[17:19:04] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'DecentHolograms' to create a bStats instance!
-[17:19:04] [Server thread/INFO]: [DecentHolograms] NBT-API loaded successfully.
-[17:19:04] [Server thread/INFO]: [MythicMobs] Enabling MythicMobs v5.9.5-f13ab4a1
-[17:19:04] [Server thread/INFO]: [MythicMobs] Loading MythicMobs for Paper (MC: 1.20.6)...
-[17:19:04] [Server thread/INFO]: [MythicMobs] The server is running Paper; enabled Paper exclusive functionality
-[17:19:05] [Server thread/INFO]: [MythicMobs] Mythic GriefPrevention Support has been enabled!
-[17:19:05] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: mythic [5.0.0]
-[17:19:05] [Server thread/INFO]: [MythicMobs] Mythic PlaceholderAPI Support has been enabled!
-[17:19:05] [Server thread/INFO]: [MythicMobs] Mythic Vault Support has been enabled!
-[17:19:05] [Server thread/INFO]: [MythicMobs] Mythic WorldGuard Support has been enabled!
-[17:19:06] [Server thread/INFO]: [MythicMobs] Loading Packs...
-[17:19:06] [Server thread/INFO]: [MythicMobs] Loading Items...
-[17:19:06] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
-[17:19:06] [Server thread/INFO]: [MythicMobs] Loading Skills...
-[17:19:07] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
-[17:19:07] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
-[17:19:07] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
-[17:19:07] [Server thread/INFO]: [MythicMobs] âœ“ Loaded 27 mobs.
-[17:19:07] [Server thread/INFO]: [MythicMobs] âœ“ Loaded 3 vanilla mob overrides.
-[17:19:07] [Server thread/INFO]: [MythicMobs] âœ“ Loaded 0 mob stacks.
-[17:19:07] [Server thread/INFO]: [MythicMobs] âœ“ Loaded 29 skills.
-[17:19:07] [Server thread/INFO]: [MythicMobs] âœ“ Loaded 0 random spawns.
-[17:19:07] [Server thread/INFO]: [MythicMobs] âœ“ Loaded 12 mythic items.
-[17:19:07] [Server thread/INFO]: [MythicMobs] âœ“ Loaded 9 drop tables.
-[17:19:07] [Server thread/INFO]: [MythicMobs] âœ“ Loaded 0 mob spawners.
-[17:19:07] [Server thread/INFO]: [MythicMobs] MythicMobs configuration file loaded successfully.
-[17:19:07] [Server thread/INFO]: [MythicMobs] Started up bStats Metrics
-[17:19:07] [Server thread/INFO]: [MythicMobs] âœ“ MythicMobs v5.9.5 ( build f13ab4a1 ) has been successfully loaded!
-[17:19:08] [Server thread/INFO]: [MythicMobs] Model Engine Compatibility Loaded.
-[17:19:08] [Server thread/INFO]: [ModelEngine] [S] Compatibility applied: MythicMobs
-[17:19:08] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v2.22.2
-[17:19:08] [Server thread/INFO]: [Skript] Enabling Skript v2.12.2
-[17:19:08] [ForkJoinPool.commonPool-worker-1/INFO]: [Skript] A new version of Skript is available: 2.15.4 (you're currently running 2.12.2)
-[17:19:08] [ForkJoinPool.commonPool-worker-1/INFO]: Download it at: <aqua><u><link:https://github.com/SkriptLang/Skript/releases/download/2.15.4/Skript-2.15.4.jar>https://github.com/SkriptLang/Skript/releases/download/2.15.4/Skript-2.15.4.jar
-[17:19:10] [Server thread/INFO]: [Skript]  ~ created by & Â© Peter GÃ¼ttinger aka Njol ~
-[17:19:10] [Server thread/INFO]: [FragmentEngine] Enabling FragmentEngine v1.7.0
-[17:19:10] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: aereth [1.7.0]
-[17:19:10] [Server thread/INFO]: [FragmentEngine] PlaceholderAPI expansion registered: %aereth_...%
-[17:19:10] [Server thread/INFO]: [FragmentEngine] FragmentEngine enabled. Reality has begun remembering.
-[17:19:10] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v23.1
-[17:19:10] [Server thread/INFO]: [CoreProtect] CoreProtect Community Edition has been successfully enabled! 
-[17:19:10] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
-[17:19:10] [Server thread/INFO]: --------------------
-[17:19:10] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Join our Discord!
-[17:19:10] [Server thread/INFO]: [CoreProtect] Discord: www.coreprotect.net/discord/
-[17:19:10] [Server thread/INFO]: --------------------
-[17:19:10] [Server thread/INFO]: [BlueMap] Enabling BlueMap v5.15
-[17:19:10] [Server thread/INFO]: [BlueMap] Saving all worlds once, to make sure the level.dat is present...
-[17:19:10] [Server thread/WARN]: A manual (plugin-induced) save has been detected while server is configured to auto-save. This may affect performance.
-[17:19:10] [ForkJoinPool.commonPool-worker-1/INFO]: [Skript] Loaded 5324 aliases in 242ms
-[17:19:10] [BlueMap-Load/INFO]: [BlueMap] Loading...
-[17:19:10] [Server thread/INFO]: [BetonQuest] Enabling BetonQuest v2.2.1
-[17:19:10] [Server thread/INFO]: [BetonQuest] Running on JRE 21.0.7 (build 6, optional LTS, pre-release info N/A) by Eclipse Adoptium
-[17:19:10] [Server thread/INFO]: [BetonQuest] Using SQLite for storing data!
-[17:19:10] [Server thread/INFO]: [BetonQuest] Hooking into PlaceholderAPI
-[17:19:10] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: betonquest [2.2.1]
-[17:19:10] [Server thread/INFO]: [BetonQuest] Hooking into LuckPerms
-[17:19:11] [Server thread/INFO]: [BetonQuest] Hooking into Vault
-[17:19:11] [Server thread/INFO]: [BetonQuest] Hooking into WorldEdit
-[17:19:11] [Server thread/INFO]: [BetonQuest] Hooking into WorldGuard
-[17:19:11] [Server thread/INFO]: [BetonQuest] Hooking into ProtocolLib
-[17:19:11] [BlueMap-Load/INFO]: [BlueMap] Loading resources...
-[17:19:11] [Server thread/INFO]: [BetonQuest] Hooking into DecentHolograms
-[17:19:11] [Server thread/INFO]: [BetonQuest] Hooking into MythicMobs
-[17:19:11] [Server thread/INFO]: [BetonQuest] Hooking into Shopkeepers
-[17:19:11] [Server thread/INFO]: [BetonQuest] Hooking into Skript
-[17:19:11] [Server thread/INFO]: [BetonQuest] Using DecentHolograms as dedicated hologram provider!
-[17:19:11] [Server thread/INFO]: [BetonQuest] BetonQuest successfully enabled!
-[17:19:11] [Server thread/INFO]: [WorldFracture] Enabling WorldFracture v1.7.0
-[17:19:11] [Server thread/WARN]: [WorldFracture] Could not save zones.yml to plugins/WorldFracture/zones.yml because zones.yml already exists.
-[17:19:11] [Server thread/INFO]: [WorldFracture] WorldFracture enabled. The world is listening.
-[17:19:11] [Server thread/INFO]: [MiniMOTD] Enabling MiniMOTD v2.2.2
-[17:19:11] [Server thread/INFO]: [SimpleScore] Enabling SimpleScore v4.0.1
-[17:19:11] [Server thread/INFO]: [TheNewEconomy] Enabling TheNewEconomy v0.1.4.0
-[17:19:12] [BlueMap-Load/INFO]: [BlueMap] Resources loaded.
-[17:19:12] [BlueMap-Load/INFO]: [BlueMap] Initializing Storage: 'file' (Type: 'bluemap:file')
-[17:19:12] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world'...
-[17:19:12] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world_the_end'...
-[17:19:12] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world_nether'...
-[17:19:12] [BlueMap-Load/INFO]: [BlueMap] WebServer bound to all network interfaces on port 8100
-[17:19:12] [Thread-20/INFO]: [BlueMap] WebServer started.
-[17:19:12] [BlueMap-Load/INFO]: [BlueMap] Loaded!
-[17:19:12] [Server thread/WARN]: [TheNewEconomy] Unable to contact update server!
-[17:19:12] [Server thread/WARN]: [TheNewEconomy] Unable to contact update server!
-[17:19:12] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: tne [0.1.4.0]
-[17:19:12] [Server thread/INFO]: [TheNewEconomy] The New Economy has been enabled!
-[17:19:12] [Server thread/INFO]: [AerethCharacterCreatorCore] Enabling AerethCharacterCreatorCore v1.0.0
-[17:19:12] [Server thread/INFO]: [AerethCharacterCreatorCore] Aereth Character Creator Core enabled.
-[17:19:12] [Server thread/INFO]: [spark] Enabling spark v1.10.173
-[17:19:12] [Server thread/INFO]: [spark] Using Paper ServerTickStartEvent for tick monitoring
-[17:19:13] [Server thread/INFO]: [spark] Starting background profiler...
-[17:19:13] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: spark [1.10.173]
-[17:19:13] [Server thread/INFO]: [spark] Registered PlaceholderAPI placeholders
-[17:19:13] [Server thread/INFO]: [MythicLib] Enabling MythicLib v1.7
-[17:19:13] [Server thread/INFO]: [MythicLib] Hooked onto TextDisplays (holograms)
-[17:19:13] [Server thread/INFO]: [MythicMobs] MMO Plugin Support has been enabled!
-[17:19:13] [Server thread/INFO]: [MythicLib] Hooked onto MythicMobs
-[17:19:13] [Server thread/INFO]: [MythicLib] Hooked onto ProtocolLib
-[17:19:13] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: mythiclib [1.7]
-[17:19:13] [Server thread/INFO]: [MythicLib] Hooked onto PlaceholderAPI
-[17:19:13] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:19:13] [Server thread/INFO]: [BetonQuest] Hooking into MythicLib
-[17:19:13] [Server thread/INFO]: [PlayerTitles] Enabling PlayerTitles v1.2
-[17:19:13] [Server thread/INFO]: [DeluxeMenus] Enabling DeluxeMenus v1.14.1-Release
-[17:19:13] [Server thread/INFO]: [DeluxeMenus] Successfully hooked into PlaceholderAPI!
-[17:19:13] [Server thread/INFO]: [DeluxeMenus] Successfully hooked into Vault!
-[17:19:14] [Server thread/WARN]: [DeluxeMenus] Found 'data' option for item: teststone in menu: basics_menu. This option is deprecated and will be removed soon. Please use 'damage' instead.
-[17:19:14] [Server thread/INFO]: [DeluxeMenus] 3 GUI menus loaded!
-[17:19:14] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: deluxemenus [1.14.1-Release]
-[17:19:14] [Server thread/INFO]: [DeluxeMenus] You are running the latest version of DeluxeMenus!
-[17:19:14] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[17:19:14] [Server thread/INFO]: 0 placeholder hook(s) registered!
-[17:19:14] [Server thread/INFO]: Running delayed init tasks
-[17:19:14] [ForkJoinPool.commonPool-worker-2/INFO]: [ModelEngine] [A] 
-[17:19:14] [ForkJoinPool.commonPool-worker-2/INFO]: [ModelEngine] [A] [Importing models]
-[17:19:14] [ForkJoinPool.commonPool-worker-2/INFO]: [ModelEngine] [A] Loading cache version: R4.0.8
-[17:19:14] [pool-19-thread-5/INFO]: [ModelEngine] [A] 
-[17:19:14] [pool-19-thread-5/INFO]: [ModelEngine] [A] Importing internal_fire.bbmodel.
-[17:19:14] [pool-19-thread-2/INFO]: [ModelEngine] [A] 
-[17:19:14] [pool-19-thread-2/INFO]: [ModelEngine] [A] Importing aereth_remnant_preview_v2.bbmodel.
-[17:19:14] [pool-19-thread-2/WARN]: [ModelEngine] [A] --Warning: Missing hitbox.
-[17:19:14] [pool-19-thread-1/INFO]: [ModelEngine] [A] 
-[17:19:14] [pool-19-thread-1/INFO]: [ModelEngine] [A] Importing aereth_delver_preview_v2.bbmodel.
-[17:19:14] [pool-19-thread-1/WARN]: [ModelEngine] [A] --Warning: Missing hitbox.
-[17:19:14] [pool-19-thread-3/INFO]: [ModelEngine] [A] 
-[17:19:14] [pool-19-thread-3/INFO]: [ModelEngine] [A] Importing aereth_sylvae_preview_v2.bbmodel.
-[17:19:14] [pool-19-thread-3/WARN]: [ModelEngine] [A] --Warning: Missing hitbox.
-[17:19:14] [pool-19-thread-4/INFO]: [ModelEngine] [A] 
-[17:19:14] [pool-19-thread-4/INFO]: [ModelEngine] [A] Importing aereth_vireborn_preview_v2.bbmodel.
-[17:19:14] [pool-19-thread-4/WARN]: [ModelEngine] [A] --Warning: Missing hitbox.
-[17:19:14] [Craft Scheduler Thread - 0 - DecentHolograms/INFO]: 
+[09:57:36] [Server thread/INFO]: [WorldGuardRegionProtect] Registered listener: AdminProtect
+[09:57:36] [Server thread/INFO]: [WorldGuardRegionProtect] Registered listener: BlockProtect
+[09:57:36] [Server thread/INFO]: [WorldGuardRegionProtect] Registered listener: EntityProtect
+[09:57:36] [Server thread/INFO]: [WorldGuardRegionProtect] Registered listener: HangingProtect
+[09:57:36] [Server thread/INFO]: [WorldGuardRegionProtect] Registered listener: MiscProtect
+[09:57:36] [Server thread/INFO]: [WorldGuardRegionProtect] Registered listener: PlayerProtect
+[09:57:36] [Server thread/INFO]: [WorldGuardRegionProtect] Registered listener: ToolsProtect
+[09:57:36] [Server thread/INFO]: [WorldGuardRegionProtect] Registered listener: VehicleProtect
+[09:57:36] [Server thread/INFO]: [WorldGuardRegionProtect] Finished registering listeners.
+[09:57:36] [Server thread/INFO]: [WorldGuardRegionProtect] All listeners registered successfully! List of Listeners: AdminProtect, BlockProtect, EntityProtect, HangingProtect, MiscProtect, PlayerProtect, ToolsProtect, VehicleProtect
+[09:57:36] [Server thread/INFO]: [WorldGuardRegionProtect] Registered command: CommandWGRP
+[09:57:36] [Server thread/INFO]: [WorldGuardRegionProtect] All commands registered successfully! List of available registered commands: CommandWGRP
+[09:57:36] [Server thread/INFO]: [WorldGuardRegionProtect] All tasks registered successfully! List: 
+[09:57:36] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully enabled. (took 5118ms)
+[09:57:36] [Server thread/INFO]: [ModelEngine] Enabling ModelEngine vR4.0.9
+[09:57:36] [Server thread/INFO]: [ModelEngine] [S] Loading cache version: R4.0.8
+[09:57:36] [Server thread/WARN]: [ModelEngine] [S] Unable to activate MineSkin skin generation: Empty API Key
+[09:57:36] [Server thread/INFO]: [ModelEngine] [S] Loading default skin: Steve
+[09:57:36] [Server thread/INFO]: [ModelEngine] [S] Registered default skin: Steve
+[09:57:36] [Server thread/INFO]: [ModelEngine] [S] Loading default skin: Alex
+[09:57:36] [ForkJoinPool.commonPool-worker-1/INFO]: [ModelEngine] [A] Registered default skin: Alex
+[09:57:36] [Server thread/INFO]: Preparing level "main"
+[09:57:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:57:37] [Server thread/INFO]: Time elapsed: 458 ms
+[09:57:37] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[09:57:37] [Server thread/INFO]: Time elapsed: 86 ms
+[09:57:37] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[09:57:37] [Server thread/INFO]: Time elapsed: 68 ms
+[09:57:37] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.7
+[09:57:37] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[09:57:37] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: vaultunlocked [2.13.1]
+[09:57:37] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.10+d9424b1
+[09:57:37] [Server thread/INFO]: [WorldGuard] (main) TNT ignition is blocked.
+[09:57:37] [Server thread/INFO]: [WorldGuard] (main) Lighters are blocked.
+[09:57:37] [Server thread/INFO]: [WorldGuard] (main) Lava fire is blocked.
+[09:57:37] [Server thread/INFO]: [WorldGuard] (main) All fire spread is disabled.
+[09:57:37] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'main'
+[09:57:37] [Server thread/INFO]: [WorldGuard] (main_nether) TNT ignition is blocked.
+[09:57:37] [Server thread/INFO]: [WorldGuard] (main_nether) Lighters are blocked.
+[09:57:37] [Server thread/INFO]: [WorldGuard] (main_nether) Lava fire is blocked.
+[09:57:37] [Server thread/INFO]: [WorldGuard] (main_nether) All fire spread is disabled.
+[09:57:37] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'main_nether'
+[09:57:37] [Server thread/INFO]: [WorldGuard] (main_the_end) TNT ignition is blocked.
+[09:57:37] [Server thread/INFO]: [WorldGuard] (main_the_end) Lighters are blocked.
+[09:57:37] [Server thread/INFO]: [WorldGuard] (main_the_end) Lava fire is blocked.
+[09:57:37] [Server thread/INFO]: [WorldGuard] (main_the_end) All fire spread is disabled.
+[09:57:37] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'main_the_end'
+[09:57:37] [Server thread/INFO]: [WorldGuard] Loading region data...
+[09:57:37] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v5.3.4
+[09:57:38] [Server thread/INFO]: Preparing start region for dimension minecraft:creator_world
+[09:57:38] [Server thread/INFO]: Time elapsed: 98 ms
+[09:57:38] [Server thread/INFO]: [WorldGuard] (creator_world) TNT ignition is blocked.
+[09:57:38] [Server thread/INFO]: [WorldGuard] (creator_world) Lighters are blocked.
+[09:57:38] [Server thread/INFO]: [WorldGuard] (creator_world) Lava fire is blocked.
+[09:57:38] [Server thread/INFO]: [WorldGuard] (creator_world) All fire spread is disabled.
+[09:57:38] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'creator_world'
+[09:57:38] [Server thread/INFO]: Preparing start region for dimension minecraft:world_the_end
+[09:57:38] [Server thread/INFO]: Time elapsed: 50 ms
+[09:57:38] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is blocked.
+[09:57:38] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are blocked.
+[09:57:38] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
+[09:57:38] [Server thread/INFO]: [WorldGuard] (world_the_end) All fire spread is disabled.
+[09:57:38] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[09:57:38] [Server thread/INFO]: Preparing start region for dimension minecraft:build
+[09:57:38] [Server thread/INFO]: Time elapsed: 67 ms
+[09:57:38] [Server thread/INFO]: [WorldGuard] (build) TNT ignition is blocked.
+[09:57:38] [Server thread/INFO]: [WorldGuard] (build) Lighters are blocked.
+[09:57:38] [Server thread/INFO]: [WorldGuard] (build) Lava fire is blocked.
+[09:57:38] [Server thread/INFO]: [WorldGuard] (build) All fire spread is disabled.
+[09:57:38] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'build'
+[09:57:38] [Server thread/INFO]: Preparing start region for dimension minecraft:world_nether
+[09:57:38] [Server thread/INFO]: Time elapsed: 32 ms
+[09:57:38] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is blocked.
+[09:57:38] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are blocked.
+[09:57:38] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
+[09:57:38] [Server thread/INFO]: [WorldGuard] (world_nether) All fire spread is disabled.
+[09:57:38] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[09:57:38] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: multiverse-core [5.3.4]
+[09:57:38] [Server thread/INFO]: [Multiverse-Core] API service loaded!
+[09:57:38] [Server thread/INFO]: [Multiverse-Core] Version 5.3.4 (API v5.3) Enabled - By dumptruckman, Rigby, fernferret, lithium3141, main--, benwoo1110 and Zax71
+[09:57:38] [Server thread/INFO]: [Multiverse-Core] Loving Multiverse-Core? Please consider supporting the project with a small donation: https://github.com/sponsors/Multiverse
+[09:57:38] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v16.18.5
+[09:57:38] [Server thread/INFO]: [GriefPrevention] Finished loading configuration.
+[09:57:38] [Server thread/INFO]: [GriefPrevention] 0 total claims loaded.
+[09:57:39] [Server thread/INFO]: [GriefPrevention] Customizable messages loaded.
+[09:57:39] [Server thread/INFO]: [GriefPrevention] Successfully hooked into WorldGuard.
+[09:57:39] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
+[09:57:39] [Server thread/INFO]: [GriefPrevention] Boot finished.
+[09:57:39] [Server thread/INFO]: [DecentHolograms] Enabling DecentHolograms v2.9.9
+[09:57:39] [Server thread/INFO]: [DecentHolograms] Initialized NMS adapter for v1_20_R4 (1.20.6).
+[09:57:39] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.20.6! Trying to find NMS support
+[09:57:39] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R4' loaded!
+[09:57:39] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'DecentHolograms' to create a bStats instance!
+[09:57:39] [Server thread/INFO]: [DecentHolograms] NBT-API loaded successfully.
+[09:57:39] [Server thread/INFO]: [MythicMobs] Enabling MythicMobs v5.9.5-f13ab4a1
+[09:57:39] [Server thread/INFO]: [MythicMobs] Loading MythicMobs for Paper (MC: 1.20.6)...
+[09:57:39] [Server thread/INFO]: [MythicMobs] The server is running Paper; enabled Paper exclusive functionality
+[09:57:40] [Server thread/INFO]: [MythicMobs] Mythic GriefPrevention Support has been enabled!
+[09:57:40] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: mythic [5.0.0]
+[09:57:40] [Server thread/INFO]: [MythicMobs] Mythic PlaceholderAPI Support has been enabled!
+[09:57:40] [Server thread/INFO]: [MythicMobs] Mythic Vault Support has been enabled!
+[09:57:40] [Server thread/INFO]: [MythicMobs] Mythic WorldGuard Support has been enabled!
+[09:57:41] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[09:57:42] [Server thread/INFO]: [MythicMobs] Loading Items...
+[09:57:42] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[09:57:42] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[09:57:42] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[09:57:42] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[09:57:42] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[09:57:42] [Server thread/INFO]: [MythicMobs] âœ“ Loaded 27 mobs.
+[09:57:42] [Server thread/INFO]: [MythicMobs] âœ“ Loaded 3 vanilla mob overrides.
+[09:57:42] [Server thread/INFO]: [MythicMobs] âœ“ Loaded 0 mob stacks.
+[09:57:42] [Server thread/INFO]: [MythicMobs] âœ“ Loaded 29 skills.
+[09:57:42] [Server thread/INFO]: [MythicMobs] âœ“ Loaded 0 random spawns.
+[09:57:42] [Server thread/INFO]: [MythicMobs] âœ“ Loaded 12 mythic items.
+[09:57:42] [Server thread/INFO]: [MythicMobs] âœ“ Loaded 9 drop tables.
+[09:57:42] [Server thread/INFO]: [MythicMobs] âœ“ Loaded 0 mob spawners.
+[09:57:42] [Server thread/INFO]: [MythicMobs] MythicMobs configuration file loaded successfully.
+[09:57:42] [Server thread/INFO]: [MythicMobs] Started up bStats Metrics
+[09:57:42] [Server thread/INFO]: [MythicMobs] âœ“ MythicMobs v5.9.5 ( build f13ab4a1 ) has been successfully loaded!
+[09:57:43] [Server thread/INFO]: [MythicMobs] Model Engine Compatibility Loaded.
+[09:57:43] [Server thread/INFO]: [ModelEngine] [S] Compatibility applied: MythicMobs
+[09:57:43] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v2.22.2
+[09:57:43] [Server thread/INFO]: [Skript] Enabling Skript v2.12.2
+[09:57:43] [ForkJoinPool.commonPool-worker-1/INFO]: [Skript] A new version of Skript is available: 2.15.4 (you're currently running 2.12.2)
+[09:57:43] [ForkJoinPool.commonPool-worker-1/INFO]: Download it at: <aqua><u><link:https://github.com/SkriptLang/Skript/releases/download/2.15.4/Skript-2.15.4.jar>https://github.com/SkriptLang/Skript/releases/download/2.15.4/Skript-2.15.4.jar
+[09:57:44] [Server thread/INFO]: [Skript]  ~ created by & Â© Peter GÃ¼ttinger aka Njol ~
+[09:57:44] [Server thread/INFO]: [AerethCharacterCreatorCore] Enabling AerethCharacterCreatorCore v1.0.0
+[09:57:44] [Server thread/INFO]: [AerethCharacterCreatorCore] Aereth Character Creator Core enabled.
+[09:57:44] [Server thread/INFO]: [BetonQuest] Enabling BetonQuest v2.2.1
+[09:57:44] [Server thread/INFO]: [BetonQuest] Running on JRE 21.0.7 (build 6, optional LTS, pre-release info N/A) by Eclipse Adoptium
+[09:57:44] [ForkJoinPool.commonPool-worker-1/INFO]: [Skript] Loaded 5324 aliases in 298ms
+[09:57:44] [Server thread/INFO]: [BetonQuest] Using SQLite for storing data!
+[09:57:45] [Server thread/INFO]: [BetonQuest] Hooking into PlaceholderAPI
+[09:57:45] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: betonquest [2.2.1]
+[09:57:45] [Server thread/INFO]: [BetonQuest] Hooking into LuckPerms
+[09:57:45] [Server thread/INFO]: [BetonQuest] Hooking into Vault
+[09:57:45] [Server thread/INFO]: [BetonQuest] Hooking into WorldEdit
+[09:57:45] [Server thread/INFO]: [BetonQuest] Hooking into WorldGuard
+[09:57:45] [Server thread/INFO]: [BetonQuest] Hooking into ProtocolLib
+[09:57:45] [Server thread/INFO]: [BetonQuest] Hooking into DecentHolograms
+[09:57:45] [Server thread/INFO]: [BetonQuest] Hooking into MythicMobs
+[09:57:45] [Server thread/INFO]: [BetonQuest] Hooking into Shopkeepers
+[09:57:45] [Server thread/INFO]: [BetonQuest] Hooking into Skript
+[09:57:45] [Server thread/INFO]: [BetonQuest] Using DecentHolograms as dedicated hologram provider!
+[09:57:45] [Server thread/INFO]: [BetonQuest] BetonQuest successfully enabled!
+[09:57:45] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v23.1
+[09:57:45] [Server thread/INFO]: [CoreProtect] CoreProtect Community Edition has been successfully enabled! 
+[09:57:45] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[09:57:45] [Server thread/INFO]: --------------------
+[09:57:45] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Join our Discord!
+[09:57:45] [Server thread/INFO]: [CoreProtect] Discord: www.coreprotect.net/discord/
+[09:57:45] [Server thread/INFO]: --------------------
+[09:57:45] [Server thread/INFO]: [BlueMap] Enabling BlueMap v5.15
+[09:57:45] [Server thread/INFO]: [BlueMap] Saving all worlds once, to make sure the level.dat is present...
+[09:57:45] [Server thread/WARN]: A manual (plugin-induced) save has been detected while server is configured to auto-save. This may affect performance.
+[09:57:45] [BlueMap-Load/INFO]: [BlueMap] Loading...
+[09:57:45] [Server thread/INFO]: [FragmentEngine] Enabling FragmentEngine v1.8.0
+[09:57:46] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: aereth [1.8.0]
+[09:57:46] [Server thread/INFO]: [FragmentEngine] PlaceholderAPI expansion registered: %aereth_...%
+[09:57:46] [Server thread/INFO]: [FragmentEngine] FragmentEngine enabled. Reality has begun remembering.
+[09:57:46] [Server thread/INFO]: [WorldFracture] Enabling WorldFracture v1.7.0
+[09:57:46] [Server thread/ERROR]: Error occurred while enabling WorldFracture v1.7.0 (Is it up to date?)
+java.lang.NoClassDefFoundError: com/spitfire/fragmentengine/api/FragmentFamily
+	at WorldFracture-1.7.0.jar/com.spitfire.worldfracture.WorldFracturePlugin.onEnable(WorldFracturePlugin.java:15) ~[WorldFracture-1.7.0.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:626) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:575) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:675) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:437) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:323) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1136) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:323) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.ClassNotFoundException: com.spitfire.fragmentengine.api.FragmentFamily
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	... 13 more
+[09:57:46] [Server thread/INFO]: [WorldFracture] Disabling WorldFracture v1.7.0
+[09:57:46] [Server thread/INFO]: [WorldFracture] WorldFracture disabled. Zone memory saved.
+[09:57:46] [Server thread/INFO]: [MiniMOTD] Enabling MiniMOTD v2.2.2
+[09:57:46] [Server thread/INFO]: [SimpleScore] Enabling SimpleScore v4.0.1
+[09:57:46] [Server thread/INFO]: [TheNewEconomy] Enabling TheNewEconomy v0.1.4.0
+[09:57:46] [BlueMap-Load/INFO]: [BlueMap] Loading resources...
+[09:57:48] [Server thread/WARN]: [TheNewEconomy] Unable to contact update server!
+[09:57:48] [BlueMap-Load/INFO]: [BlueMap] Resources loaded.
+[09:57:48] [BlueMap-Load/INFO]: [BlueMap] Initializing Storage: 'file' (Type: 'bluemap:file')
+[09:57:48] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world'...
+[09:57:48] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world_the_end'...
+[09:57:48] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world_nether'...
+[09:57:48] [Server thread/WARN]: [TheNewEconomy] Unable to contact update server!
+[09:57:48] [BlueMap-Load/INFO]: [BlueMap] WebServer bound to all network interfaces on port 8100
+[09:57:48] [Thread-20/INFO]: [BlueMap] WebServer started.
+[09:57:48] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: tne [0.1.4.0]
+[09:57:48] [BlueMap-Load/INFO]: [BlueMap] Loaded!
+[09:57:48] [Server thread/INFO]: [TheNewEconomy] The New Economy has been enabled!
+[09:57:48] [Server thread/INFO]: [spark] Enabling spark v1.10.173
+[09:57:48] [Server thread/INFO]: [spark] Using Paper ServerTickStartEvent for tick monitoring
+[09:57:48] [Server thread/INFO]: [spark] Starting background profiler...
+[09:57:49] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: spark [1.10.173]
+[09:57:49] [Server thread/INFO]: [spark] Registered PlaceholderAPI placeholders
+[09:57:49] [Server thread/INFO]: [MythicLib] Enabling MythicLib v1.7
+[09:57:49] [Server thread/INFO]: [MythicLib] Hooked onto TextDisplays (holograms)
+[09:57:49] [Server thread/INFO]: [MythicMobs] MMO Plugin Support has been enabled!
+[09:57:49] [Server thread/INFO]: [MythicLib] Hooked onto MythicMobs
+[09:57:49] [Server thread/INFO]: [MythicLib] Hooked onto ProtocolLib
+[09:57:49] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: mythiclib [1.7]
+[09:57:49] [Server thread/INFO]: [MythicLib] Hooked onto PlaceholderAPI
+[09:57:49] [Server thread/WARN]: [MythicLib] Found a dependency cycle! Please make sure that the plugins involved load with no errors.
+[09:57:49] [Server thread/WARN]: [MythicLib] Plugin dependency cycle: [WorldFracture, FragmentEngine, WorldFracture]
+[09:57:49] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[09:57:49] [Server thread/INFO]: [BetonQuest] Hooking into MythicLib
+[09:57:49] [Server thread/INFO]: [PlayerTitles] Enabling PlayerTitles v1.2
+[09:57:50] [Server thread/INFO]: [DeluxeMenus] Enabling DeluxeMenus v1.14.1-Release
+[09:57:50] [Server thread/INFO]: [DeluxeMenus] Successfully hooked into PlaceholderAPI!
+[09:57:50] [Server thread/INFO]: [DeluxeMenus] Successfully hooked into Vault!
+[09:57:50] [Server thread/WARN]: [DeluxeMenus] Found 'data' option for item: teststone in menu: basics_menu. This option is deprecated and will be removed soon. Please use 'damage' instead.
+[09:57:50] [Server thread/INFO]: [DeluxeMenus] 3 GUI menus loaded!
+[09:57:50] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: deluxemenus [1.14.1-Release]
+[09:57:50] [Server thread/INFO]: [DeluxeMenus] You are running the latest version of DeluxeMenus!
+[09:57:50] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[09:57:50] [Server thread/INFO]: Running delayed init tasks
+[09:57:50] [ForkJoinPool.commonPool-worker-1/INFO]: [ModelEngine] [A] 
+[09:57:50] [ForkJoinPool.commonPool-worker-1/INFO]: [ModelEngine] [A] [Importing models]
+[09:57:50] [ForkJoinPool.commonPool-worker-1/INFO]: [ModelEngine] [A] Loading cache version: R4.0.8
+[09:57:50] [Craft Scheduler Thread - 0 - BetonQuest/WARN]: [BetonQuest] Could not fetch version updates. Probably the host is currently not available: nexus.betonquest.org
+[09:57:50] [Craft Scheduler Thread - 1 - DecentHolograms/INFO]: 
 A newer version of DecentHolograms is available. Download it from: 
 - https://www.spigotmc.org/resources/96927/
 - https://modrinth.com/plugin/decentholograms
-[17:19:14] [Server thread/INFO]: [Skript] Loading variables...
-[17:19:14] [pool-19-thread-9/INFO]: [ModelEngine] [A] 
-[17:19:14] [pool-19-thread-9/INFO]: [ModelEngine] [A] Resource pack zipped.
-[17:19:14] [Craft Scheduler Thread - 6 - BetonQuest/WARN]: [BetonQuest] Could not fetch version updates. Probably the host is currently not available: nexus.betonquest.org
-[17:19:14] [pool-19-thread-9/INFO]: [ModelEngine] [A] Generator Profiled:
-[17:19:14] [pool-19-thread-9/INFO]: [ModelEngine] [A]  - Import Phase: 88.0ms
-[17:19:14] [pool-19-thread-9/INFO]: [ModelEngine] [A]  - Assets Phase: 8.6ms
-[17:19:14] [pool-19-thread-9/INFO]: [ModelEngine] [A]  - Zipping Phase: 7.3ms
-[17:19:14] [Server thread/INFO]: [Skript] Loaded 0 variables in 0.0 seconds
-[17:19:14] [Server thread/INFO]: [Skript] All scripts loaded without errors.
-[17:19:14] [Server thread/INFO]: [Skript]     No scripts were found, maybe you should write some ;)
-[17:19:14] [Server thread/INFO]: [Skript] Finished loading.
-[17:19:14] [Server thread/INFO]: [CoreProtect] WorldEdit logging successfully initialized.
-[17:19:14] [Server thread/INFO]: [BetonQuest] Enabled compatibility for LuckPerms, WorldEdit, Skript, DecentHolograms, PlaceholderAPI, MythicLib, WorldGuard, ProtocolLib, Shopkeepers, MythicMobs, Vault!
-[17:19:14] [Craft Scheduler Thread - 1 - SimpleScore/WARN]: [SimpleScore] New version (v4.2.0) available. Download at:
-[17:19:14] [Craft Scheduler Thread - 1 - SimpleScore/WARN]: [SimpleScore] https://modrinth.com/plugin/simplescore
-[17:19:14] [Server thread/WARN]: [BetonQuest] Objective type MemorySection[path='objectives.touch_memory', is not registered, check if it's spelled correctly in 'AerethAwakening.touch_memory' objective.
-[17:19:14] [Server thread/WARN]: [BetonQuest] Objective type MemorySection[path='objectives.observe_world', is not registered, check if it's spelled correctly in 'AerethAwakening.observe_world' objective.
-[17:19:14] [Server thread/WARN]: [BetonQuest] Error in 'AerethAwakening.remnant_awakening' conversation: NPC option fragment points to end player option, but it does not exist
-[17:19:14] [Server thread/INFO]: [BetonQuest] There are 23 conditions, 71 events, 1 objectives and 0 conversations loaded from 2 packages.
-[17:19:14] [Server thread/INFO]: [BetonQuest] Â§aReloaded 0Â§a menus
-[17:19:14] [Craft Scheduler Thread - 7 - MiniMOTD/INFO]: [MiniMOTD] There is an update available for MiniMOTD!
-[17:19:14] [Craft Scheduler Thread - 7 - MiniMOTD/INFO]: [MiniMOTD] This server is running version v2.2.2, which is 2 versions outdated.
-[17:19:14] [Craft Scheduler Thread - 7 - MiniMOTD/INFO]: [MiniMOTD] Download the latest version, v2.2.4 from Modrinth at the link below:
-[17:19:14] [Craft Scheduler Thread - 7 - MiniMOTD/INFO]: [MiniMOTD] https://modrinth.com/plugin/minimotd
-[17:19:14] [Server thread/INFO]: Done (22.990s)! For help, type "help"
-[17:19:14] [Server thread/INFO]: Timings Reset
-[17:19:14] [Server thread/INFO]: [PlaceholderAPI] An update for PlaceholderAPI (v2.12.2) is available at:
-[17:19:14] [Server thread/INFO]: [PlaceholderAPI] https://www.spigotmc.org/resources/placeholderapi.6245/
-[17:19:15] [Thread-34/INFO]: --------------------
-[17:19:15] [Thread-34/INFO]: [CoreProtect] Version 23.2 is now available.
-[17:19:15] [Thread-34/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
-[17:19:15] [Thread-34/INFO]: --------------------
-[17:19:16] [Server thread/INFO]: SpitFire720 (IP hidden) lost connection: Disconnected
-[17:19:31] [User Authenticator #0/INFO]: UUID of player SpitFire720 is 4b4818c2-6201-4cf7-9f35-035ef8fb19aa
-[17:19:31] [Folia Async Scheduler Thread Timer/INFO]: [WorldGuardRegionProtect] Checking for updates using Paper schedulers.
-[17:19:32] [Server thread/WARN]: [BetonQuest] Loaded 'core.xpRecovery' objective from the database, but it is not defined in configuration. Skipping.
-[17:19:32] [Server thread/INFO]: SpitFire720 joined the game
-[17:19:32] [Server thread/INFO]: SpitFire720[IP hidden] logged in with entity id 111 at ([creator_world]40.647214708974246, 132.62199098942585, 318.14665790122234)
-[17:19:38] [Server thread/INFO]: SpitFire720 issued server command: /plugins
-[17:19:46] [Server thread/INFO]: SpitFire720 issued server command: /playercreator worlds
-[17:19:49] [Server thread/INFO]: SpitFire720 issued server command: /playercreator debug
-[17:20:37] [Server thread/INFO]: SpitFire720 lost connection: Disconnected
-[17:20:37] [Server thread/INFO]: SpitFire720 left the game
+[09:57:50] [pool-20-thread-5/INFO]: [ModelEngine] [A] 
+[09:57:50] [pool-20-thread-5/INFO]: [ModelEngine] [A] Importing internal_fire.bbmodel.
+[09:57:50] [pool-20-thread-1/INFO]: [ModelEngine] [A] 
+[09:57:50] [pool-20-thread-1/INFO]: [ModelEngine] [A] Importing aereth_delver_preview_v2.bbmodel.
+[09:57:50] [pool-20-thread-1/WARN]: [ModelEngine] [A] --Warning: Missing hitbox.
+[09:57:50] [pool-20-thread-4/INFO]: [ModelEngine] [A] 
+[09:57:50] [pool-20-thread-4/INFO]: [ModelEngine] [A] Importing aereth_vireborn_preview_v2.bbmodel.
+[09:57:50] [pool-20-thread-4/WARN]: [ModelEngine] [A] --Warning: Missing hitbox.
+[09:57:50] [pool-20-thread-2/INFO]: [ModelEngine] [A] 
+[09:57:50] [pool-20-thread-2/INFO]: [ModelEngine] [A] Importing aereth_remnant_preview_v2.bbmodel.
+[09:57:50] [pool-20-thread-2/WARN]: [ModelEngine] [A] --Warning: Missing hitbox.
+[09:57:50] [pool-20-thread-3/INFO]: [ModelEngine] [A] 
+[09:57:50] [pool-20-thread-3/INFO]: [ModelEngine] [A] Importing aereth_sylvae_preview_v2.bbmodel.
+[09:57:50] [pool-20-thread-3/WARN]: [ModelEngine] [A] --Warning: Missing hitbox.
+[09:57:50] [Server thread/INFO]: [Skript] Loading variables...
+[09:57:51] [pool-20-thread-9/INFO]: [ModelEngine] [A] 
+[09:57:51] [pool-20-thread-9/INFO]: [ModelEngine] [A] Resource pack zipped.
+[09:57:51] [pool-20-thread-9/INFO]: [ModelEngine] [A] Generator Profiled:
+[09:57:51] [pool-20-thread-9/INFO]: [ModelEngine] [A]  - Import Phase: 97.1ms
+[09:57:51] [pool-20-thread-9/INFO]: [ModelEngine] [A]  - Assets Phase: 10.7ms
+[09:57:51] [pool-20-thread-9/INFO]: [ModelEngine] [A]  - Zipping Phase: 77.2ms
+[09:57:51] [Server thread/INFO]: [Skript] Loaded 0 variables in 0.0 seconds
+[09:57:51] [Server thread/INFO]: [Skript] All scripts loaded without errors.
+[09:57:51] [Server thread/INFO]: [Skript]     No scripts were found, maybe you should write some ;)
+[09:57:51] [Server thread/INFO]: [Skript] Finished loading.
+[09:57:51] [Server thread/INFO]: [BetonQuest] Enabled compatibility for LuckPerms, WorldEdit, Skript, DecentHolograms, PlaceholderAPI, MythicLib, WorldGuard, ProtocolLib, Shopkeepers, MythicMobs, Vault!
+[09:57:51] [Craft Scheduler Thread - 4 - SimpleScore/WARN]: [SimpleScore] New version (v4.2.0) available. Download at:
+[09:57:51] [Craft Scheduler Thread - 4 - SimpleScore/WARN]: [SimpleScore] https://modrinth.com/plugin/simplescore
+[09:57:51] [Server thread/WARN]: [BetonQuest] Objective type MemorySection[path='objectives.touch_memory', is not registered, check if it's spelled correctly in 'AerethAwakening.touch_memory' objective.
+[09:57:51] [Server thread/WARN]: [BetonQuest] Objective type MemorySection[path='objectives.observe_world', is not registered, check if it's spelled correctly in 'AerethAwakening.observe_world' objective.
+[09:57:51] [Server thread/WARN]: [BetonQuest] Error in 'AerethAwakening.remnant_awakening' conversation: NPC option fragment points to end player option, but it does not exist
+[09:57:51] [Server thread/INFO]: [BetonQuest] There are 23 conditions, 71 events, 1 objectives and 0 conversations loaded from 2 packages.
+[09:57:51] [Server thread/INFO]: [BetonQuest] Â§aReloaded 0Â§a menus
+[09:57:51] [Server thread/INFO]: [CoreProtect] WorldEdit logging successfully initialized.
+[09:57:51] [Server thread/INFO]: Done (22.156s)! For help, type "help"
+[09:57:51] [Server thread/INFO]: Timings Reset
+[09:57:51] [Server thread/INFO]: [PlaceholderAPI] An update for PlaceholderAPI (v2.12.2) is available at:
+[09:57:51] [Server thread/INFO]: [PlaceholderAPI] https://www.spigotmc.org/resources/placeholderapi.6245/
+[09:57:51] [Server thread/INFO]: 0 placeholder hook(s) registered!
+[09:57:51] [Craft Scheduler Thread - 7 - MiniMOTD/INFO]: [MiniMOTD] There is an update available for MiniMOTD!
+[09:57:51] [Craft Scheduler Thread - 7 - MiniMOTD/INFO]: [MiniMOTD] This server is running version v2.2.2, which is 2 versions outdated.
+[09:57:51] [Craft Scheduler Thread - 7 - MiniMOTD/INFO]: [MiniMOTD] Download the latest version, v2.2.4 from Modrinth at the link below:
+[09:57:51] [Craft Scheduler Thread - 7 - MiniMOTD/INFO]: [MiniMOTD] https://modrinth.com/plugin/minimotd
+[09:57:52] [Thread-34/INFO]: --------------------
+[09:57:52] [Thread-34/INFO]: [CoreProtect] Version 23.2 is now available.
+[09:57:52] [Thread-34/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
+[09:57:52] [Thread-34/INFO]: --------------------
+[09:58:17] [User Authenticator #0/INFO]: UUID of player SpitFire720 is 4b4818c2-6201-4cf7-9f35-035ef8fb19aa
+[09:58:17] [Folia Async Scheduler Thread Timer/INFO]: [WorldGuardRegionProtect] Checking for updates using Paper schedulers.
+[09:58:17] [Server thread/WARN]: [BetonQuest] Loaded 'core.xpRecovery' objective from the database, but it is not defined in configuration. Skipping.
+[09:58:18] [Server thread/INFO]: SpitFire720 joined the game
+[09:58:18] [Server thread/INFO]: SpitFire720[IP hidden] logged in with entity id 111 at ([creator_world]40.647214708974246, 132.62199098942585, 318.14665790122234)
+[09:58:28] [Server thread/INFO]: SpitFire720 issued server command: /plugins
+[09:58:55] [Server thread/INFO]: SpitFire720 issued server command: /aereth status
+[09:59:02] [Server thread/INFO]: SpitFire720 issued server command: /aereth profile SpitFire720
+[09:59:05] [Server thread/INFO]: SpitFire720 issued server command: /aereth character SpitFire720
+[09:59:08] [Server thread/INFO]: SpitFire720 issued server command: /aereth addxp SpitFire720 5000
+[09:59:12] [Server thread/INFO]: SpitFire720 issued server command: /aereth character SpitFire720
+[09:59:16] [Server thread/INFO]: SpitFire720 issued server command: /aereth agent export
+[09:59:19] [Server thread/INFO]: SpitFire720 issued server command: /papi parse me %aereth_level%
+[09:59:23] [Server thread/INFO]: SpitFire720 issued server command: /papi parse me %aereth_xp_required%
+[09:59:27] [Server thread/INFO]: SpitFire720 issued server command: /papi parse me %aereth_race%

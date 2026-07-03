@@ -1,0 +1,8 @@
+{
+  "status": "ok",
+  "notes": [
+    "Build 1 data backend active",
+    "Combat execution not implemented in Build 1",
+    "Legacy BetonQuest /aereth commands are shimmed"
+  ]
+}

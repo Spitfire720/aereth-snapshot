@@ -1,0 +1,7 @@
+plugin: FragmentEngine
+version: "1.8.0"
+schema-version: 1
+exports:
+  - schema.yml
+  - latest-status.json
+  - latest-diagnostics.json
