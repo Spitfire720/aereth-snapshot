@@ -12,10 +12,12 @@
 .trash-c8af669c\6a2fb29d476e0db0f14515ce85229ce7\world.conf
 .trash-c8af669c\6a2fb29d476e0db0f14515ce85229ce7\world_nether.conf
 .trash-c8af669c\6a2fb29d476e0db0f14515ce85229ce7\world_the_end.conf
+.trash-c8af669c\70de7067fb2d7dbb59836e61fad6d8c8.yml
 .trash-c8af669c\99fd610449fbb06a9b0d9da91c4a332e.yml
 .trash-c8af669c\9a19c54a8e44a203efe911b3f26d3d98.yml
 .trash-c8af669c\a04ce049c10939cd16c7dd0e2332653f.yml
 .trash-c8af669c\a85cda05b4c9ede1291de4fc2879f0ec.yml
+.trash-c8af669c\a860b6b7fcf7711398ffad96a3fbe7a2.yml
 .trash-c8af669c\bfffb62fdffdc77dc5413c43c2b81952.yml
 .trash-c8af669c\c037ef22f30f867d55f160e23f8a5f2e.yml
 .trash-c8af669c\c35107a7dc728fd9dfaad6efa7b296aa\config.yml
@@ -2636,6 +2638,7 @@ logs\2026-07-03-4.log.gz
 logs\2026-07-03-5.log.gz
 logs\2026-07-03-6.log.gz
 logs\2026-07-03-7.log.gz
+logs\2026-07-03-8.log.gz
 logs\latest-tail.txt
 main\datapacks\bukkit\pack.mcmeta
 main\entities\r.0.0.mca
@@ -2789,6 +2792,7 @@ plugins\BetonQuest\logs\26-07-03-09-57-1.log
 plugins\BetonQuest\logs\26-07-03-10-11-1.log
 plugins\BetonQuest\logs\26-07-03-10-19-1.log
 plugins\BetonQuest\logs\26-07-03-10-24-1.log
+plugins\BetonQuest\logs\26-07-03-10-46-1.log
 plugins\BetonQuest\logs\latest.log
 plugins\BetonQuest\logs\latest.log.lck
 plugins\BetonQuest\menuConfig.yml
