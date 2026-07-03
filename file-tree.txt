@@ -2636,6 +2636,7 @@ logs\2026-07-03-1.log.gz
 logs\2026-07-03-10.log.gz
 logs\2026-07-03-11.log.gz
 logs\2026-07-03-12.log.gz
+logs\2026-07-03-13.log.gz
 logs\2026-07-03-2.log.gz
 logs\2026-07-03-3.log.gz
 logs\2026-07-03-4.log.gz
@@ -2803,6 +2804,7 @@ plugins\BetonQuest\logs\26-07-03-11-16-1.log
 plugins\BetonQuest\logs\26-07-03-11-56-1.log
 plugins\BetonQuest\logs\26-07-03-12-51-1.log
 plugins\BetonQuest\logs\26-07-03-14-11-1.log
+plugins\BetonQuest\logs\26-07-03-14-13-1.log
 plugins\BetonQuest\logs\latest.log
 plugins\BetonQuest\logs\latest.log.lck
 plugins\BetonQuest\menuConfig.yml
