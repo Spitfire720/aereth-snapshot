@@ -1,4 +1,5 @@
 ﻿AerethCharacterCreatorCore-1.0.0.jar
+AerethCreatorFragmentBridge-1.0.0.jar
 BetonQuest.jar
 bluemap-5.15-paper.jar
 CoreProtect-CE-23.1.jar

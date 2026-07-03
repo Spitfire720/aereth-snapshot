@@ -2639,6 +2639,7 @@ logs\2026-07-03-5.log.gz
 logs\2026-07-03-6.log.gz
 logs\2026-07-03-7.log.gz
 logs\2026-07-03-8.log.gz
+logs\2026-07-03-9.log.gz
 logs\latest-tail.txt
 main\datapacks\bukkit\pack.mcmeta
 main\entities\r.0.0.mca
@@ -2738,6 +2739,7 @@ plugins\AerethCharacterCreatorCore\config.yml
 plugins\AerethCharacterCreatorCore\creator_scenes.yml
 plugins\AerethCharacterCreatorCore\player_profiles.yml
 plugins\AerethCharacterCreatorCore\races.yml
+plugins\AerethCreatorFragmentBridge\config.yml
 plugins\BetonQuest\config.yml
 plugins\BetonQuest\logs\25-12-17-01-10-1.log
 plugins\BetonQuest\logs\25-12-17-01-56-1.log
@@ -2793,6 +2795,7 @@ plugins\BetonQuest\logs\26-07-03-10-11-1.log
 plugins\BetonQuest\logs\26-07-03-10-19-1.log
 plugins\BetonQuest\logs\26-07-03-10-24-1.log
 plugins\BetonQuest\logs\26-07-03-10-46-1.log
+plugins\BetonQuest\logs\26-07-03-11-16-1.log
 plugins\BetonQuest\logs\latest.log
 plugins\BetonQuest\logs\latest.log.lck
 plugins\BetonQuest\menuConfig.yml
