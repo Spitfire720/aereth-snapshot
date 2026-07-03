@@ -29,9 +29,7 @@
 banned-ips.json
 banned-players.json
 bluemap\logs\debug.log
-bluemap\logs\debug.log.lck
 bluemap\logs\webserver.log
-bluemap\logs\webserver.log.lck
 bluemap\pluginState.json
 bluemap\web\assets\favicon-DEN7TZ5X.png
 bluemap\web\assets\index-BgiqB2rB.css
@@ -2806,7 +2804,6 @@ plugins\BetonQuest\logs\26-07-03-12-51-1.log
 plugins\BetonQuest\logs\26-07-03-14-11-1.log
 plugins\BetonQuest\logs\26-07-03-14-13-1.log
 plugins\BetonQuest\logs\latest.log
-plugins\BetonQuest\logs\latest.log.lck
 plugins\BetonQuest\menuConfig.yml
 plugins\BetonQuest\messages.yml
 plugins\BetonQuest\QuestPackages\AerethAwakening\conversations.yml

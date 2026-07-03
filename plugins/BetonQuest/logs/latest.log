@@ -348,3 +348,11 @@
 [26.07.03 14:37:37 FINE]: [BetonQuest] (Schedules) Found 0 missed schedule runs that will be caught up.
 [26.07.03 14:37:37 FINE]: [BetonQuest] (Schedules) Realtime scheduler start complete.
 [26.07.03 14:37:37 INFO]: [BetonQuest] §aReloaded 0§a menus
+[26.07.03 18:22:05 FINE]: [BetonQuest] (Schedules) Stopping schedulers...
+[26.07.03 18:22:05 FINE]: [BetonQuest] (Schedules) Stopping realtimedaily scheduler.
+[26.07.03 18:22:05 FINE]: [BetonQuest] (Schedules) Successfully shut down executor service.
+[26.07.03 18:22:05 FINE]: [BetonQuest] (Schedules) Stop complete.
+[26.07.03 18:22:05 FINE]: [BetonQuest] (Schedules) Stopping realtimecron scheduler.
+[26.07.03 18:22:05 FINE]: [BetonQuest] (Schedules) Successfully shut down executor service.
+[26.07.03 18:22:05 FINE]: [BetonQuest] (Schedules) Stop complete.
+[26.07.03 18:22:05 INFO]: [BetonQuest] BetonQuest successfully disabled!

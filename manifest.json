@@ -1,12 +1,12 @@
 ﻿{
     "project":  "Aereth",
-    "generated_at_local":  "2026-07-03T21:38:10",
-    "generated_at_utc":  "2026-07-03T20:38:10Z",
+    "generated_at_local":  "2026-07-03T23:25:58",
+    "generated_at_utc":  "2026-07-03T22:25:58Z",
     "godlike_remote":  "godlike:",
     "server_root":  ".",
     "public_base_url":  "https://aereth-snapshot-gateway.aereth.workers.dev",
     "snapshot_prefix":  "aereth-1e766ea2214b876ed44ec889cc404cc5/latest",
-    "file_count":  3165,
+    "file_count":  3162,
     "important_urls":  {
                            "manifest":  "https://aereth-snapshot-gateway.aereth.workers.dev/aereth-1e766ea2214b876ed44ec889cc404cc5/latest/manifest.json",
                            "file_tree":  "https://aereth-snapshot-gateway.aereth.workers.dev/aereth-1e766ea2214b876ed44ec889cc404cc5/latest/file-tree.txt",

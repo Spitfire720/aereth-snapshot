@@ -1,172 +1,4 @@
-﻿[14:37:17] [Server thread/INFO]: Generating keypair
-[14:37:17] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:26441
-[14:37:17] [Server thread/INFO]: Using epoll channel type
-[14:37:17] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[14:37:17] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
-[14:37:17] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Ambiguous plugin name 'FragmentEngine' for files 'plugins/.paper-remapped/FragmentEngine-1.9.0.jar' and 'plugins/.paper-remapped/FragmentEngine-1.10.0.jar' in 'plugins/.paper-remapped'
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loading 4 libraries... please wait
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /home/container/libraries/net/kyori/adventure-api/4.16.0/adventure-api-4.16.0.jar
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /home/container/libraries/net/kyori/adventure-key/4.16.0/adventure-key-4.16.0.jar
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /home/container/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /home/container/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /home/container/libraries/org/jetbrains/annotations/24.1.0/annotations-24.1.0.jar
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /home/container/libraries/net/kyori/adventure-platform-bukkit/4.3.2/adventure-platform-bukkit-4.3.2.jar
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /home/container/libraries/net/kyori/adventure-platform-api/4.3.2/adventure-platform-api-4.3.2.jar
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /home/container/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.2/adventure-text-serializer-bungeecord-4.3.2.jar
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /home/container/libraries/net/kyori/adventure-text-serializer-legacy/4.13.1/adventure-text-serializer-legacy-4.13.1.jar
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /home/container/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /home/container/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /home/container/libraries/net/kyori/adventure-platform-facet/4.3.2/adventure-platform-facet-4.3.2.jar
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /home/container/libraries/net/kyori/adventure-platform-viaversion/4.3.2/adventure-platform-viaversion-4.3.2.jar
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /home/container/libraries/net/kyori/adventure-text-minimessage/4.16.0/adventure-text-minimessage-4.16.0.jar
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /home/container/libraries/net/kyori/adventure-text-serializer-gson/4.16.0/adventure-text-serializer-gson-4.16.0.jar
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /home/container/libraries/net/kyori/adventure-text-serializer-json/4.16.0/adventure-text-serializer-json-4.16.0.jar
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /home/container/libraries/net/kyori/option/1.0.0/option-1.0.0.jar
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /home/container/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loading 2 libraries... please wait
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /home/container/libraries/net/kyori/adventure-text-minimessage/4.17.0/adventure-text-minimessage-4.17.0.jar
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /home/container/libraries/net/kyori/adventure-api/4.17.0/adventure-api-4.17.0.jar
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /home/container/libraries/net/kyori/adventure-key/4.17.0/adventure-key-4.17.0.jar
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /home/container/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /home/container/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /home/container/libraries/org/jetbrains/annotations/24.1.0/annotations-24.1.0.jar
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /home/container/libraries/net/kyori/adventure-platform-bukkit/4.3.2/adventure-platform-bukkit-4.3.2.jar
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /home/container/libraries/net/kyori/adventure-platform-api/4.3.2/adventure-platform-api-4.3.2.jar
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /home/container/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.2/adventure-text-serializer-bungeecord-4.3.2.jar
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /home/container/libraries/net/kyori/adventure-text-serializer-legacy/4.13.1/adventure-text-serializer-legacy-4.13.1.jar
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /home/container/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /home/container/libraries/net/kyori/adventure-text-serializer-gson/4.13.1/adventure-text-serializer-gson-4.13.1.jar
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /home/container/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /home/container/libraries/net/kyori/adventure-platform-facet/4.3.2/adventure-platform-facet-4.3.2.jar
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [WorldGuardRegionProtect] Loaded library /home/container/libraries/net/kyori/adventure-platform-viaversion/4.3.2/adventure-platform-viaversion-4.3.2.jar
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [BlueMap] Loading 1 libraries... please wait
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [BlueMap] Loaded library /home/container/libraries/com/flowpowered/flow-math/1.0.3/flow-math-1.0.3.jar
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loading 3 libraries... please wait
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /home/container/libraries/net/kyori/adventure-api/4.14.0/adventure-api-4.14.0.jar
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /home/container/libraries/net/kyori/adventure-key/4.14.0/adventure-key-4.14.0.jar
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /home/container/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /home/container/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /home/container/libraries/org/jetbrains/annotations/24.0.1/annotations-24.0.1.jar
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /home/container/libraries/net/kyori/adventure-text-serializer-gson/4.14.0/adventure-text-serializer-gson-4.14.0.jar
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /home/container/libraries/net/kyori/adventure-text-serializer-json/4.14.0/adventure-text-serializer-json-4.14.0.jar
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /home/container/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /home/container/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.0/adventure-text-serializer-bungeecord-4.3.0.jar
-[14:37:18] [Server thread/INFO]: [SpigotLibraryLoader] [ModelEngine] Loaded library /home/container/libraries/net/kyori/adventure-text-serializer-legacy/4.13.0/adventure-text-serializer-legacy-4.13.0.jar
-[14:37:19] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.7
-[14:37:19] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.21
-[14:37:19] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[14:37:19] [Server thread/INFO]: [Vault] Loading server plugin Vault v2.17.0
-[14:37:19] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.9+6959-7adf70b
-[14:37:20] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@5141ae29]
-[14:37:20] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.10+d9424b1
-[14:37:20] [Server thread/INFO]: [CoreLogging] Loading server plugin Multiverse-Core v5.3.4
-[14:37:20] [Server thread/INFO]: [GriefPrevention] Loading server plugin GriefPrevention v16.18.5
-[14:37:20] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.4.0
-[14:37:20] [Server thread/INFO]: [DecentHolograms] Loading server plugin DecentHolograms v2.9.9
-[14:37:20] [Server thread/INFO]: [MythicMobs] Loading server plugin MythicMobs v5.9.5-f13ab4a1
-[14:37:20] [Server thread/INFO]: [LumineUtils] (io.lumine.mythic.bukkit.utils.) is bound to plugin MythicMobs - io.lumine.mythic.bukkit.MythicBukkit
-[14:37:20] [Server thread/INFO]: [MythicMobs] Â§xÂ§fÂ§fÂ§0Â§0Â§0Â§0MÂ§xÂ§fÂ§fÂ§6Â§6Â§0Â§0yÂ§xÂ§fÂ§fÂ§cÂ§cÂ§0Â§0tÂ§xÂ§cÂ§bÂ§fÂ§fÂ§0Â§0hÂ§xÂ§6Â§5Â§fÂ§fÂ§0Â§0iÂ§xÂ§0Â§0Â§fÂ§fÂ§0Â§0cÂ§xÂ§0Â§0Â§fÂ§fÂ§6Â§6 Â§xÂ§0Â§0Â§fÂ§fÂ§cÂ§bEÂ§xÂ§0Â§0Â§cÂ§bÂ§fÂ§fnÂ§xÂ§0Â§0Â§6Â§5Â§fÂ§faÂ§xÂ§0Â§0Â§0Â§0Â§fÂ§fbÂ§xÂ§6Â§6Â§0Â§0Â§fÂ§flÂ§xÂ§cÂ§cÂ§0Â§0Â§fÂ§feÂ§xÂ§fÂ§fÂ§0Â§0Â§cÂ§cdÂ§xÂ§fÂ§fÂ§0Â§0Â§6Â§6!
-[14:37:20] [Server thread/INFO]: [Shopkeepers] Loading server plugin Shopkeepers v2.22.2
-[14:37:20] [Server thread/INFO]: [Shopkeepers] Loaded all plugin classes (342 ms).
-[14:37:20] [Server thread/INFO]: [Shopkeepers] Loading config.
-[14:37:20] [Server thread/INFO]: [Shopkeepers] Loading language file: language-en-default.yml
-[14:37:20] [Server thread/INFO]: [Shopkeepers] Registering WorldGuard flag 'allow-shop'.
-[14:37:20] [Server thread/INFO]: [Shopkeepers] Registering defaults.
-[14:37:20] [Server thread/INFO]: [Skript] Loading server plugin Skript v2.12.2
-[14:37:20] [Server thread/INFO]: [AerethCharacterCreatorCore] Loading server plugin AerethCharacterCreatorCore v1.0.0
-[14:37:20] [Server thread/INFO]: [BetonQuest] Loading server plugin BetonQuest v2.2.1
-[14:37:20] [Server thread/INFO]: [FragmentEngine] Loading server plugin FragmentEngine v1.9.0
-[14:37:20] [Server thread/INFO]: [WorldGuardRegionProtect] Loading server plugin WorldGuardRegionProtect v1.10.11.21
-[14:37:20] [Server thread/INFO]: [CoreProtect] Loading server plugin CoreProtect v23.1
-[14:37:20] [Server thread/INFO]: [BlueMap] Loading server plugin BlueMap v5.15
-[14:37:20] [Server thread/INFO]: [WorldFracture] Loading server plugin WorldFracture v1.7.0
-[14:37:20] [Server thread/INFO]: [MiniMOTD] Loading server plugin MiniMOTD v2.2.2
-[14:37:20] [Server thread/INFO]: [ModelEngine] Loading server plugin ModelEngine vR4.0.9
-[14:37:20] [Server thread/INFO]: [SimpleScore] Loading server plugin SimpleScore v4.0.1
-[14:37:21] [Server thread/INFO]: [TheNewEconomy] Loading server plugin TheNewEconomy v0.1.4.0
-[14:37:21] [Server thread/INFO]: [TheNewEconomy] Loading configurations!
-[14:37:21] [Server thread/INFO]: [spark] Loading server plugin spark v1.10.173
-[14:37:21] [Server thread/INFO]: [MythicLib] Loading server plugin MythicLib v1.7
-[14:37:21] [Server thread/INFO]: [MythicLib] Plugin file is called 'MythicLib-1.7.jar'
-[14:37:21] [Server thread/INFO]: [MythicLib] Detected Bukkit Version: v1_20_R4
-[14:37:21] [Server thread/INFO]: [MythicLib] Hooked onto WorldGuard
-[14:37:21] [Server thread/INFO]: [PlayerTitles] Loading server plugin PlayerTitles v1.2
-[14:37:21] [Server thread/INFO]: [DeluxeMenus] Loading server plugin DeluxeMenus v1.14.1-Release
-[14:37:21] [Server thread/WARN]: [DeluxeMenus] Could not setup a NMS hook for your server version! The following Item options will not work: nbt_int, nbt_ints, nbt_string and nbt_strings.
-[14:37:21] [Server thread/INFO]: [AerethCreatorFragmentBridge] Loading server plugin AerethCreatorFragmentBridge v1.0.1
-[14:37:21] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[14:37:21] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.21
-[14:37:21] [Server thread/INFO]:         __    
-[14:37:21] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.21
-[14:37:21] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[14:37:21] [Server thread/INFO]: 
-[14:37:21] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[14:37:21] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[14:37:21] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[14:37:22] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 631ms)
-[14:37:22] [Server thread/INFO]: [Vault] Enabling Vault v2.17.0
-[14:37:22] [Server thread/INFO]: [Vault] Enabled Version 2.17.0
-[14:37:22] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[14:37:22] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.9+6959-7adf70b
-[14:37:22] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[14:37:22] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
-[14:37:22] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R4.PaperweightAdapter as the Bukkit adapter
-[14:37:22] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.4.0
-[14:37:22] [Server thread/INFO]: [WorldGuardRegionProtect] Enabling WorldGuardRegionProtect v1.10.11.21
-[14:37:22] [Server thread/INFO]: [WorldGuardRegionProtect] config file is up to date. No update required.
-[14:37:22] [Server thread/INFO]: [WorldGuardRegionProtect] lang file is up to date. No update required.
-[14:37:22] [Server thread/INFO]: [WorldGuardRegionProtect] === Loaded fully protected regions ===
-[14:37:22] [Server thread/INFO]: [WorldGuardRegionProtect]   world           : [spawn, pvp]
-[14:37:22] [Server thread/INFO]: [WorldGuardRegionProtect] === Loaded player protected regions ===
-[14:37:22] [Server thread/INFO]: [WorldGuardRegionProtect]   world           : [None]
-[14:37:22] [Server thread/INFO]: [WorldGuardRegionProtect]   another_world   : [None]
-[14:37:22] [Server thread/INFO]: [WorldGuardRegionProtect] === Loaded regions allowing interact ===
-[14:37:22] [Server thread/INFO]: [WorldGuardRegionProtect]   world           : [None]
-[14:37:22] [Server thread/INFO]: [WorldGuardRegionProtect]   another_world   : [None]
-[14:37:22] [Server thread/INFO]: [WorldGuardRegionProtect] === Loaded regions allowing only break events ===
-[14:37:22] [Server thread/INFO]: [WorldGuardRegionProtect]   world           : [None]
-[14:37:22] [Server thread/INFO]: [WorldGuardRegionProtect]   another_world   : [None]
-[14:37:22] [Server thread/INFO]: [WorldGuardRegionProtect] Messages loaded for language: en_US
-[14:37:22] [Server thread/INFO]: [WorldGuardRegionProtect] Server version supported: 1.20.6
-[14:37:22] [Server thread/INFO]: [WorldGuardRegionProtect] Supported range: 1.20 - 1.21.11
-[14:37:22] [Server thread/INFO]: [WorldGuardRegionProtect] ====================================================
-
-    WorldGuardRegionProtect 1.10.11.21-release
-    Server running on 1.20.6-151-a4f0f5c (MC: 1.20.6) - 1.20.6-R0.1-SNAPSHOT - Paper
-
-    Platform compatibility check passed.
-    Your setup is optimal for plugin performance and support.
-
-====================================================
-
-[14:37:22] [Server thread/INFO]: [WorldGuardRegionProtect] Registered listener: AdminProtect
-[14:37:22] [Server thread/INFO]: [WorldGuardRegionProtect] Registered listener: BlockProtect
-[14:37:22] [Server thread/INFO]: [WorldGuardRegionProtect] Registered listener: EntityProtect
-[14:37:22] [Server thread/INFO]: [WorldGuardRegionProtect] Registered listener: HangingProtect
-[14:37:22] [Server thread/INFO]: [WorldGuardRegionProtect] Registered listener: MiscProtect
-[14:37:22] [Server thread/INFO]: [WorldGuardRegionProtect] Registered listener: PlayerProtect
-[14:37:22] [Server thread/INFO]: [WorldGuardRegionProtect] Registered listener: ToolsProtect
-[14:37:22] [Server thread/INFO]: [WorldGuardRegionProtect] Registered listener: VehicleProtect
-[14:37:22] [Server thread/INFO]: [WorldGuardRegionProtect] Finished registering listeners.
-[14:37:22] [Server thread/INFO]: [WorldGuardRegionProtect] All listeners registered successfully! List of Listeners: AdminProtect, BlockProtect, EntityProtect, HangingProtect, MiscProtect, PlayerProtect, ToolsProtect, VehicleProtect
-[14:37:22] [Server thread/INFO]: [WorldGuardRegionProtect] Registered command: CommandWGRP
-[14:37:22] [Server thread/INFO]: [WorldGuardRegionProtect] All commands registered successfully! List of available registered commands: CommandWGRP
-[14:37:22] [Server thread/INFO]: [WorldGuardRegionProtect] All tasks registered successfully! List: 
-[14:37:22] [Server thread/INFO]: [WorldGuardRegionProtect] Successfully enabled. (took 4367ms)
-[14:37:22] [Server thread/INFO]: [ModelEngine] Enabling ModelEngine vR4.0.9
-[14:37:23] [Server thread/INFO]: [ModelEngine] [S] Loading cache version: R4.0.8
-[14:37:23] [Server thread/WARN]: [ModelEngine] [S] Unable to activate MineSkin skin generation: Empty API Key
-[14:37:23] [Server thread/INFO]: [ModelEngine] [S] Loading default skin: Steve
-[14:37:23] [Server thread/INFO]: [ModelEngine] [S] Loading default skin: Alex
-[14:37:23] [ForkJoinPool.commonPool-worker-1/INFO]: [ModelEngine] [A] Registered default skin: Steve
-[14:37:23] [ForkJoinPool.commonPool-worker-2/INFO]: [ModelEngine] [A] Registered default skin: Alex
-[14:37:23] [Server thread/INFO]: Preparing level "main"
-[14:37:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:37:24] [Server thread/INFO]: Time elapsed: 518 ms
-[14:37:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[14:37:24] [Server thread/INFO]: Time elapsed: 45 ms
-[14:37:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[14:37:24] [Server thread/INFO]: Time elapsed: 53 ms
+﻿[14:37:24] [Server thread/INFO]: Time elapsed: 53 ms
 [14:37:24] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.7
 [14:37:24] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
 [14:37:24] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: vaultunlocked [2.13.1]
@@ -398,3 +230,171 @@ A newer version of DecentHolograms is available. Download it from:
 [14:37:38] [Thread-34/INFO]: [CoreProtect] Version 23.2 is now available.
 [14:37:38] [Thread-34/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
 [14:37:38] [Thread-34/INFO]: --------------------
+[18:22:03] [Server thread/INFO]: Stopping the server
+[18:22:03] [Server thread/INFO]: Stopping server
+[18:22:03] [Server thread/INFO]: [AerethCreatorFragmentBridge] Disabling AerethCreatorFragmentBridge v1.0.1
+[18:22:03] [Server thread/INFO]: [DeluxeMenus] Disabling DeluxeMenus v1.14.1-Release
+[18:22:03] [Server thread/INFO]: [PlayerTitles] Disabling PlayerTitles v1.2
+[18:22:03] [Server thread/INFO]: [MythicLib] Disabling MythicLib v1.7
+[18:22:03] [Server thread/INFO]: [spark] Disabling spark v1.10.173
+[18:22:03] [Server thread/INFO]: [TheNewEconomy] Disabling TheNewEconomy v0.1.4.0
+[18:22:03] [Server thread/INFO]: [SimpleScore] Disabling SimpleScore v4.0.1
+[18:22:03] [Server thread/INFO]: [ModelEngine] Disabling ModelEngine vR4.0.9
+[18:22:03] [Server thread/INFO]: [MiniMOTD] Disabling MiniMOTD v2.2.2
+[18:22:03] [Server thread/INFO]: [WorldFracture] Disabling WorldFracture v1.7.0
+[18:22:03] [Server thread/INFO]: [WorldFracture] WorldFracture disabled. Zone memory saved.
+[18:22:03] [Server thread/INFO]: [BlueMap] Disabling BlueMap v5.15
+[18:22:03] [Server thread/INFO]: [BlueMap] Stopping...
+[18:22:04] [Server thread/INFO]: [BlueMap] Saved and stopped!
+[18:22:04] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v23.1
+[18:22:04] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[18:22:05] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v23.1
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Disabling WorldGuardRegionProtect v1.10.11.21
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Saving all configuration files before the plugin shuts down...
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: CONFIG_VERSION = 5
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: LANG = en_US
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: SEND_NO_UPDATE = true
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: UPDATE_CHECKER = true
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: INTERACT_TYPE = [player, bat, armor_stand, end_crystal, bucket, water_bucket, lava_bucket, tropical_fish_bucket, pufferfish_bucket, axolotl_bucket, cod_bucket, salmon_bucket, tadpole_bucket, item_frame, glow_item_frame, painting]
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: VEHICLE_TYPE = [minecart, tnt_minecart, command_block_minecart, hopper_minecart, chest_minecart, furnace_minecart, oak_boat, oak_chest_boat, spruce_boat, spruce_chest_boat, birch_boat, birch_chest_boat, jungle_boat, jungle_chest_boat, acacia_boat, acacia_chest_boat, dark_oak_boat, dark_oak_chest_boat, mangrove_boat, mangrove_chest_boat, cherry_boat, cherry_chest_boat, bamboo_raft, bamboo_chest_raft]
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: ANIMAL_TYPE = [axolotl, villager, donkey, parrot, allay, trader_llama, horse, polar_bear, ocelot, cat, frog, cow, fox, mushroom_cow, zombie_horse, panda, bee, skeleton_horse, pig, llama, goat, wolf, chicken, sniffer, sheep, rabbit, turtle, wandering_trader, mule, tadpole, camel, snowman, iron_golem]
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: MONSTER_TYPE = [vindicator, guardian, creeper, vex, hoglin, cave_spider, evoker, elder_guardian, husk, wither, enderman, spider, skeleton, piglin, wither_skeleton, giant, zombie_villager, endermite, warden, ravager, zombified_piglin, silverfish, phantom, stray, drowned, blaze, illusioner, piglin_brute, zombie, shulker, witch, pillager, zoglin, breeze, bogged, creaking]
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: ENEMY_ENTITY_TYPE = [ender_dragon, magma_cube, slime, ghast]
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: MISC_ENTITY_TYPE = [egg, ender_pearl, experience_orb, snowball]
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: WATER_MOB_TYPE = [squid, dolphin, glow_squid, cod, tropical_fish, salmon, pufferfish]
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: SIGN_TYPE = [oak_sign, spruce_sign, birch_sign, jungle_sign, acacia_sign, dark_oak_sign, mangrove_sign, cherry_sign, bamboo_sign, crimson_sign, warped_sign, oak_hanging_sign, spruce_hanging_sign, birch_hanging_sign, jungle_hanging_sign, acacia_hanging_sign, dark_oak_hanging_sign, mangrove_hanging_sign, cherry_hanging_sign, bamboo_hanging_sign, crimson_hanging_sign, warped_hanging_sign]
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: ENTITY_EXPLODE_TYPE = [fireball, primed_tnt, end_crystal, minecart_tnt, wither_skull]
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: NATURAL_BLOCK_OR_ITEM = [oak_sapling, spruce_sapling, birch_sapling, jungle_sapling, dark_oak_sapling, mangrove_propagule, dead_bush, fern, azalea, flowering_azalea, dandelion, poppy, blue_orchid, allium, azure_bluet, red_tulip, orange_tulip, white_tulip, pink_tulip, oxeye_daisy, cornflower, lily_of_the_valley, bamboo, sugar_cane, cactus, wither_rose, crimson_roots, warped_roots, cherry_sapling, torchflower]
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_COLLISION_WITH_VEHICLE = true
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_SIT_AS_PASSENGER_IN_VEHICLE = true
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_DAMAGE_VEHICLE = true
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_TAKE_LECTERN_BOOK = true
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_MANIPULATE_WITH_FLOWERPOT = true
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_LAVA_FLOW_TO_REGION = true
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_FORM_BLOCK_FROM_LAVA_AND_WATER = true
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_USE_SUPER_PICKAXE = true
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_CREATURE_SPAWN = true
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_MOB_SPAWN_FROM_SPAWNER = true
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_MOB_NATURALLY_SPAWN = true
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_WATER_FLOW_TO_REGION = true
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_INTERACT_WITH_FLOWER_POT = true
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_PLACE_ITEM_FRAME_OR_PAINTING = true
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_INTERACT_WITH_ITEM_FRAME = true
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_DAMAGE_ITEM_FRAME_OR_PAINTING = true
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_STONECUTTER_RECIPE_SELECT = true
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_LOOM_PATTERN_SELECT = true
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: CHECK_PLAYER_IN_STANDING_REGION = false
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: CMD_WE = [//set, //replace, //overlay, //walls, //deform, //fill, //fillr, //fixlava, //hollow, //move, //stack, //smooth, //cut, //replacenear]
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: CMD_WE_C = [//cyl, //hcyl, //drain, //rep]
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: CMD_WE_P = [//pyramid, //hpyramid]
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: CMD_WE_S = [//sphere, //hsphere]
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: CMD_WE_U = [//up, /up]
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: CMD_WE_CP = [//paste, //place, //replacenear, //hollow]
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_EXPLODE_ENTITY = true
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: REGION_MESSAGE_PROTECT_BY_PLAYER = true
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: REGION_MESSAGE_PROTECT = true
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: REGION_MESSAGE_PROTECT_WE = true
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: IS_SPY_COMMAND_NOTIFY_CONSOLE_ENABLE = true
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: IS_SPY_COMMAND_NOTIFY_ADMIN_ENABLE = true
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: IS_SPY_COMMAND_NOTIFY_ADMIN_PLAY_SOUND_ENABLE = true
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: SPY_COMMAND_NOTIFY_PLAY_SOUND_TYPE = BLOCK_ANVIL_PLACE
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: SPY_COMMAND_LIST = [//set, //replace, //overlay, //walls, //deform, //fill, //fillr, //fixlava, //hollow, //move, //stack, //smooth, //cut, //replacenear]
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_ENABLE = false
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_HOST = localhost
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_PORT = 3306
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_DATABASE = wgrp_core
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_USER = null
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_PASSWORD = root
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_TABLE = null
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_MAX_POOL_SIZE = 10
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_MAX_LIFE_TIME = 1800
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_CONNECTION_TIMEOUT = 5000
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_USE_SSL = true
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_INTERVAL_RELOAD = 60
+[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Saved complete. Good luck and thanks for using WorldGuardRegionProtect!
+[18:22:05] [Server thread/INFO]: [FragmentEngine] Disabling FragmentEngine v1.9.0
+[18:22:05] [Server thread/INFO]: [FragmentEngine] FragmentEngine disabled. Memory has been sealed.
+[18:22:05] [Server thread/INFO]: [BetonQuest] Disabling BetonQuest v2.2.1
+[18:22:05] [Server thread/INFO]: [BetonQuest] BetonQuest successfully disabled!
+[18:22:05] [Server thread/INFO]: [AerethCharacterCreatorCore] Disabling AerethCharacterCreatorCore v1.0.0
+[18:22:05] [Server thread/INFO]: [Skript] Disabling Skript v2.12.2
+[18:22:05] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v2.22.2
+[18:22:05] [Server thread/INFO]: [MythicMobs] Disabling MythicMobs v5.9.5-f13ab4a1
+[18:22:05] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
+[18:22:05] [Server thread/INFO]: [MythicMobs] - 
+[18:22:05] [Server thread/INFO]: [MythicMobs] - Unloading Mythic...
+[18:22:05] [Server thread/INFO]: [MythicMobs] - 
+[18:22:05] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
+[18:22:05] [Server thread/INFO]: [MythicMobs] - Spawners saved and unloaded...
+[18:22:05] [Server thread/INFO]: [MythicMobs] - Mobs saved and unloaded...
+[18:22:05] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[18:22:05] [Server thread/INFO]: [MythicMobs] âœ“Saving Finished
+[18:22:05] [Server thread/INFO]: [MythicMobs] - Variables saved...
+[18:22:05] [Server thread/INFO]: [MythicMobs] - All active settings have been saved!
+[18:22:05] [Server thread/INFO]: [MythicMobs] - Mythic has been unloaded!
+[18:22:05] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
+[18:22:05] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[18:22:05] [Server thread/INFO]: [MythicMobs] âœ“Saving Finished
+[18:22:05] [Server thread/INFO]: [DecentHolograms] Disabling DecentHolograms v2.9.9
+[18:22:05] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.4.0
+[18:22:05] [Server thread/INFO]: [GriefPrevention] Disabling GriefPrevention v16.18.5
+[18:22:05] [Server thread/INFO]: [GriefPrevention] GriefPrevention disabled.
+[18:22:05] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v5.3.4
+[18:22:05] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.10+d9424b1
+[18:22:05] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[18:22:05] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.9+6959-7adf70b
+[18:22:05] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[18:22:05] [Server thread/INFO]: [Vault] Disabling Vault v2.17.0
+[18:22:05] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.21
+[18:22:05] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[18:22:05] [Server thread/INFO]: [LuckPerms] Closing storage...
+[18:22:05] [Server thread/INFO]: [LuckPerms] Goodbye!
+[18:22:05] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.7
+[18:22:05] [Server thread/INFO]: Saving players
+[18:22:05] [Server thread/INFO]: Saving worlds
+[18:22:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[main]'/minecraft:overworld
+[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'main'
+[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'main'
+[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'main'
+[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 23 entity chunks, 0 poi chunks in world 'main' in 0.00s
+[18:22:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (main): All chunks are saved
+[18:22:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[main_nether]'/minecraft:the_nether
+[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'main_nether'
+[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'main_nether'
+[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'main_nether'
+[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 3 entity chunks, 0 poi chunks in world 'main_nether' in 0.00s
+[18:22:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:22:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[main_the_end]'/minecraft:the_end
+[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'main_the_end'
+[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'main_the_end'
+[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'main_the_end'
+[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'main_the_end' in 0.00s
+[18:22:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:22:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[creator_world]'/minecraft:creator_world
+[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'creator_world'
+[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'creator_world'
+[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'creator_world'
+[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 16 entity chunks, 0 poi chunks in world 'creator_world' in 0.00s
+[18:22:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (creator_world): All chunks are saved
+[18:22:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:world_the_end
+[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 5 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[18:22:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:22:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[build]'/minecraft:build
+[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'build'
+[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'build'
+[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'build'
+[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 7 entity chunks, 0 poi chunks in world 'build' in 0.00s
+[18:22:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (build): All chunks are saved
+[18:22:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:world_nether
+[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[18:22:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:22:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:22:05] [Server thread/INFO]: Flushing Chunk IO
+[18:22:05] [Server thread/INFO]: Closing Thread Pool
+[18:22:05] [Server thread/INFO]: Closing Server
