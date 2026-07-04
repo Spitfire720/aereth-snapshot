@@ -15,14 +15,14 @@ anubis_head:
     amount: 3
     operation: 0
     slot: HEAD
-    uuid: 334f0624-9477-4087-ae78-cc52d6a911ac
+    uuid: c183a462-78dd-4ee3-9813-c88c9338bb5f
     name: oraxen:modifier
     key: oraxen:modifier
   - attribute: ARMOR_TOUGHNESS
     amount: 2
     operation: 0
     slot: HEAD
-    uuid: 2cb5c890-f02a-44d4-adf6-3c19054c7c71
+    uuid: bf939886-be65-410d-91fa-975e9be15d0a
     name: oraxen:modifier
     key: oraxen:modifier
   Pack:
@@ -49,14 +49,14 @@ crown:
     amount: 3
     operation: 0
     slot: HEAD
-    uuid: 869165e6-d9ce-4f97-8d74-07ce6d84d859
+    uuid: 81286bad-fa8a-48fb-b7c3-a25642d837ad
     name: oraxen:modifier
     key: oraxen:modifier
   - attribute: ARMOR_TOUGHNESS
     amount: 2
     operation: 0
     slot: HEAD
-    uuid: 3593993c-fb21-41b8-b209-e8ed79643b46
+    uuid: d199f7ca-74df-4c7e-a2dc-accc377a9ef4
     name: oraxen:modifier
     key: oraxen:modifier
   Pack:
@@ -75,14 +75,14 @@ pharaoh_head:
     amount: 3
     operation: 0
     slot: HEAD
-    uuid: b7dc7d06-a144-40d9-bc92-67679b940079
+    uuid: 1e21c6fd-f728-4701-907b-e43d8abdc412
     name: oraxen:modifier
     key: oraxen:modifier
   - attribute: ARMOR_TOUGHNESS
     amount: 2
     operation: 0
     slot: HEAD
-    uuid: d910ffd2-652b-4d16-85fe-3e79766eede9
+    uuid: b36f1dbb-3f3a-4f1a-ab7b-8f596ac7da2d
     name: oraxen:modifier
     key: oraxen:modifier
   Pack:
@@ -101,14 +101,14 @@ witch_hat:
     amount: 3
     operation: 0
     slot: HEAD
-    uuid: 875aa921-77fb-4d46-8c20-1d89ceb1555f
+    uuid: 5a5250ae-1d15-4eae-8afc-6df8a4b6eb86
     name: oraxen:modifier
     key: oraxen:modifier
   - attribute: ARMOR_TOUGHNESS
     amount: 2
     operation: 0
     slot: HEAD
-    uuid: bff2983e-9b4d-4f69-9721-14cf14bdac78
+    uuid: 798a546c-4170-491d-815e-1162d0983721
     name: oraxen:modifier
     key: oraxen:modifier
   Pack:

@@ -93,7 +93,7 @@ battle_axe:
     amount: 7
     operation: 0
     slot: HAND
-    uuid: 68804208-a32f-47dd-b9fa-c6b499582b9c
+    uuid: 495e101d-066f-4d58-b64c-058191e4ef61
     name: oraxen:modifier
     key: oraxen:modifier
   Pack:
@@ -156,14 +156,14 @@ lotr_pike:
     amount: 2
     operation: 0
     slot: HAND
-    uuid: 2553d9d9-4ee0-4707-920a-32819ebfe011
+    uuid: 13162fab-7c5d-4b16-9c65-796afa01c1f7
     name: oraxen:modifier
     key: oraxen:modifier
   - attribute: ATTACK_SPEED
     amount: 1.2
     operation: 0
     slot: HAND
-    uuid: 2674d68f-dbcb-4737-b3a9-bbb35fb72182
+    uuid: 00de8d6e-3542-4481-b25a-c2362938a810
     name: oraxen:modifier
     key: oraxen:modifier
   Pack:

@@ -28,7 +28,7 @@ example_sword:
     amount: 0.1
     operation: 0
     slot: HAND
-    uuid: 1a9ffb01-33f5-4012-8c2d-cb0531bcd0a8
+    uuid: 21335ee1-de62-48a7-897d-9e86db861e58
     name: oraxen:modifier
     key: oraxen:modifier
   
@@ -36,10 +36,6 @@ example_sword:
     protection: 4
     flame: 34
     sharpness: 18
-  
-  Mechanics:
-    misc:
-      prevent_renaming: true
   Components:
     durability: 10
 
@@ -205,13 +201,5 @@ leather_backpack:
       scale: 1.0
       view_distance: 48
       hide_in_spectator: true
-      hide_while_swimming: true
-      hide_while_gliding: true
       small: true
       visible_to_self: true
-
-# edna:
-#  itemname: "<red>Custom Painting"
-#  material: PAINTING
-#  Components:
-#    painting_variant: oraxen:edna

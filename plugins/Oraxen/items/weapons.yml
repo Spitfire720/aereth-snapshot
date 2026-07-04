@@ -13,14 +13,14 @@ storm_sword:
     amount: 10
     operation: 0
     slot: HAND
-    uuid: 7e21cc6d-f9cb-4d3b-b074-f62b3036129f
+    uuid: 946eef3f-0190-41df-bef0-b301108c5ccf
     name: oraxen:modifier
     key: oraxen:modifier
   - attribute: ATTACK_SPEED
     amount: 3.2
     operation: 0
     slot: HAND
-    uuid: 6a6bbb7d-1b01-4146-bf6e-68be2579d424
+    uuid: 9d167881-23e5-4c96-9299-6af478e6c210
     name: oraxen:modifier
     key: oraxen:modifier
   lore:
@@ -43,14 +43,14 @@ energy_crystal_sword:
     amount: 10
     operation: 0
     slot: HAND
-    uuid: 18ec72d2-25ee-4612-88c3-1a3fcbe08c57
+    uuid: 8afe6720-08b4-4a56-bb9a-b727f7b57176
     name: oraxen:modifier
     key: oraxen:modifier
   - attribute: ATTACK_SPEED
     amount: 1.6
     operation: 0
     slot: HAND
-    uuid: ec3a1d69-d160-4585-88fa-af9ba8ac1fc2
+    uuid: 4ffd0bb7-047a-4231-9113-ec4df5a43ab7
     name: oraxen:modifier
     key: oraxen:modifier
   Pack:
@@ -68,14 +68,14 @@ glass_sword:
     amount: 10
     operation: 0
     slot: HAND
-    uuid: e8791603-e23d-4571-bdd6-5d5445756686
+    uuid: 615dc4b6-9cde-4783-81a4-d8bbd62519ca
     name: oraxen:modifier
     key: oraxen:modifier
   - attribute: ATTACK_SPEED
     amount: 1.6
     operation: 0
     slot: HAND
-    uuid: 9fe93121-ba89-48cf-ae2f-62eb1c0f3e4f
+    uuid: b2140b5f-d3e9-486f-9ed2-5084fda05d0b
     name: oraxen:modifier
     key: oraxen:modifier
   Pack:
@@ -97,14 +97,14 @@ obsidian_sword:
     amount: 6
     operation: 0
     slot: HAND
-    uuid: 883a705d-46ed-4190-a53b-c0c7101f3778
+    uuid: 33b28bfb-d7a5-42ed-8e45-d51cddc7b938
     name: oraxen:modifier
     key: oraxen:modifier
   - attribute: ATTACK_SPEED
     amount: 1.6
     operation: 0
     slot: HAND
-    uuid: c85ac49c-1a1b-4ca8-8122-19a026c9fd21
+    uuid: 9b31658b-cecc-42d5-b0e9-c6ef1dd55e83
     name: oraxen:modifier
     key: oraxen:modifier
   Pack:
@@ -127,14 +127,14 @@ blood_sword:
     amount: 8
     operation: 0
     slot: HAND
-    uuid: cad70d4a-3acf-4b0c-ad1a-57ff73142350
+    uuid: 5ecbae24-44e8-45ef-ac8c-787ddc6a5e26
     name: oraxen:modifier
     key: oraxen:modifier
   - attribute: ATTACK_SPEED
     amount: 1.6
     operation: 0
     slot: HAND
-    uuid: 931a30f1-4dee-4a2b-b606-7523718d3f14
+    uuid: 7858ec77-afe6-455e-b3e8-5d62f9daca5f
     name: oraxen:modifier
     key: oraxen:modifier
   Pack:
@@ -180,14 +180,14 @@ katana:
     amount: 5
     operation: 0
     slot: HAND
-    uuid: fc294756-5c54-43d7-b011-bf7328835de0
+    uuid: 73c14a58-fe8f-4c15-8421-e1ac9100b53d
     name: oraxen:modifier
     key: oraxen:modifier
   - attribute: ATTACK_SPEED
     amount: 5
     operation: 0
     slot: HAND
-    uuid: 7ed8d078-5d5c-4af6-b866-b184a1a2b946
+    uuid: 3aa07390-9772-4251-a9ed-73756a146889
     name: oraxen:modifier
     key: oraxen:modifier
   Pack:
@@ -205,7 +205,7 @@ combat_bow:
     amount: 7
     operation: 0
     slot: HAND
-    uuid: 3f6b839a-5a60-4c05-b139-fac0d3c755dd
+    uuid: b8210563-f60c-4f9f-9edf-cc97a8daaec2
     name: oraxen:modifier
     key: oraxen:modifier
   Pack:

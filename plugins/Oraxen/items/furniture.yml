@@ -1,36 +1,24 @@
 table:
   itemname: <gray>Table
   material: PAPER
-  Pack:
-    generate_model: false
-    model: default/table
-    custom_model_data: 1027
   Mechanics:
     furniture:
-      type: ITEM_FRAME # Valid types are ITEM_FRAME, GLOW_ITEM_FRAME, ARMOR_STAND, and DISPLAY_ENTITY if server is 1.19.4+
-      small: false # Used by ARMOR_STAND furniture; defaults to true for ARMOR_STAND
-      armor_stand_properties:
-        translation: # or "offset"
-          x: 0.0
-          y: -1.22
-          z: 0.0
-        scale: # This will scale the actual model since armor stands can't be scaled.
-          x: 1.5
-          y: 1.5
-          z: 1.5
-      barriers:
-      - y: 2
+      type: ITEM_FRAME # Valid types are ITEM_FRAME, GLOW_ITEM_FRAME & DISPLAY_ENTITY if server is 1.19.4>
       limited_placing:
         roof: false
         floor: true
         wall: false
-      lights:
-      - 0,0,0 5
+      barrier: true
+      light: 5
       drop:
         silktouch: false
         loots:
         - oraxen_item: table
           probability: 1.0
+  Pack:
+    generate_model: false
+    model: default/table
+    custom_model_data: 1027
 
 cart:
   itemname: <gray>Cart
@@ -38,8 +26,9 @@ cart:
   Mechanics:
     furniture:
       type: DISPLAY_ENTITY
-      hitboxes:
-      - 0,0,0 1.0,1.0
+      hitbox:
+        width: 1.0
+        height: 1.0
       display_entity_properties:
         display_transform: FIXED
       barrier: true
@@ -63,8 +52,9 @@ chair:
   Mechanics:
     furniture:
       type: DISPLAY_ENTITY
-      hitboxes:
-      - 0,0,0 1.0,2.0
+      hitbox:
+        width: 1.0
+        height: 2.0
       display_entity_properties:
         display_transform: FIXED
       barrier: true
@@ -72,8 +62,8 @@ chair:
         roof: false
         floor: true
         wall: false
-      seats:
-      - 0,-1.2,0
+      seat:
+        height: 0
       drop:
         silktouch: false
         loots:
@@ -152,8 +142,7 @@ turntable:
         floor: true
         wall: false
       barrier: true
-      lights:
-      - 0,0,0 5
+      light: 5
       drop:
         silktouch: false
         loots:

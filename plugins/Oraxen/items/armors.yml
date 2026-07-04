@@ -5,23 +5,6 @@
 # Random UUID generator: https://www.uuidgenerator.net/
 # Color codes: https://docs.adventure.kyori.net/minimessage.html#format
 
-magic_elytra:
-  itemname: <gradient:#9B59B6:#5B6BBF:#1A237E>Magic Elytra</gradient>
-  material: ELYTRA
-  Components:
-    max_stack_size: 1
-    equippable:
-      slot: CHEST
-      model: oraxen:magic_elytra
-    durability:
-      value: 320
-  Pack:
-    generate_model: true
-    parent_model: item/generated
-    textures:
-    - default/armors/magic_elytra_icon
-    custom_model_data: 1000
-
 emerald_helmet:
   itemname: <gradient:#89E59D:#37C6BA>Emerald Helmet
   material: PAPER
@@ -40,21 +23,21 @@ emerald_helmet:
     amount: 2
     operation: 0
     slot: HEAD
-    uuid: a073c0a0-0059-4b28-92ea-c40bf1526f20
+    uuid: d4dceb1e-1fa4-4d03-9cea-598878f28d2a
     name: oraxen:modifier
     key: oraxen:modifier
   - attribute: ARMOR
     amount: 3
     operation: 0
     slot: HEAD
-    uuid: 1ceed0ef-108d-4858-ae20-21f033378297
+    uuid: 734d688a-4549-48b5-b481-58d7551f8117
     name: oraxen:modifier
     key: oraxen:modifier
   - attribute: ARMOR_TOUGHNESS
     amount: 2
     operation: 0
     slot: HEAD
-    uuid: bbb6181a-9986-41b2-8296-c276aaac420c
+    uuid: b1d4ba4d-5d81-438e-a5f5-76a443e3be0d
     name: oraxen:modifier
     key: oraxen:modifier
   Pack:
@@ -82,21 +65,21 @@ emerald_chestplate:
     amount: 3
     operation: 0
     slot: CHEST
-    uuid: 9ef5f369-f9df-4287-8dbb-4d3f156af814
+    uuid: 9d1791d2-b26c-4916-9546-d60b9e1802a0
     name: oraxen:modifier
     key: oraxen:modifier
   - attribute: ARMOR
     amount: 8
     operation: 0
     slot: CHEST
-    uuid: fcd0e195-856a-439f-8214-0e99750a43bf
+    uuid: ab76ec2c-79a4-4717-be89-35f2ede6a3f4
     name: oraxen:modifier
     key: oraxen:modifier
   - attribute: ARMOR_TOUGHNESS
     amount: 2
     operation: 0
     slot: CHEST
-    uuid: 74bb5ab9-6b0b-4cc3-a911-4d149623f5e6
+    uuid: 85f93d89-efd5-4cfe-ad1c-b846da9c9db6
     name: oraxen:modifier
     key: oraxen:modifier
   Pack:
@@ -124,21 +107,21 @@ emerald_leggings:
     amount: 3
     operation: 0
     slot: LEGS
-    uuid: a68b49ad-1780-40f5-a0e2-e7e148a0e42b
+    uuid: 610f5ec7-6bde-42a4-a7d9-952d6b3e60bb
     name: oraxen:modifier
     key: oraxen:modifier
   - attribute: ARMOR
     amount: 6
     operation: 0
     slot: LEGS
-    uuid: 1ecda72e-c514-4e42-b6e0-e224c525309a
+    uuid: e443fe43-0ce1-4c28-93b4-9a0034fbf97e
     name: oraxen:modifier
     key: oraxen:modifier
   - attribute: ARMOR_TOUGHNESS
     amount: 2
     operation: 0
     slot: LEGS
-    uuid: eec6ea30-57b8-4e0d-9ec4-ab6de2cde31e
+    uuid: b06679dc-e843-49e3-a192-f8299dbb316e
     name: oraxen:modifier
     key: oraxen:modifier
   Pack:
@@ -166,21 +149,21 @@ emerald_boots:
     amount: 2
     operation: 0
     slot: FEET
-    uuid: a29fa244-3e8d-4df7-a716-f9fc4e417254
+    uuid: d8dc2d8f-7a14-4698-a9e5-0895f6a8d65e
     name: oraxen:modifier
     key: oraxen:modifier
   - attribute: ARMOR
     amount: 3
     operation: 0
     slot: FEET
-    uuid: bd799714-dccd-47a4-9081-d4437c1c4919
+    uuid: d0e4fc49-b454-4b3f-8947-10f3f8cb1dd3
     name: oraxen:modifier
     key: oraxen:modifier
   - attribute: ARMOR_TOUGHNESS
     amount: 2
     operation: 0
     slot: FEET
-    uuid: d0bfec7c-7300-4059-a257-7e76c951e00d
+    uuid: 5ac319cc-00bf-484e-8753-e4e0c832d8ca
     name: oraxen:modifier
     key: oraxen:modifier
   Pack:
@@ -208,7 +191,7 @@ obsidian_helmet:
     amount: 2
     operation: 0
     slot: HEAD
-    uuid: 0194aede-38ba-4b56-baf0-c6268a667308
+    uuid: 2cdf820f-74e3-4a03-a823-e1e8297825d8
     name: oraxen:modifier
     key: oraxen:modifier
   Pack:
@@ -237,7 +220,7 @@ obsidian_chestplate:
     amount: 6
     operation: 0
     slot: CHEST
-    uuid: d926b061-0f79-4596-98e3-111a138011dc
+    uuid: cacf2d68-8dc2-4ae7-b52b-abf7376f539f
     name: oraxen:modifier
     key: oraxen:modifier
   Pack:
@@ -265,7 +248,7 @@ obsidian_leggings:
     amount: 5
     operation: 0
     slot: LEGS
-    uuid: ab48a197-f502-45ba-ae9d-a730e0fc3aa7
+    uuid: 48433f38-75ee-4ad1-a81b-a4cf7b88b0fb
     name: oraxen:modifier
     key: oraxen:modifier
   Pack:
@@ -293,7 +276,7 @@ obsidian_boots:
     amount: 2
     operation: 0
     slot: FEET
-    uuid: 30edda71-5757-4622-8d8e-03c5ecf8fc9d
+    uuid: e46e719f-f077-4dcf-865f-e55f1b0b9a40
     name: oraxen:modifier
     key: oraxen:modifier
   Pack:
@@ -319,14 +302,14 @@ ruby_helmet:
     amount: 3
     operation: 0
     slot: HEAD
-    uuid: c13bca69-6242-4ae9-b01d-bd1ed0c1b6d7
+    uuid: 3b4185cf-bfa3-43e2-ab20-7695b0c18562
     name: oraxen:modifier
     key: oraxen:modifier
   - attribute: ARMOR_TOUGHNESS
     amount: 2
     operation: 0
     slot: HEAD
-    uuid: 97836a61-940a-4ac3-a181-491a438621f6
+    uuid: 2bcbf3b9-1af8-4a89-be91-c79958659399
     name: oraxen:modifier
     key: oraxen:modifier
   Pack:
@@ -352,14 +335,14 @@ ruby_chestplate:
     amount: 8
     operation: 0
     slot: CHEST
-    uuid: 5a9a4cd4-3ff4-49a5-8e7c-7355c3927232
+    uuid: f80eb907-5e99-41c9-9eb8-72f8cbe95536
     name: oraxen:modifier
     key: oraxen:modifier
   - attribute: ARMOR_TOUGHNESS
     amount: 2
     operation: 0
     slot: CHEST
-    uuid: 5d051f11-9b05-4f0e-a0c4-7dbd184193c8
+    uuid: 4d7c8eb5-02d2-4cf4-884e-7d8b73d2fbc9
     name: oraxen:modifier
     key: oraxen:modifier
   Pack:
@@ -385,14 +368,14 @@ ruby_leggings:
     amount: 6
     operation: 0
     slot: LEGS
-    uuid: 46e9ef5e-d9af-4edc-8e00-2a47c400ddcd
+    uuid: e4c2b19a-7d57-498e-a077-a054c6bc40c2
     name: oraxen:modifier
     key: oraxen:modifier
   - attribute: ARMOR_TOUGHNESS
     amount: 2
     operation: 0
     slot: LEGS
-    uuid: 7bcaa0ae-1ad1-425f-b359-8e7f86042a96
+    uuid: f8593ad7-0a14-4f5d-a621-c63e47c398a5
     name: oraxen:modifier
     key: oraxen:modifier
   Pack:
@@ -418,14 +401,14 @@ ruby_boots:
     amount: 3
     operation: 0
     slot: FEET
-    uuid: 21953686-c738-414d-9abf-7ad491294952
+    uuid: 9649e23c-8aa3-4e64-8fce-94222d1fba0b
     name: oraxen:modifier
     key: oraxen:modifier
   - attribute: ARMOR_TOUGHNESS
     amount: 2
     operation: 0
     slot: FEET
-    uuid: b49acb77-08c1-47c2-9557-90d2f78bb98f
+    uuid: 4968dbba-3360-4ff9-9908-1a80a642d718
     name: oraxen:modifier
     key: oraxen:modifier
   Pack:

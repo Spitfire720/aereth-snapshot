@@ -14,19 +14,16 @@ brunnera:
     - default/flowers/brunnera.png
     custom_model_data: 1024
   Mechanics:
-    block:
-      type: STRING
-      block-sounds:
-        break-sound: block.grass.break
-        place-sound: block.grass.place
-      custom-variation: 1
-      appearance:
-        model: brunnera
-      breaking:
-      - else: null
-        hardness: 2
-        drops:
-        - item: brunnera
+    stringblock:
+      break_sound: block.grass.break
+      place_sound: block.grass.place
+      custom_variation: 1
+      model: brunnera
+      hardness: 2
+      drop:
+        silktouch: false
+        loots:
+        - oraxen_item: brunnera
           probability: 1.0
 
 daffodil:
@@ -39,19 +36,16 @@ daffodil:
     - default/flowers/daffodil.png
     custom_model_data: 1025
   Mechanics:
-    block:
-      type: STRING
-      block-sounds:
-        break-sound: block.grass.break
-        place-sound: block.grass.place
-      custom-variation: 2
-      appearance:
-        model: daffodil
-      breaking:
-      - else: null
-        hardness: 2
-        drops:
-        - item: daffodil
+    stringblock:
+      break_sound: block.grass.break
+      place_sound: block.grass.place
+      custom_variation: 2
+      model: daffodil
+      hardness: 2
+      drop:
+        silktouch: false
+        loots:
+        - oraxen_item: daffodil
           probability: 1.0
 
 dailily:
@@ -64,17 +58,14 @@ dailily:
     - default/flowers/dailily.png
     custom_model_data: 1026
   Mechanics:
-    block:
-      type: STRING
-      block-sounds:
-        break-sound: block.grass.break
-        place-sound: block.grass.place
-      custom-variation: 3
-      appearance:
-        model: dailily
-      breaking:
-      - else: null
-        hardness: 2
-        drops:
-        - item: dailily
+    stringblock:
+      break_sound: block.grass.break
+      place_sound: block.grass.place
+      custom_variation: 3
+      model: dailily
+      hardness: 2
+      drop:
+        silktouch: false
+        loots:
+        - oraxen_item: dailily
           probability: 1.0

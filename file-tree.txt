@@ -2993,6 +2993,10 @@ logs\2026-07-03-9.log.gz
 logs\2026-07-04-1.log.gz
 logs\2026-07-04-2.log.gz
 logs\2026-07-04-3.log.gz
+logs\2026-07-04-4.log.gz
+logs\2026-07-04-5.log.gz
+logs\2026-07-04-6.log.gz
+logs\2026-07-04-7.log.gz
 logs\latest-tail.txt
 main\datapacks\bukkit\pack.mcmeta
 main\datapacks\oraxen_jukebox\pack.mcmeta
@@ -3162,6 +3166,9 @@ plugins\BetonQuest\logs\26-07-03-14-37-1.log
 plugins\BetonQuest\logs\26-07-04-05-10-1.log
 plugins\BetonQuest\logs\26-07-04-07-41-1.log
 plugins\BetonQuest\logs\26-07-04-07-59-1.log
+plugins\BetonQuest\logs\26-07-04-08-02-1.log
+plugins\BetonQuest\logs\26-07-04-10-10-1.log
+plugins\BetonQuest\logs\26-07-04-10-52-1.log
 plugins\BetonQuest\logs\latest.log
 plugins\BetonQuest\logs\latest.log.lck
 plugins\BetonQuest\menuConfig.yml
@@ -3296,7 +3303,6 @@ plugins\MMOItems\modifiers\example_modifiers.yml
 plugins\MMOItems\plugindata\mm_factions.yml
 plugins\MMOItems\tooltips\example_tooltips.yml
 plugins\MMOItems\upgrade-templates.yml
-plugins\MMOItems\userdata\4b4818c2-6201-4cf7-9f35-035ef8fb19aa.yml
 plugins\ModelEngine\.data\cache.json
 plugins\ModelEngine\blockbench_models\aereth_delver_preview.bbmodel
 plugins\ModelEngine\blockbench_models\aereth_echoform_locked_preview.bbmodel
@@ -3375,7 +3381,6 @@ plugins\Oraxen\items\tools.yml
 plugins\Oraxen\items\weapons.yml
 plugins\Oraxen\languages\english.yml
 plugins\Oraxen\mechanics.yml
-plugins\Oraxen\paintings.yml
 plugins\Oraxen\recipes\blasting.yml
 plugins\Oraxen\recipes\campfire.yml
 plugins\Oraxen\recipes\furnace.yml
@@ -3385,7 +3390,6 @@ plugins\Oraxen\recipes\smoking.yml
 plugins\Oraxen\recipes\stonecutting.yml
 plugins\Oraxen\settings.yml
 plugins\Oraxen\sound.yml
-plugins\Oraxen\sounds.yml
 plugins\Oraxen\text_effects.yml
 plugins\PlaceholderAPI\config.yml
 plugins\PlayerTitles\config.yml
