@@ -1,5 +1,5 @@
 plugin: FragmentEngine
-version: "1.11.0"
+version: "1.12.0"
 schema-version: 3
 exports:
   - schema.yml
