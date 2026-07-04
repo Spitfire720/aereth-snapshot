@@ -1,9 +1,9 @@
 {
   "status": "ok",
   "notes": [
-    "Build 3A data backend active",
-    "Race, progression, stats, fragments, intent, and discipline foundations implemented",
+    "Build 3B data backend active",
+    "Race, progression, stats, fragments, intent, discipline identity, and discipline progression foundations implemented",
     "Combat execution not implemented yet",
-    "Discipline abilities pending later build"
+    "Discipline passives and abilities pending later builds"
   ]
 }

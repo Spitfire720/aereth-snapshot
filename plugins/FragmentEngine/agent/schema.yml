@@ -37,3 +37,9 @@ discipline-fields:
   - discipline.family
   - discipline.level-required
   - discipline.selected
+  - discipline.progression.rank
+  - discipline.progression.rank-name
+  - discipline.progression.xp
+  - discipline.progression.xp-required
+  - discipline.progression.progress-percent
+  - discipline.progression.max-rank
