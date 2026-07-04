@@ -1,12 +1,4 @@
-﻿[14:46:26] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[14:46:26] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_slab_top.json: default/crystalmush/crystalmush_planks_anim
-[14:46:26] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[14:46:26] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_slab_top.json: default/crystalmush/crystalmush_planks_anim
-[14:46:26] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[14:46:26] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/onyx_ore.json: default/onyx_ore
+﻿[14:46:26] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/onyx_ore.json: default/onyx_ore
 [14:46:26] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
 [14:46:26] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/emerald_helmet.json: default/armors/emerald_helmet
@@ -398,3 +390,11 @@ A newer version of DecentHolograms is available. Download it from:
 [14:46:30] [Thread-35/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
 [14:46:30] [Thread-35/INFO]: --------------------
 [14:47:10] [Craft Scheduler Thread - 10 - Oraxen/INFO]: Oraxen | Resourcepack uploaded to http://atlas.oraxen.com:8080/pack.zip?id=895974219debf2f3c5230baff6af0f025a97fbad in 41147 ms
+[16:12:42] [User Authenticator #0/INFO]: UUID of player SpitFire720 is 4b4818c2-6201-4cf7-9f35-035ef8fb19aa
+[16:12:42] [Folia Async Scheduler Thread Timer/INFO]: [WorldGuardRegionProtect] Checking for updates using Paper schedulers.
+[16:12:42] [Server thread/WARN]: [BetonQuest] Loaded 'core.xpRecovery' objective from the database, but it is not defined in configuration. Skipping.
+[16:12:43] [Server thread/INFO]: SpitFire720 joined the game
+[16:12:43] [Server thread/INFO]: SpitFire720[IP hidden] logged in with entity id 104 at ([creator_world]1566.7513833944442, 83.00615204863935, 2372.5349722332767)
+[16:12:47] [Server thread/INFO]: SpitFire720 issued server command: /aereth agent export
+[16:13:19] [Server thread/INFO]: SpitFire720 lost connection: Disconnected
+[16:13:19] [Server thread/INFO]: SpitFire720 left the game
