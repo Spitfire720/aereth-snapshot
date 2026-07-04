@@ -16,6 +16,7 @@ character-fields:
   - derived
   - fragments
   - intent
+  - discipline
 fragment-fields:
   - fragments.capacity
   - fragments.discovered-list
@@ -30,3 +31,9 @@ intent-fields:
   - intent.pressure
   - intent.stability-impact
   - intent.slots-used
+discipline-fields:
+  - discipline.id
+  - discipline.display
+  - discipline.family
+  - discipline.level-required
+  - discipline.selected

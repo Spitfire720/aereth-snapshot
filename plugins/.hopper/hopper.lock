@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-07-04T20:38:56.747446704Z",
+  "generated": "2026-07-04T20:55:00.799983254Z",
   "dependencies": {
     "CommandAPI": {
       "name": "CommandAPI",
