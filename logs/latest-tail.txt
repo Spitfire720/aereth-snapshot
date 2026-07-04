@@ -1,10 +1,4 @@
-﻿[16:55:12] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_stairs.json: default/crystalmush/crystalmush_planks_anim
-[16:55:12] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[16:55:12] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_stairs.json: default/crystalmush/crystalmush_planks_anim
-[16:55:12] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[16:55:12] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door_lower_hinge.json: default/crystalmush/crystalmush_door_bottom_anim
+﻿[16:55:12] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door_lower_hinge.json: default/crystalmush/crystalmush_door_bottom_anim
 [16:55:12] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
 [16:55:12] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door_lower_hinge.json: default/crystalmush/crystalmush_door_top_anim
@@ -398,3 +392,9 @@ A newer version of DecentHolograms is available. Download it from:
 [16:55:23] [Server thread/INFO]: SpitFire720 issued server command: /version FragmentEngine
 [16:55:28] [Server thread/INFO]: SpitFire720 issued server command: /aereth agent export
 [16:59:30] [Server thread/INFO]: Named entity WitherSkeleton['Skeletal Knight'/679, uuid='6debbdc6-1c4e-4d4c-8eeb-7f7b352fdb54', l='ServerLevel[creator_world]', x=1541.50, y=13.00, z=2340.50, cpos=[96, 146], tl=441, v=true] died: Skeletal Knight suffocated in a wall
+[17:05:11] [Server thread/INFO]: Named entity WitherSkeleton['Skeletal Knight'/1397, uuid='99432c1a-eed5-40f3-8d2b-13f308ad1419', l='ServerLevel[creator_world]', x=1501.50, y=-2.00, z=2329.50, cpos=[93, 145], tl=453, v=true] died: Skeletal Knight suffocated in a wall
+[17:26:23] [Server thread/INFO]: Named entity WitherSkeleton['Skeletal Knight'/3772, uuid='f034971a-5083-4797-a4ea-6f2a8733b4dd', l='ServerLevel[creator_world]', x=1577.35, y=-36.00, z=2361.50, cpos=[98, 147], tl=441, v=true] died: Skeletal Knight suffocated in a wall
+[17:28:42] [Server thread/INFO]: Named entity WitherSkeleton['Skeletal Knight'/4043, uuid='1f6f4eb7-c9f8-48a8-9a0f-95d80dfa4ca2', l='ServerLevel[creator_world]', x=1545.50, y=13.00, z=2349.50, cpos=[96, 146], tl=441, v=true] died: Skeletal Knight suffocated in a wall
+[17:35:21] [Server thread/INFO]: Villager Villager['Farmer'/268, uuid='f88c6c58-2b4a-4ca7-8ffe-ef77dc4a1e57', l='ServerLevel[creator_world]', x=1455.94, y=71.50, z=2309.16, cpos=[90, 144], tl=89383, v=true] died, message: 'Farmer was shot by Pillager'
+[17:43:55] [Server thread/INFO]: Named entity WitherSkeleton['Skeletal Knight'/5709, uuid='8c17cc71-2c0a-4240-af4f-b7ad0292ff25', l='ServerLevel[creator_world]', x=1553.50, y=18.00, z=2357.50, cpos=[97, 147], tl=441, v=true] died: Skeletal Knight suffocated in a wall
+[17:51:44] [Server thread/INFO]: Named entity WitherSkeleton['Skeletal Knight'/6611, uuid='6622a44f-5ef0-405a-8f9f-69ce4aa5eac8', l='ServerLevel[creator_world]', x=1574.35, y=-40.00, z=2387.50, cpos=[98, 149], tl=441, v=true] died: Skeletal Knight suffocated in a wall
