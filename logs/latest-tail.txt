@@ -1,7 +1,4 @@
-﻿[18:05:46] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/arrow_previous_icon.json: required/arrow_previous_icon
-[18:05:46] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[18:05:46] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_leaves.json: default/crystalmush/crystalmush_leaves_anim
+﻿[18:05:46] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_leaves.json: default/crystalmush/crystalmush_leaves_anim
 [18:05:46] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
 [18:05:46] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/orax_ore.json: default/orax_ore
@@ -398,3 +395,6 @@ A newer version of DecentHolograms is available. Download it from:
 [18:06:08] [Server thread/INFO]: SpitFire720 issued server command: /version FragmentEngine
 [18:06:09] [Server thread/INFO]: SpitFire720 issued server command: /aereth agent export
 [18:08:32] [Server thread/INFO]: Named entity WitherSkeleton['Skeletal Knight'/536, uuid='cf305842-4477-49ef-84eb-e4b45ff4a7cc', l='ServerLevel[creator_world]', x=1607.50, y=26.00, z=2337.50, cpos=[100, 146], tl=443, v=true] died: Skeletal Knight suffocated in a wall
+[18:24:52] [Server thread/INFO]: Named entity WitherSkeleton['Skeletal Knight'/2347, uuid='4760b8d9-e19f-4577-87eb-2bebe9f6abc6', l='ServerLevel[creator_world]', x=1509.50, y=18.00, z=2394.50, cpos=[94, 149], tl=449, v=true] died: Skeletal Knight suffocated in a wall
+[18:38:19] [Server thread/INFO]: Named entity WitherSkeleton['Skeletal Knight'/3827, uuid='fb9616ae-39c9-428c-9a5e-091ae7c2eac3', l='ServerLevel[creator_world]', x=1541.50, y=13.00, z=2345.50, cpos=[96, 146], tl=441, v=true] died: Skeletal Knight suffocated in a wall
+[18:45:23] [Server thread/INFO]: SpitFire720 issued server command: /aereth agent export
