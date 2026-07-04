@@ -1,400 +1,400 @@
-﻿[14:37:24] [Server thread/INFO]: Time elapsed: 53 ms
-[14:37:24] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.7
-[14:37:24] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[14:37:24] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: vaultunlocked [2.13.1]
-[14:37:24] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.10+d9424b1
-[14:37:24] [Server thread/INFO]: [WorldGuard] (main) TNT ignition is blocked.
-[14:37:24] [Server thread/INFO]: [WorldGuard] (main) Lighters are blocked.
-[14:37:24] [Server thread/INFO]: [WorldGuard] (main) Lava fire is blocked.
-[14:37:24] [Server thread/INFO]: [WorldGuard] (main) All fire spread is disabled.
-[14:37:24] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'main'
-[14:37:24] [Server thread/INFO]: [WorldGuard] (main_nether) TNT ignition is blocked.
-[14:37:24] [Server thread/INFO]: [WorldGuard] (main_nether) Lighters are blocked.
-[14:37:24] [Server thread/INFO]: [WorldGuard] (main_nether) Lava fire is blocked.
-[14:37:24] [Server thread/INFO]: [WorldGuard] (main_nether) All fire spread is disabled.
-[14:37:24] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'main_nether'
-[14:37:24] [Server thread/INFO]: [WorldGuard] (main_the_end) TNT ignition is blocked.
-[14:37:24] [Server thread/INFO]: [WorldGuard] (main_the_end) Lighters are blocked.
-[14:37:24] [Server thread/INFO]: [WorldGuard] (main_the_end) Lava fire is blocked.
-[14:37:24] [Server thread/INFO]: [WorldGuard] (main_the_end) All fire spread is disabled.
-[14:37:24] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'main_the_end'
-[14:37:24] [Server thread/INFO]: [WorldGuard] Loading region data...
-[14:37:24] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v5.3.4
-[14:37:25] [Server thread/INFO]: Preparing start region for dimension minecraft:creator_world
-[14:37:25] [Server thread/INFO]: Time elapsed: 161 ms
-[14:37:25] [Server thread/INFO]: [WorldGuard] (creator_world) TNT ignition is blocked.
-[14:37:25] [Server thread/INFO]: [WorldGuard] (creator_world) Lighters are blocked.
-[14:37:25] [Server thread/INFO]: [WorldGuard] (creator_world) Lava fire is blocked.
-[14:37:25] [Server thread/INFO]: [WorldGuard] (creator_world) All fire spread is disabled.
-[14:37:25] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'creator_world'
-[14:37:25] [Server thread/INFO]: Preparing start region for dimension minecraft:world_the_end
-[14:37:25] [Server thread/INFO]: Time elapsed: 56 ms
-[14:37:25] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is blocked.
-[14:37:25] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are blocked.
-[14:37:25] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
-[14:37:25] [Server thread/INFO]: [WorldGuard] (world_the_end) All fire spread is disabled.
-[14:37:25] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
-[14:37:25] [Server thread/INFO]: Preparing start region for dimension minecraft:build
-[14:37:25] [Server thread/INFO]: Time elapsed: 24 ms
-[14:37:25] [Server thread/INFO]: [WorldGuard] (build) TNT ignition is blocked.
-[14:37:25] [Server thread/INFO]: [WorldGuard] (build) Lighters are blocked.
-[14:37:25] [Server thread/INFO]: [WorldGuard] (build) Lava fire is blocked.
-[14:37:25] [Server thread/INFO]: [WorldGuard] (build) All fire spread is disabled.
-[14:37:25] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'build'
-[14:37:25] [Server thread/INFO]: Preparing start region for dimension minecraft:world_nether
-[14:37:25] [Server thread/INFO]: Time elapsed: 104 ms
-[14:37:25] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is blocked.
-[14:37:25] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are blocked.
-[14:37:25] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
-[14:37:25] [Server thread/INFO]: [WorldGuard] (world_nether) All fire spread is disabled.
-[14:37:25] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
-[14:37:25] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: multiverse-core [5.3.4]
-[14:37:25] [Server thread/INFO]: [Multiverse-Core] API service loaded!
-[14:37:25] [Server thread/INFO]: [Multiverse-Core] Version 5.3.4 (API v5.3) Enabled - By dumptruckman, Rigby, fernferret, lithium3141, main--, benwoo1110 and Zax71
-[14:37:25] [Server thread/INFO]: [Multiverse-Core] Loving Multiverse-Core? Please consider supporting the project with a small donation: https://github.com/sponsors/Multiverse
-[14:37:25] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v16.18.5
-[14:37:25] [Server thread/INFO]: [GriefPrevention] Finished loading configuration.
-[14:37:25] [Server thread/INFO]: [GriefPrevention] 0 total claims loaded.
-[14:37:26] [Server thread/INFO]: [GriefPrevention] Customizable messages loaded.
-[14:37:26] [Server thread/INFO]: [GriefPrevention] Successfully hooked into WorldGuard.
-[14:37:26] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
-[14:37:26] [Server thread/INFO]: [GriefPrevention] Boot finished.
-[14:37:26] [Server thread/INFO]: [DecentHolograms] Enabling DecentHolograms v2.9.9
-[14:37:26] [Server thread/INFO]: [DecentHolograms] Initialized NMS adapter for v1_20_R4 (1.20.6).
-[14:37:26] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.20.6! Trying to find NMS support
-[14:37:26] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R4' loaded!
-[14:37:26] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'DecentHolograms' to create a bStats instance!
-[14:37:26] [Server thread/INFO]: [DecentHolograms] NBT-API loaded successfully.
-[14:37:26] [Server thread/INFO]: [MythicMobs] Enabling MythicMobs v5.9.5-f13ab4a1
-[14:37:26] [Server thread/INFO]: [MythicMobs] Loading MythicMobs for Paper (MC: 1.20.6)...
-[14:37:26] [Server thread/INFO]: [MythicMobs] The server is running Paper; enabled Paper exclusive functionality
-[14:37:27] [Server thread/INFO]: [MythicMobs] Mythic GriefPrevention Support has been enabled!
-[14:37:27] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: mythic [5.0.0]
-[14:37:27] [Server thread/INFO]: [MythicMobs] Mythic PlaceholderAPI Support has been enabled!
-[14:37:27] [Server thread/INFO]: [MythicMobs] Mythic Vault Support has been enabled!
-[14:37:27] [Server thread/INFO]: [MythicMobs] Mythic WorldGuard Support has been enabled!
-[14:37:28] [Server thread/INFO]: [MythicMobs] Loading Packs...
-[14:37:28] [Server thread/INFO]: [MythicMobs] Loading Items...
-[14:37:28] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
-[14:37:28] [Server thread/INFO]: [MythicMobs] Loading Skills...
-[14:37:28] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
-[14:37:28] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
-[14:37:28] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
-[14:37:28] [Server thread/INFO]: [MythicMobs] âœ“ Loaded 27 mobs.
-[14:37:28] [Server thread/INFO]: [MythicMobs] âœ“ Loaded 3 vanilla mob overrides.
-[14:37:28] [Server thread/INFO]: [MythicMobs] âœ“ Loaded 0 mob stacks.
-[14:37:28] [Server thread/INFO]: [MythicMobs] âœ“ Loaded 29 skills.
-[14:37:28] [Server thread/INFO]: [MythicMobs] âœ“ Loaded 0 random spawns.
-[14:37:28] [Server thread/INFO]: [MythicMobs] âœ“ Loaded 12 mythic items.
-[14:37:28] [Server thread/INFO]: [MythicMobs] âœ“ Loaded 9 drop tables.
-[14:37:28] [Server thread/INFO]: [MythicMobs] âœ“ Loaded 0 mob spawners.
-[14:37:28] [Server thread/INFO]: [MythicMobs] MythicMobs configuration file loaded successfully.
-[14:37:28] [Server thread/INFO]: [MythicMobs] Started up bStats Metrics
-[14:37:28] [Server thread/INFO]: [MythicMobs] âœ“ MythicMobs v5.9.5 ( build f13ab4a1 ) has been successfully loaded!
-[14:37:29] [Server thread/INFO]: [MythicMobs] Model Engine Compatibility Loaded.
-[14:37:29] [Server thread/INFO]: [ModelEngine] [S] Compatibility applied: MythicMobs
-[14:37:29] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v2.22.2
-[14:37:29] [Server thread/INFO]: [Skript] Enabling Skript v2.12.2
-[14:37:29] [ForkJoinPool.commonPool-worker-2/INFO]: [Skript] A new version of Skript is available: 2.15.4 (you're currently running 2.12.2)
-[14:37:29] [ForkJoinPool.commonPool-worker-2/INFO]: Download it at: <aqua><u><link:https://github.com/SkriptLang/Skript/releases/download/2.15.4/Skript-2.15.4.jar>https://github.com/SkriptLang/Skript/releases/download/2.15.4/Skript-2.15.4.jar
-[14:37:30] [Server thread/INFO]: [Skript]  ~ created by & Â© Peter GÃ¼ttinger aka Njol ~
-[14:37:30] [Server thread/INFO]: [AerethCharacterCreatorCore] Enabling AerethCharacterCreatorCore v1.0.0
-[14:37:30] [Server thread/INFO]: [AerethCharacterCreatorCore] Aereth Character Creator Core enabled.
-[14:37:30] [Server thread/INFO]: [BetonQuest] Enabling BetonQuest v2.2.1
-[14:37:30] [Server thread/INFO]: [BetonQuest] Running on JRE 21.0.7 (build 6, optional LTS, pre-release info N/A) by Eclipse Adoptium
-[14:37:31] [Server thread/INFO]: [BetonQuest] Using SQLite for storing data!
-[14:37:31] [ForkJoinPool.commonPool-worker-2/INFO]: [Skript] Loaded 5324 aliases in 491ms
-[14:37:31] [Server thread/INFO]: [BetonQuest] Hooking into PlaceholderAPI
-[14:37:31] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: betonquest [2.2.1]
-[14:37:31] [Server thread/INFO]: [BetonQuest] Hooking into LuckPerms
-[14:37:31] [Server thread/INFO]: [BetonQuest] Hooking into Vault
-[14:37:31] [Server thread/INFO]: [BetonQuest] Hooking into WorldEdit
-[14:37:31] [Server thread/INFO]: [BetonQuest] Hooking into WorldGuard
-[14:37:31] [Server thread/INFO]: [BetonQuest] Hooking into ProtocolLib
-[14:37:31] [Server thread/INFO]: [BetonQuest] Hooking into DecentHolograms
-[14:37:31] [Server thread/INFO]: [BetonQuest] Hooking into MythicMobs
-[14:37:31] [Server thread/INFO]: [BetonQuest] Hooking into Shopkeepers
-[14:37:31] [Server thread/INFO]: [BetonQuest] Hooking into Skript
-[14:37:31] [Server thread/INFO]: [BetonQuest] Using DecentHolograms as dedicated hologram provider!
-[14:37:31] [Server thread/INFO]: [BetonQuest] BetonQuest successfully enabled!
-[14:37:31] [Server thread/INFO]: [FragmentEngine] Enabling FragmentEngine v1.9.0
-[14:37:31] [Server thread/WARN]: [FragmentEngine] Could not save races.yml to plugins/FragmentEngine/races.yml because races.yml already exists.
-[14:37:31] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: aereth [1.9.0]
-[14:37:31] [Server thread/INFO]: [FragmentEngine] PlaceholderAPI expansion registered: %aereth_...%
-[14:37:31] [Server thread/INFO]: [FragmentEngine] FragmentEngine enabled. Reality has begun remembering.
-[14:37:31] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v23.1
-[14:37:32] [Server thread/INFO]: [CoreProtect] CoreProtect Community Edition has been successfully enabled! 
-[14:37:32] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
-[14:37:32] [Server thread/INFO]: --------------------
-[14:37:32] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Join our Discord!
-[14:37:32] [Server thread/INFO]: [CoreProtect] Discord: www.coreprotect.net/discord/
-[14:37:32] [Server thread/INFO]: --------------------
-[14:37:32] [Server thread/INFO]: [BlueMap] Enabling BlueMap v5.15
-[14:37:32] [Server thread/INFO]: [BlueMap] Saving all worlds once, to make sure the level.dat is present...
-[14:37:32] [Server thread/WARN]: A manual (plugin-induced) save has been detected while server is configured to auto-save. This may affect performance.
-[14:37:32] [BlueMap-Load/INFO]: [BlueMap] Loading...
-[14:37:32] [Server thread/INFO]: [WorldFracture] Enabling WorldFracture v1.7.0
-[14:37:32] [Server thread/WARN]: [WorldFracture] Could not save zones.yml to plugins/WorldFracture/zones.yml because zones.yml already exists.
-[14:37:32] [Server thread/INFO]: [WorldFracture] WorldFracture enabled. The world is listening.
-[14:37:32] [Server thread/INFO]: [MiniMOTD] Enabling MiniMOTD v2.2.2
-[14:37:33] [BlueMap-Load/INFO]: [BlueMap] Loading resources...
-[14:37:33] [Server thread/INFO]: [SimpleScore] Enabling SimpleScore v4.0.1
-[14:37:33] [Server thread/INFO]: [TheNewEconomy] Enabling TheNewEconomy v0.1.4.0
-[14:37:34] [BlueMap-Load/INFO]: [BlueMap] Resources loaded.
-[14:37:34] [BlueMap-Load/INFO]: [BlueMap] Initializing Storage: 'file' (Type: 'bluemap:file')
-[14:37:34] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world'...
-[14:37:35] [Server thread/WARN]: [TheNewEconomy] Unable to contact update server!
-[14:37:35] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world_the_end'...
-[14:37:35] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world_nether'...
-[14:37:35] [BlueMap-Load/INFO]: [BlueMap] WebServer bound to all network interfaces on port 8100
-[14:37:35] [Thread-20/INFO]: [BlueMap] WebServer started.
-[14:37:35] [BlueMap-Load/INFO]: [BlueMap] Loaded!
-[14:37:35] [Server thread/WARN]: [TheNewEconomy] Unable to contact update server!
-[14:37:35] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: tne [0.1.4.0]
-[14:37:35] [Server thread/INFO]: [TheNewEconomy] The New Economy has been enabled!
-[14:37:35] [Server thread/INFO]: [spark] Enabling spark v1.10.173
-[14:37:35] [Server thread/INFO]: [spark] Using Paper ServerTickStartEvent for tick monitoring
-[14:37:35] [Server thread/INFO]: [spark] Starting background profiler...
-[14:37:35] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: spark [1.10.173]
-[14:37:35] [Server thread/INFO]: [spark] Registered PlaceholderAPI placeholders
-[14:37:35] [Server thread/INFO]: [MythicLib] Enabling MythicLib v1.7
-[14:37:35] [Server thread/INFO]: [MythicLib] Hooked onto TextDisplays (holograms)
-[14:37:36] [Server thread/INFO]: [MythicMobs] MMO Plugin Support has been enabled!
-[14:37:36] [Server thread/INFO]: [MythicLib] Hooked onto MythicMobs
-[14:37:36] [Server thread/INFO]: [MythicLib] Hooked onto ProtocolLib
-[14:37:36] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: mythiclib [1.7]
-[14:37:36] [Server thread/INFO]: [MythicLib] Hooked onto PlaceholderAPI
-[14:37:36] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[14:37:36] [Server thread/INFO]: [BetonQuest] Hooking into MythicLib
-[14:37:36] [Server thread/INFO]: [PlayerTitles] Enabling PlayerTitles v1.2
-[14:37:36] [Server thread/INFO]: [DeluxeMenus] Enabling DeluxeMenus v1.14.1-Release
-[14:37:36] [Server thread/INFO]: [DeluxeMenus] Successfully hooked into PlaceholderAPI!
-[14:37:36] [Server thread/INFO]: [DeluxeMenus] Successfully hooked into Vault!
-[14:37:36] [Server thread/WARN]: [DeluxeMenus] Found 'data' option for item: teststone in menu: basics_menu. This option is deprecated and will be removed soon. Please use 'damage' instead.
-[14:37:36] [Server thread/INFO]: [DeluxeMenus] 3 GUI menus loaded!
-[14:37:36] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: deluxemenus [1.14.1-Release]
-[14:37:36] [Server thread/INFO]: [DeluxeMenus] You are running the latest version of DeluxeMenus!
-[14:37:36] [Server thread/INFO]: [AerethCreatorFragmentBridge] Enabling AerethCreatorFragmentBridge v1.0.1
-[14:37:36] [Server thread/INFO]: [AerethCreatorFragmentBridge] AerethCreatorFragmentBridge enabled. CharacterCreator -> FragmentEngine mirror armed.
-[14:37:36] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[14:37:36] [Server thread/INFO]: 0 placeholder hook(s) registered!
-[14:37:36] [Server thread/INFO]: Running delayed init tasks
-[14:37:36] [ForkJoinPool.commonPool-worker-2/INFO]: [ModelEngine] [A] 
-[14:37:36] [ForkJoinPool.commonPool-worker-2/INFO]: [ModelEngine] [A] [Importing models]
-[14:37:36] [ForkJoinPool.commonPool-worker-2/INFO]: [ModelEngine] [A] Loading cache version: R4.0.8
-[14:37:36] [Craft Scheduler Thread - 1 - DecentHolograms/INFO]: 
+﻿[08:02:32] [Server thread/INFO]: [MMOItems Item Templates (STAFF)] Could not post-load item template 'EARTH_STAFF': Could not find skill with ID 'EARTHQUAKE'
+[08:02:32] [Server thread/INFO]: [MMOItems Item Templates (STAFF)] Could not post-load item template 'LIGHTNING_STAFF': Could not find skill with ID 'STARFALL'
+[08:02:32] [Server thread/INFO]: [MMOItems Item Templates (STAFF)] Could not post-load item template 'MANA_STAFF': Could not find skill with ID 'REGEN_ALLY'
+[08:02:32] [Server thread/INFO]: [MMOItems Item Templates (STAFF)] Could not post-load item template 'VOID_STAFF': Could not find skill with ID 'CURSED_BEAM'
+[08:02:32] [Server thread/INFO]: [MMOItems Item Templates (CATALYST)] Could not post-load item template 'ENCHANTED_SHULKER_SHELL': Could not find skill with ID 'SHULKER_MISSILE'
+[08:02:32] [Server thread/INFO]: [MMOItems Item Templates (CATALYST)] Could not post-load item template 'PERFECT_ENDER_PEARL': Could not find skill with ID 'BLINK'
+[08:02:32] [Server thread/INFO]: [MMOItems Item Templates (CATALYST)] Could not post-load item template 'POWER_CRYSTAL': Could not find skill with ID 'MAGICAL_PATH'
+[08:02:32] [Server thread/INFO]: [MMOItems Item Templates (CATALYST)] Could not post-load item template 'LUCK_CHARM': Could not find stat with ID 'ADDITIONAL_EXPERIENCE'
+[08:02:32] [Server thread/INFO]: [MMOItems Item Templates (GREATAXE)] Could not post-load item template 'BARBARIAN_AXE': Could not find skill with ID 'VAMPIRISM'
+[08:02:32] [Server thread/INFO]: [MMOItems Item Templates (GREATSTAFF)] Could not post-load item template 'STIFF_GREATSTAFF': Could not find skill with ID 'STUN'
+[08:02:32] [Server thread/INFO]: [MMOItems Item Templates (GREATSWORD)] Could not post-load item template 'HARDENED_STEEL_CLAYMORE': Could not find skill with ID 'CIRCULAR_SLASH'
+[08:02:32] [Server thread/INFO]: [MMOItems Item Templates (GREATSWORD)] Could not post-load item template 'CANDY_CANE_SWORD': Could not find skill with ID 'DEATH_MARK'
+[08:02:32] [Server thread/INFO]: [MMOItems Item Templates (GREATSWORD)] Could not post-load item template 'MOLTEN_BLADE': Could not find skill with ID 'MAGMA_FISSURE'
+[08:02:32] [Server thread/INFO]: [MMOItems Item Templates (GREATSWORD)] Could not post-load item template 'TWO_HANDED_STEEL_SWORD': Could not find skill with ID 'CIRCULAR_SLASH'
+[08:02:32] [Server thread/INFO]: [MMOItems Item Templates (GREATSWORD)] Could not post-load item template 'EARTHLY_GREATSWORD': Could not find skill with ID 'CIRCULAR_SLASH'
+[08:02:32] [Server thread/INFO]: [MMOItems Item Templates (SPEAR)] Could not post-load item template 'SHARP_SPEAR': Could not find skill with ID 'WEAKEN_TARGET'
+[08:02:32] [Server thread/INFO]: [MMOItems Item Templates (HAMMER)] Could not post-load item template 'SANTAMMER': Could not find skill with ID 'STUN'
+[08:02:32] [Server thread/INFO]: [MMOItems Item Templates (HAMMER)] Could not post-load item template 'THOR_HAMMER': Could not find skill with ID 'SMITE'
+[08:02:32] [Server thread/INFO]: [MMOItems Item Templates (MUSKET)] Could not post-load item template 'SNIPER_RIFLE': Could not find skill with ID 'STUN'
+[08:02:32] [Server thread/INFO]: [MMOItems Item Templates (LANCE)] Could not post-load item template 'FIRE_GREATLANCE': Could not find skill with ID 'LIFE_ENDER'
+[08:02:32] [Server thread/INFO]: [MMOItems Item Templates (WAND)] Could not post-load item template 'OAK_WAND': Could not find skill with ID 'SPARKLE'
+[08:02:32] [Server thread/INFO]: [MMOItems Item Templates (WAND)] Could not post-load item template 'BLAZE_WAND': Could not find skill with ID 'FIREBOLT'
+[08:02:32] [Server thread/INFO]: [MMOItems Item Templates (WAND)] Could not post-load item template 'COSMOS_WAND': Could not find skill with ID 'LIFE_ENDER'
+[08:02:32] [Server thread/INFO]: [MMOItems Item Templates (CONSUMABLE)] Could not post-load item template 'ROCK': Could not find skill with ID 'ITEM_THROW'
+[08:02:32] [Server thread/INFO]: [MMOItems Item Templates (CONSUMABLE)] Could not post-load item template 'FIREBALL_SCROLL': Could not find skill with ID 'FIREBOLT'
+[08:02:32] [Server thread/INFO]: [MMOItems Item Templates (CONSUMABLE)] Could not post-load item template 'FIREBALL_SCROLL_II': Could not find skill with ID 'FIREBOLT'
+[08:02:32] [Server thread/INFO]: [MMOItems Item Templates (CONSUMABLE)] Could not post-load item template 'FIREBALL_SCROLL_III': Could not find skill with ID 'FIREBOLT'
+[08:02:32] [Server thread/INFO]: [MMOItems Item Templates (CONSUMABLE)] Could not post-load item template 'ENDER_NOTE': Could not find skill with ID 'BLINK'
+[08:02:32] [Server thread/INFO]: [MMOItems Item Templates (CONSUMABLE)] Could not post-load item template 'THROW_COAL': Could not find skill with ID 'ITEM_THROW'
+[08:02:32] [Server thread/INFO]: [MMOItems Item Templates (HALBERD)] Could not post-load item template 'DOUBLE_OR_NOTHING': Could not find skill with ID 'SLOW'
+[08:02:32] [Server thread/INFO]: [MMOItems Item Templates (HALBERD)] Could not post-load item template 'BRAVE_HALBERD': Could not find skill with ID 'HEAVY_CHARGE'
+[08:02:32] [Server thread/INFO]: [MMOItems] Hooked onto Vault
+[08:02:32] [Server thread/INFO]: [MMOItems] Loading crafting stations, please wait..
+[08:02:32] [ForkJoinPool.commonPool-worker-1/INFO]: [Skript] Loaded 5324 aliases in 128ms
+[08:02:32] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: mmoitems [6.10.1-SNAPSHOT]
+[08:02:32] [Server thread/INFO]: [MMOItems] Hooked onto PlaceholderAPI
+[08:02:32] [Server thread/INFO]: [MMOItems] Loading recipes, please wait...
+[08:02:32] [Server thread/INFO]: [AerethCharacterCreatorCore] Enabling AerethCharacterCreatorCore v1.0.0
+[08:02:32] [Server thread/INFO]: [AerethCharacterCreatorCore] Aereth Character Creator Core enabled.
+[08:02:32] [Server thread/INFO]: [BetonQuest] Enabling BetonQuest v2.2.1
+[08:02:32] [Server thread/INFO]: [BetonQuest] Running on JRE 21.0.7 (build 6, optional LTS, pre-release info N/A) by Eclipse Adoptium
+[08:02:32] [Server thread/INFO]: [BetonQuest] Using SQLite for storing data!
+[08:02:32] [Server thread/INFO]: [BetonQuest] Hooking into PlaceholderAPI
+[08:02:32] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: betonquest [2.2.1]
+[08:02:32] [Server thread/INFO]: [BetonQuest] Hooking into LuckPerms
+[08:02:32] [Server thread/INFO]: [BetonQuest] Hooking into Vault
+[08:02:32] [Server thread/INFO]: [BetonQuest] Hooking into WorldEdit
+[08:02:32] [Server thread/INFO]: [BetonQuest] Hooking into WorldGuard
+[08:02:32] [Server thread/INFO]: [BetonQuest] Hooking into MythicMobs
+[08:02:32] [Server thread/INFO]: [BetonQuest] Hooking into MythicLib
+[08:02:32] [Server thread/INFO]: [BetonQuest] Hooking into ProtocolLib
+[08:02:32] [Server thread/INFO]: [BetonQuest] Hooking into DecentHolograms
+[08:02:32] [Server thread/INFO]: [BetonQuest] Hooking into Shopkeepers
+[08:02:32] [Server thread/INFO]: [BetonQuest] Hooking into Skript
+[08:02:32] [Server thread/INFO]: [BetonQuest] Hooking into MMOItems
+[08:02:32] [Server thread/INFO]: [BetonQuest] Using DecentHolograms as dedicated hologram provider!
+[08:02:32] [Server thread/INFO]: [BetonQuest] BetonQuest successfully enabled!
+[08:02:32] [Server thread/INFO]: [CommandAPI] Enabling CommandAPI v11.2.0
+[08:02:32] [Server thread/INFO]: [CommandAPI] Hooked into Paper ServerResourcesReloadedEvent
+[08:02:32] [Server thread/INFO]: [FragmentEngine] Enabling FragmentEngine v1.10.0
+[08:02:32] [Server thread/WARN]: [FragmentEngine] Could not save races.yml to plugins/FragmentEngine/races.yml because races.yml already exists.
+[08:02:32] [Server thread/WARN]: [FragmentEngine] Could not save fragments.yml to plugins/FragmentEngine/fragments.yml because fragments.yml already exists.
+[08:02:32] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: aereth [1.10.0]
+[08:02:32] [Server thread/INFO]: [FragmentEngine] PlaceholderAPI expansion registered: %aereth_...%
+[08:02:32] [Server thread/INFO]: [FragmentEngine] FragmentEngine enabled. Reality has begun remembering.
+[08:02:32] [Server thread/INFO]: [Oraxen] Enabling Oraxen v1.211.0
+[08:02:32] [Server thread/INFO]: Oraxen | [ProtocolLibAdapter] registerTitleListener called
+[08:02:32] [Server thread/INFO]: Oraxen | [ProtocolLibAdapter] Title Listener registered successfully
+[08:02:33] [Server thread/INFO]: Oraxen | The texture specified for farmer_tag does not exist. This will break all your glyphs.
+[08:02:33] [Server thread/INFO]: Oraxen | It has been temporarily set to a placeholder image. You should edit this in the glyph config.
+[08:02:33] [Server thread/INFO]: Oraxen | The texture specified for explorer_tag does not exist. This will break all your glyphs.
+[08:02:33] [Server thread/INFO]: Oraxen | It has been temporarily set to a placeholder image. You should edit this in the glyph config.
+[08:02:33] [Server thread/INFO]: Oraxen | The texture specified for knight_tag does not exist. This will break all your glyphs.
+[08:02:33] [Server thread/INFO]: Oraxen | It has been temporarily set to a placeholder image. You should edit this in the glyph config.
+[08:02:33] [Server thread/INFO]: Oraxen | The texture specified for lord_tag does not exist. This will break all your glyphs.
+[08:02:33] [Server thread/INFO]: Oraxen | It has been temporarily set to a placeholder image. You should edit this in the glyph config.
+[08:02:33] [Server thread/INFO]: Oraxen | The texture specified for prince_tag does not exist. This will break all your glyphs.
+[08:02:33] [Server thread/INFO]: Oraxen | It has been temporarily set to a placeholder image. You should edit this in the glyph config.
+[08:02:33] [Server thread/INFO]: Oraxen | The texture specified for king_tag does not exist. This will break all your glyphs.
+[08:02:33] [Server thread/INFO]: Oraxen | It has been temporarily set to a placeholder image. You should edit this in the glyph config.
+[08:02:33] [Server thread/INFO]: Oraxen | The texture specified for hero_tag does not exist. This will break all your glyphs.
+[08:02:33] [Server thread/INFO]: Oraxen | It has been temporarily set to a placeholder image. You should edit this in the glyph config.
+[08:02:33] [Server thread/INFO]: Oraxen | The texture specified for god_tag does not exist. This will break all your glyphs.
+[08:02:33] [Server thread/INFO]: Oraxen | It has been temporarily set to a placeholder image. You should edit this in the glyph config.
+[08:02:33] [Server thread/INFO]: Oraxen | The texture specified for heart does not exist. This will break all your glyphs.
+[08:02:33] [Server thread/INFO]: Oraxen | It has been temporarily set to a placeholder image. You should edit this in the glyph config.
+[08:02:33] [Server thread/INFO]: Oraxen | The texture specified for logo does not exist. This will break all your glyphs.
+[08:02:33] [Server thread/INFO]: Oraxen | It has been temporarily set to a placeholder image. You should edit this in the glyph config.
+[08:02:33] [Server thread/INFO]: Oraxen | The texture specified for menu_banner does not exist. This will break all your glyphs.
+[08:02:33] [Server thread/INFO]: Oraxen | It has been temporarily set to a placeholder image. You should edit this in the glyph config.
+[08:02:33] [Server thread/INFO]: Oraxen | The texture specified for menu_recipe does not exist. This will break all your glyphs.
+[08:02:33] [Server thread/INFO]: Oraxen | It has been temporarily set to a placeholder image. You should edit this in the glyph config.
+[08:02:33] [Server thread/INFO]: Oraxen | The texture specified for menu_items does not exist. This will break all your glyphs.
+[08:02:33] [Server thread/INFO]: Oraxen | It has been temporarily set to a placeholder image. You should edit this in the glyph config.
+[08:02:33] [Server thread/INFO]: Oraxen | The texture specified for menu_items_overlay does not exist. This will break all your glyphs.
+[08:02:33] [Server thread/INFO]: Oraxen | It has been temporarily set to a placeholder image. You should edit this in the glyph config.
+[08:02:33] [Server thread/INFO]: Oraxen | The texture specified for required does not exist. This will break all your glyphs.
+[08:02:33] [Server thread/INFO]: Oraxen | It has been temporarily set to a placeholder image. You should edit this in the glyph config.
+[08:02:33] [Server thread/INFO]: Oraxen | Loaded 4 text effects
+[08:02:33] [Server thread/INFO]: Oraxen | Loaded 16 glyphs, 0 reference glyphs, 1 animated glyphs
+[08:02:33] [Server thread/INFO]: Oraxen | Registered backpack cosmetic: leather_backpack (slot: null)
+[08:02:33] [Server thread/INFO]: Oraxen | Sound compatibility issue with ENTITY_ENDER_DRAGON_HURT, using fallback sound
+[08:02:33] [Server thread/INFO]: Oraxen | No HUDs loaded, skipping task registration
+[08:02:33] [Server thread/INFO]: Oraxen | Processing 1 animated glyphs...
+[08:02:33] [Server thread/INFO]: Oraxen | Generated animation font for: spinner (16 frames @ 16 fps)
+[08:02:33] [Server thread/INFO]: Oraxen | Generated text shaders for 1.20.6 (pack_format=32) (shader 1.20)
+[08:02:33] [Server thread/INFO]: Oraxen | Generated Custom-Armor datapack. A server restart is required for this feature to work.
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/ruby_ore.json: default/ruby_ore
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/gold_cog.json: default/gold_cog
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/brunnera.json: default/flowers/brunnera
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/onyx_hammer.json: default/onyx_hammer
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/emerald_leggings.json: default/armors/emerald_leggings
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/iron_serpe.json: default/iron_serpe
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_log.json: default/crystalmush/wood_crystalmush_side_anim
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_log.json: default/crystalmush/wood_crystalmush_top_anim
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/iron_cog.json: default/iron_cog
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/welcome_disk.json: default/welcome_disk
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/emerald_hammer.json: default/emerald_hammer
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/grape.json: default/grape
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/obsidian_sword.json: default/obsidian_sword
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/obsidian_boots.json: default/armors/obsidian_boots
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/arrow_next_icon.json: required/arrow_next_icon
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_stairs.json: default/crystalmush/crystalmush_planks_anim
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_stairs.json: default/crystalmush/crystalmush_planks_anim
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_stairs.json: default/crystalmush/crystalmush_planks_anim
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_planks.json: default/crystalmush/crystalmush_planks_anim
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_door.json: default/crystalmush/crystalmush_door_icon
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/orax_hammer.json: default/orax_hammer
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/ruby_helmet.json: default/armors/ruby_helmet
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/orax.json: default/orax
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/obsidian_pickaxe.json: default/obsidian_pickaxe
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_leaves.json: default/crystalmush/crystalmush_leaves_anim
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/orax_ore.json: default/orax_ore
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/onyx_ore.json: default/onyx_ore
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/glass_sword.json: default/glass_sword
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/exit_icon.json: required/exit_icon
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/obsidian_leggings.json: default/armors/obsidian_leggings
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/ruby_boots.json: default/armors/ruby_boots
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/fire_hammer.json: default/fire_hammer
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/emerald_boots.json: default/armors/emerald_boots
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/diamond_cog.json: default/diamond_cog
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/ruby_leggings.json: default/armors/ruby_leggings
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/ruby_chestplate.json: default/armors/ruby_chestplate
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/miner_sandwitch.json: default/sandwitch
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/amethyst_ore.json: default/amethyst_ore
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/obsidian_helmet.json: default/armors/obsidian_helmet
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/magic_elytra.json: default/armors/magic_elytra_icon
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/emerald_chestplate.json: default/armors/emerald_chestplate
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_trapdoor.json: default/crystalmush/crystalmush_trapdoor_anim
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/dailily.json: default/flowers/dailily
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/amethyst.json: default/amethyst
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/emerald_helmet.json: default/armors/emerald_helmet
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/weed_leaf.json: default/weed/leaf
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/obsidian_chestplate.json: default/armors/obsidian_chestplate
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_slab.json: default/crystalmush/crystalmush_planks_anim
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_slab.json: default/crystalmush/crystalmush_planks_anim
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_slab.json: default/crystalmush/crystalmush_planks_anim
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/arrow_previous_icon.json: required/arrow_previous_icon
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/ruby.json: default/ruby
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/onyx.json: default/onyx
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/grape_seeds.json: default/grape_seeds
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/daffodil.json: default/flowers/daffodil
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/weed_seed.json: default/weed/seed
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/amethyst_hammer.json: default/amethyst_hammer
+[08:02:33] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:02:33] [Server thread/INFO]: Oraxen | Found unreadable texture at assets/minecraft/textures/trims/models/armor/chainmail.png
+[08:02:33] [Server thread/INFO]: Oraxen | Found unreadable texture at assets/minecraft/textures/trims/models/armor/chainmail_leggings.png
+[08:02:33] [Server thread/INFO]: Oraxen | Pack contains malformed texture(s) and/or model(s)
+[08:02:33] [Server thread/INFO]: Oraxen | These need to be fixed, otherwise the resourcepack will be broken
+[08:02:33] [Server thread/INFO]: Oraxen | Attempting to exclude malformed textures from atlas-file
+[08:02:33] [Server thread/INFO]: Oraxen | Excluding malformed texture from atlas-file: assets/minecraft/textures/trims/models/armor/chainmail_leggings.png
+[08:02:33] [Server thread/INFO]: Oraxen | Excluding malformed texture from atlas-file: assets/minecraft/textures/trims/models/armor/chainmail.png
+[08:02:33] [Server thread/INFO]: Oraxen | Generated Jukebox datapack. A server restart is required for this feature to work.
+[08:02:33] [Server thread/INFO]: Oraxen | Successfully loaded on Ubuntu 24.04.2 LTS (noble)
+[08:02:33] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: oraxen [1.211.0]
+[08:02:33] [Server thread/INFO]: Oraxen | Plugin "PlaceholderAPI" detected, enabling hooks
+[08:02:33] [Server thread/INFO]: Oraxen | Plugin "MythicMobs" detected, enabling hooks
+[08:02:33] [Server thread/INFO]: Oraxen | Skript compatibility enabled - Oraxen syntax registered
+[08:02:33] [Server thread/INFO]: Oraxen | Plugin "Skript" detected, enabling hooks
+[08:02:33] [Server thread/INFO]: Oraxen | This is a compiled version of Oraxen.
+[08:02:33] [Server thread/INFO]: Oraxen | Compiled versions come without Default assets and support is not provided.
+[08:02:33] [Server thread/INFO]: Oraxen | Consider purchasing Oraxen on SpigotMC or Polymart for access to the full version.
+[08:02:33] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v23.1
+[08:02:34] [Server thread/INFO]: [CoreProtect] CoreProtect Community Edition has been successfully enabled! 
+[08:02:34] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[08:02:34] [Server thread/INFO]: --------------------
+[08:02:34] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Join our Discord!
+[08:02:34] [Server thread/INFO]: [CoreProtect] Discord: www.coreprotect.net/discord/
+[08:02:34] [Server thread/INFO]: --------------------
+[08:02:34] [Server thread/INFO]: [BlueMap] Enabling BlueMap v5.15
+[08:02:34] [Server thread/INFO]: [BlueMap] Saving all worlds once, to make sure the level.dat is present...
+[08:02:34] [Server thread/WARN]: A manual (plugin-induced) save has been detected while server is configured to auto-save. This may affect performance.
+[08:02:34] [BlueMap-Load/INFO]: [BlueMap] Loading...
+[08:02:34] [Server thread/INFO]: [WorldFracture] Enabling WorldFracture v1.7.0
+[08:02:34] [Server thread/WARN]: [WorldFracture] Could not save zones.yml to plugins/WorldFracture/zones.yml because zones.yml already exists.
+[08:02:34] [Server thread/INFO]: [WorldFracture] WorldFracture enabled. The world is listening.
+[08:02:34] [Server thread/INFO]: [MiniMOTD] Enabling MiniMOTD v2.2.2
+[08:02:35] [Server thread/INFO]: [SimpleScore] Enabling SimpleScore v4.0.1
+[08:02:35] [Server thread/INFO]: [TheNewEconomy] Enabling TheNewEconomy v0.1.4.0
+[08:02:35] [BlueMap-Load/INFO]: [BlueMap] Loading resources...
+[08:02:35] [Server thread/WARN]: [TheNewEconomy] Unable to contact update server!
+[08:02:35] [BlueMap-Load/INFO]: [BlueMap] Resources loaded.
+[08:02:36] [BlueMap-Load/INFO]: [BlueMap] Initializing Storage: 'file' (Type: 'bluemap:file')
+[08:02:36] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world'...
+[08:02:36] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world_the_end'...
+[08:02:36] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world_nether'...
+[08:02:36] [BlueMap-Load/INFO]: [BlueMap] WebServer bound to all network interfaces on port 8100
+[08:02:36] [Thread-21/INFO]: [BlueMap] WebServer started.
+[08:02:36] [BlueMap-Load/INFO]: [BlueMap] Loaded!
+[08:02:36] [Server thread/WARN]: [TheNewEconomy] Unable to contact update server!
+[08:02:36] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: tne [0.1.4.0]
+[08:02:36] [Server thread/INFO]: [TheNewEconomy] The New Economy has been enabled!
+[08:02:36] [Server thread/INFO]: [spark] Enabling spark v1.10.173
+[08:02:36] [Server thread/INFO]: [spark] Using Paper ServerTickStartEvent for tick monitoring
+[08:02:36] [Server thread/INFO]: [spark] Starting background profiler...
+[08:02:36] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: spark [1.10.173]
+[08:02:36] [Server thread/INFO]: [spark] Registered PlaceholderAPI placeholders
+[08:02:36] [Server thread/INFO]: [PlayerTitles] Enabling PlayerTitles v1.2
+[08:02:36] [Server thread/INFO]: [DeluxeMenus] Enabling DeluxeMenus v1.14.1-Release
+[08:02:36] [Server thread/INFO]: [DeluxeMenus] Successfully hooked into PlaceholderAPI!
+[08:02:36] [Server thread/INFO]: [DeluxeMenus] Successfully hooked into Vault!
+[08:02:36] [Server thread/WARN]: [DeluxeMenus] Found 'data' option for item: teststone in menu: basics_menu. This option is deprecated and will be removed soon. Please use 'damage' instead.
+[08:02:36] [Server thread/INFO]: [DeluxeMenus] 3 GUI menus loaded!
+[08:02:36] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: deluxemenus [1.14.1-Release]
+[08:02:36] [Server thread/INFO]: [DeluxeMenus] You are running the latest version of DeluxeMenus!
+[08:02:36] [Server thread/INFO]: [AerethCreatorFragmentBridge] Enabling AerethCreatorFragmentBridge v1.0.1
+[08:02:36] [Server thread/INFO]: [AerethCreatorFragmentBridge] AerethCreatorFragmentBridge enabled. CharacterCreator -> FragmentEngine mirror armed.
+[08:02:36] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[08:02:36] [Server thread/INFO]: Running delayed init tasks
+[08:02:36] [ForkJoinPool.commonPool-worker-5/INFO]: [ModelEngine] [A] 
+[08:02:36] [ForkJoinPool.commonPool-worker-5/INFO]: [ModelEngine] [A] [Importing models]
+[08:02:36] [ForkJoinPool.commonPool-worker-5/INFO]: [ModelEngine] [A] Loading cache version: R4.0.8
+[08:02:36] [Craft Scheduler Thread - 6 - DecentHolograms/INFO]: 
 A newer version of DecentHolograms is available. Download it from: 
 - https://www.spigotmc.org/resources/96927/
 - https://modrinth.com/plugin/decentholograms
-[14:37:36] [pool-20-thread-1/INFO]: [ModelEngine] [A] 
-[14:37:36] [pool-20-thread-1/INFO]: [ModelEngine] [A] Importing aereth_delver_preview_v2.bbmodel.
-[14:37:36] [pool-20-thread-1/WARN]: [ModelEngine] [A] --Warning: Missing hitbox.
-[14:37:36] [pool-20-thread-3/INFO]: [ModelEngine] [A] 
-[14:37:36] [pool-20-thread-3/INFO]: [ModelEngine] [A] Importing aereth_sylvae_preview_v2.bbmodel.
-[14:37:36] [pool-20-thread-3/WARN]: [ModelEngine] [A] --Warning: Missing hitbox.
-[14:37:36] [pool-20-thread-5/INFO]: [ModelEngine] [A] 
-[14:37:36] [pool-20-thread-5/INFO]: [ModelEngine] [A] Importing internal_fire.bbmodel.
-[14:37:36] [pool-20-thread-2/INFO]: [ModelEngine] [A] 
-[14:37:36] [pool-20-thread-2/INFO]: [ModelEngine] [A] Importing aereth_remnant_preview_v2.bbmodel.
-[14:37:36] [pool-20-thread-2/WARN]: [ModelEngine] [A] --Warning: Missing hitbox.
-[14:37:36] [pool-20-thread-4/INFO]: [ModelEngine] [A] 
-[14:37:36] [pool-20-thread-4/INFO]: [ModelEngine] [A] Importing aereth_vireborn_preview_v2.bbmodel.
-[14:37:36] [pool-20-thread-4/WARN]: [ModelEngine] [A] --Warning: Missing hitbox.
-[14:37:36] [Server thread/INFO]: [Skript] Loading variables...
-[14:37:36] [Craft Scheduler Thread - 7 - SimpleScore/WARN]: [SimpleScore] New version (v4.2.0) available. Download at:
-[14:37:36] [Craft Scheduler Thread - 7 - SimpleScore/WARN]: [SimpleScore] https://modrinth.com/plugin/simplescore
-[14:37:37] [Craft Scheduler Thread - 6 - BetonQuest/WARN]: [BetonQuest] Could not fetch version updates. Probably the host is currently not available: nexus.betonquest.org
-[14:37:37] [Server thread/INFO]: [Skript] Loaded 0 variables in 0.0 seconds
-[14:37:37] [Server thread/INFO]: [Skript] All scripts loaded without errors.
-[14:37:37] [pool-20-thread-7/INFO]: [ModelEngine] [A] 
-[14:37:37] [Server thread/INFO]: [Skript]     No scripts were found, maybe you should write some ;)
-[14:37:37] [Server thread/INFO]: [Skript] Finished loading.
-[14:37:37] [pool-20-thread-7/INFO]: [ModelEngine] [A] Resource pack zipped.
-[14:37:37] [pool-20-thread-7/INFO]: [ModelEngine] [A] Generator Profiled:
-[14:37:37] [pool-20-thread-7/INFO]: [ModelEngine] [A]  - Import Phase: 28.8ms
-[14:37:37] [pool-20-thread-7/INFO]: [ModelEngine] [A]  - Assets Phase: 77.4ms
-[14:37:37] [pool-20-thread-7/INFO]: [ModelEngine] [A]  - Zipping Phase: 6.8ms
-[14:37:37] [Server thread/INFO]: [BetonQuest] Enabled compatibility for LuckPerms, WorldEdit, Skript, DecentHolograms, PlaceholderAPI, MythicLib, WorldGuard, ProtocolLib, Shopkeepers, MythicMobs, Vault!
-[14:37:37] [Server thread/INFO]: [BetonQuest] There are 23 conditions, 71 events, 1 objectives and 1 conversations loaded from 2 packages.
-[14:37:37] [Server thread/INFO]: [BetonQuest] Â§aReloaded 0Â§a menus
-[14:37:37] [Server thread/INFO]: [CoreProtect] WorldEdit logging successfully initialized.
-[14:37:37] [Server thread/INFO]: Done (20.356s)! For help, type "help"
-[14:37:37] [Server thread/INFO]: Timings Reset
-[14:37:37] [Craft Scheduler Thread - 0 - MiniMOTD/INFO]: [MiniMOTD] There is an update available for MiniMOTD!
-[14:37:37] [Craft Scheduler Thread - 0 - MiniMOTD/INFO]: [MiniMOTD] This server is running version v2.2.2, which is 2 versions outdated.
-[14:37:37] [Craft Scheduler Thread - 0 - MiniMOTD/INFO]: [MiniMOTD] Download the latest version, v2.2.4 from Modrinth at the link below:
-[14:37:37] [Craft Scheduler Thread - 0 - MiniMOTD/INFO]: [MiniMOTD] https://modrinth.com/plugin/minimotd
-[14:37:37] [Server thread/INFO]: [PlaceholderAPI] An update for PlaceholderAPI (v2.12.2) is available at:
-[14:37:37] [Server thread/INFO]: [PlaceholderAPI] https://www.spigotmc.org/resources/placeholderapi.6245/
-[14:37:38] [Thread-34/INFO]: --------------------
-[14:37:38] [Thread-34/INFO]: [CoreProtect] Version 23.2 is now available.
-[14:37:38] [Thread-34/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
-[14:37:38] [Thread-34/INFO]: --------------------
-[18:22:03] [Server thread/INFO]: Stopping the server
-[18:22:03] [Server thread/INFO]: Stopping server
-[18:22:03] [Server thread/INFO]: [AerethCreatorFragmentBridge] Disabling AerethCreatorFragmentBridge v1.0.1
-[18:22:03] [Server thread/INFO]: [DeluxeMenus] Disabling DeluxeMenus v1.14.1-Release
-[18:22:03] [Server thread/INFO]: [PlayerTitles] Disabling PlayerTitles v1.2
-[18:22:03] [Server thread/INFO]: [MythicLib] Disabling MythicLib v1.7
-[18:22:03] [Server thread/INFO]: [spark] Disabling spark v1.10.173
-[18:22:03] [Server thread/INFO]: [TheNewEconomy] Disabling TheNewEconomy v0.1.4.0
-[18:22:03] [Server thread/INFO]: [SimpleScore] Disabling SimpleScore v4.0.1
-[18:22:03] [Server thread/INFO]: [ModelEngine] Disabling ModelEngine vR4.0.9
-[18:22:03] [Server thread/INFO]: [MiniMOTD] Disabling MiniMOTD v2.2.2
-[18:22:03] [Server thread/INFO]: [WorldFracture] Disabling WorldFracture v1.7.0
-[18:22:03] [Server thread/INFO]: [WorldFracture] WorldFracture disabled. Zone memory saved.
-[18:22:03] [Server thread/INFO]: [BlueMap] Disabling BlueMap v5.15
-[18:22:03] [Server thread/INFO]: [BlueMap] Stopping...
-[18:22:04] [Server thread/INFO]: [BlueMap] Saved and stopped!
-[18:22:04] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v23.1
-[18:22:04] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
-[18:22:05] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v23.1
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Disabling WorldGuardRegionProtect v1.10.11.21
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Saving all configuration files before the plugin shuts down...
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: CONFIG_VERSION = 5
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: LANG = en_US
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: SEND_NO_UPDATE = true
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: UPDATE_CHECKER = true
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: INTERACT_TYPE = [player, bat, armor_stand, end_crystal, bucket, water_bucket, lava_bucket, tropical_fish_bucket, pufferfish_bucket, axolotl_bucket, cod_bucket, salmon_bucket, tadpole_bucket, item_frame, glow_item_frame, painting]
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: VEHICLE_TYPE = [minecart, tnt_minecart, command_block_minecart, hopper_minecart, chest_minecart, furnace_minecart, oak_boat, oak_chest_boat, spruce_boat, spruce_chest_boat, birch_boat, birch_chest_boat, jungle_boat, jungle_chest_boat, acacia_boat, acacia_chest_boat, dark_oak_boat, dark_oak_chest_boat, mangrove_boat, mangrove_chest_boat, cherry_boat, cherry_chest_boat, bamboo_raft, bamboo_chest_raft]
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: ANIMAL_TYPE = [axolotl, villager, donkey, parrot, allay, trader_llama, horse, polar_bear, ocelot, cat, frog, cow, fox, mushroom_cow, zombie_horse, panda, bee, skeleton_horse, pig, llama, goat, wolf, chicken, sniffer, sheep, rabbit, turtle, wandering_trader, mule, tadpole, camel, snowman, iron_golem]
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: MONSTER_TYPE = [vindicator, guardian, creeper, vex, hoglin, cave_spider, evoker, elder_guardian, husk, wither, enderman, spider, skeleton, piglin, wither_skeleton, giant, zombie_villager, endermite, warden, ravager, zombified_piglin, silverfish, phantom, stray, drowned, blaze, illusioner, piglin_brute, zombie, shulker, witch, pillager, zoglin, breeze, bogged, creaking]
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: ENEMY_ENTITY_TYPE = [ender_dragon, magma_cube, slime, ghast]
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: MISC_ENTITY_TYPE = [egg, ender_pearl, experience_orb, snowball]
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: WATER_MOB_TYPE = [squid, dolphin, glow_squid, cod, tropical_fish, salmon, pufferfish]
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: SIGN_TYPE = [oak_sign, spruce_sign, birch_sign, jungle_sign, acacia_sign, dark_oak_sign, mangrove_sign, cherry_sign, bamboo_sign, crimson_sign, warped_sign, oak_hanging_sign, spruce_hanging_sign, birch_hanging_sign, jungle_hanging_sign, acacia_hanging_sign, dark_oak_hanging_sign, mangrove_hanging_sign, cherry_hanging_sign, bamboo_hanging_sign, crimson_hanging_sign, warped_hanging_sign]
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: ENTITY_EXPLODE_TYPE = [fireball, primed_tnt, end_crystal, minecart_tnt, wither_skull]
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: NATURAL_BLOCK_OR_ITEM = [oak_sapling, spruce_sapling, birch_sapling, jungle_sapling, dark_oak_sapling, mangrove_propagule, dead_bush, fern, azalea, flowering_azalea, dandelion, poppy, blue_orchid, allium, azure_bluet, red_tulip, orange_tulip, white_tulip, pink_tulip, oxeye_daisy, cornflower, lily_of_the_valley, bamboo, sugar_cane, cactus, wither_rose, crimson_roots, warped_roots, cherry_sapling, torchflower]
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_COLLISION_WITH_VEHICLE = true
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_SIT_AS_PASSENGER_IN_VEHICLE = true
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_DAMAGE_VEHICLE = true
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_TAKE_LECTERN_BOOK = true
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_MANIPULATE_WITH_FLOWERPOT = true
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_LAVA_FLOW_TO_REGION = true
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_FORM_BLOCK_FROM_LAVA_AND_WATER = true
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_USE_SUPER_PICKAXE = true
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_CREATURE_SPAWN = true
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_MOB_SPAWN_FROM_SPAWNER = true
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_MOB_NATURALLY_SPAWN = true
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_WATER_FLOW_TO_REGION = true
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_INTERACT_WITH_FLOWER_POT = true
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_PLACE_ITEM_FRAME_OR_PAINTING = true
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_INTERACT_WITH_ITEM_FRAME = true
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_DAMAGE_ITEM_FRAME_OR_PAINTING = true
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_STONECUTTER_RECIPE_SELECT = true
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_LOOM_PATTERN_SELECT = true
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: CHECK_PLAYER_IN_STANDING_REGION = false
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: CMD_WE = [//set, //replace, //overlay, //walls, //deform, //fill, //fillr, //fixlava, //hollow, //move, //stack, //smooth, //cut, //replacenear]
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: CMD_WE_C = [//cyl, //hcyl, //drain, //rep]
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: CMD_WE_P = [//pyramid, //hpyramid]
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: CMD_WE_S = [//sphere, //hsphere]
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: CMD_WE_U = [//up, /up]
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: CMD_WE_CP = [//paste, //place, //replacenear, //hollow]
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_EXPLODE_ENTITY = true
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: REGION_MESSAGE_PROTECT_BY_PLAYER = true
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: REGION_MESSAGE_PROTECT = true
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: REGION_MESSAGE_PROTECT_WE = true
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: IS_SPY_COMMAND_NOTIFY_CONSOLE_ENABLE = true
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: IS_SPY_COMMAND_NOTIFY_ADMIN_ENABLE = true
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: IS_SPY_COMMAND_NOTIFY_ADMIN_PLAY_SOUND_ENABLE = true
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: SPY_COMMAND_NOTIFY_PLAY_SOUND_TYPE = BLOCK_ANVIL_PLACE
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: SPY_COMMAND_LIST = [//set, //replace, //overlay, //walls, //deform, //fill, //fillr, //fixlava, //hollow, //move, //stack, //smooth, //cut, //replacenear]
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_ENABLE = false
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_HOST = localhost
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_PORT = 3306
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_DATABASE = wgrp_core
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_USER = null
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_PASSWORD = root
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_TABLE = null
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_MAX_POOL_SIZE = 10
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_MAX_LIFE_TIME = 1800
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_CONNECTION_TIMEOUT = 5000
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_USE_SSL = true
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_INTERVAL_RELOAD = 60
-[18:22:05] [Server thread/INFO]: [WorldGuardRegionProtect] Saved complete. Good luck and thanks for using WorldGuardRegionProtect!
-[18:22:05] [Server thread/INFO]: [FragmentEngine] Disabling FragmentEngine v1.9.0
-[18:22:05] [Server thread/INFO]: [FragmentEngine] FragmentEngine disabled. Memory has been sealed.
-[18:22:05] [Server thread/INFO]: [BetonQuest] Disabling BetonQuest v2.2.1
-[18:22:05] [Server thread/INFO]: [BetonQuest] BetonQuest successfully disabled!
-[18:22:05] [Server thread/INFO]: [AerethCharacterCreatorCore] Disabling AerethCharacterCreatorCore v1.0.0
-[18:22:05] [Server thread/INFO]: [Skript] Disabling Skript v2.12.2
-[18:22:05] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v2.22.2
-[18:22:05] [Server thread/INFO]: [MythicMobs] Disabling MythicMobs v5.9.5-f13ab4a1
-[18:22:05] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
-[18:22:05] [Server thread/INFO]: [MythicMobs] - 
-[18:22:05] [Server thread/INFO]: [MythicMobs] - Unloading Mythic...
-[18:22:05] [Server thread/INFO]: [MythicMobs] - 
-[18:22:05] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
-[18:22:05] [Server thread/INFO]: [MythicMobs] - Spawners saved and unloaded...
-[18:22:05] [Server thread/INFO]: [MythicMobs] - Mobs saved and unloaded...
-[18:22:05] [Server thread/INFO]: [MythicMobs] Saving plugin data...
-[18:22:05] [Server thread/INFO]: [MythicMobs] âœ“Saving Finished
-[18:22:05] [Server thread/INFO]: [MythicMobs] - Variables saved...
-[18:22:05] [Server thread/INFO]: [MythicMobs] - All active settings have been saved!
-[18:22:05] [Server thread/INFO]: [MythicMobs] - Mythic has been unloaded!
-[18:22:05] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
-[18:22:05] [Server thread/INFO]: [MythicMobs] Saving plugin data...
-[18:22:05] [Server thread/INFO]: [MythicMobs] âœ“Saving Finished
-[18:22:05] [Server thread/INFO]: [DecentHolograms] Disabling DecentHolograms v2.9.9
-[18:22:05] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.4.0
-[18:22:05] [Server thread/INFO]: [GriefPrevention] Disabling GriefPrevention v16.18.5
-[18:22:05] [Server thread/INFO]: [GriefPrevention] GriefPrevention disabled.
-[18:22:05] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v5.3.4
-[18:22:05] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.10+d9424b1
-[18:22:05] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
-[18:22:05] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.9+6959-7adf70b
-[18:22:05] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[18:22:05] [Server thread/INFO]: [Vault] Disabling Vault v2.17.0
-[18:22:05] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.21
-[18:22:05] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[18:22:05] [Server thread/INFO]: [LuckPerms] Closing storage...
-[18:22:05] [Server thread/INFO]: [LuckPerms] Goodbye!
-[18:22:05] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.7
-[18:22:05] [Server thread/INFO]: Saving players
-[18:22:05] [Server thread/INFO]: Saving worlds
-[18:22:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[main]'/minecraft:overworld
-[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'main'
-[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'main'
-[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'main'
-[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 23 entity chunks, 0 poi chunks in world 'main' in 0.00s
-[18:22:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (main): All chunks are saved
-[18:22:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[main_nether]'/minecraft:the_nether
-[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'main_nether'
-[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'main_nether'
-[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'main_nether'
-[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 3 entity chunks, 0 poi chunks in world 'main_nether' in 0.00s
-[18:22:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:22:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[main_the_end]'/minecraft:the_end
-[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'main_the_end'
-[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'main_the_end'
-[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'main_the_end'
-[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'main_the_end' in 0.00s
-[18:22:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:22:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[creator_world]'/minecraft:creator_world
-[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'creator_world'
-[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'creator_world'
-[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'creator_world'
-[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 16 entity chunks, 0 poi chunks in world 'creator_world' in 0.00s
-[18:22:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (creator_world): All chunks are saved
-[18:22:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:world_the_end
-[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 5 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[18:22:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:22:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[build]'/minecraft:build
-[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'build'
-[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'build'
-[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'build'
-[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 7 entity chunks, 0 poi chunks in world 'build' in 0.00s
-[18:22:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (build): All chunks are saved
-[18:22:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:world_nether
-[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[18:22:05] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
-[18:22:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:22:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[18:22:05] [Server thread/INFO]: Flushing Chunk IO
-[18:22:05] [Server thread/INFO]: Closing Thread Pool
-[18:22:05] [Server thread/INFO]: Closing Server
+[08:02:36] [pool-19-thread-3/INFO]: [ModelEngine] [A] 
+[08:02:36] [pool-19-thread-3/INFO]: [ModelEngine] [A] Importing aereth_sylvae_preview_v2.bbmodel.
+[08:02:36] [pool-19-thread-3/WARN]: [ModelEngine] [A] --Warning: Missing hitbox.
+[08:02:36] [pool-19-thread-4/INFO]: [ModelEngine] [A] 
+[08:02:36] [pool-19-thread-4/INFO]: [ModelEngine] [A] Importing aereth_vireborn_preview_v2.bbmodel.
+[08:02:36] [pool-19-thread-4/WARN]: [ModelEngine] [A] --Warning: Missing hitbox.
+[08:02:36] [pool-19-thread-1/INFO]: [ModelEngine] [A] 
+[08:02:36] [pool-19-thread-1/INFO]: [ModelEngine] [A] Importing aereth_delver_preview_v2.bbmodel.
+[08:02:36] [pool-19-thread-1/WARN]: [ModelEngine] [A] --Warning: Missing hitbox.
+[08:02:36] [Craft Scheduler Thread - 10 - SimpleScore/WARN]: [SimpleScore] New version (v4.2.0) available. Download at:
+[08:02:36] [Craft Scheduler Thread - 10 - SimpleScore/WARN]: [SimpleScore] https://modrinth.com/plugin/simplescore
+[08:02:36] [pool-19-thread-5/INFO]: [ModelEngine] [A] 
+[08:02:36] [pool-19-thread-5/INFO]: [ModelEngine] [A] Importing internal_fire.bbmodel.
+[08:02:36] [pool-19-thread-2/INFO]: [ModelEngine] [A] 
+[08:02:36] [pool-19-thread-2/INFO]: [ModelEngine] [A] Importing aereth_remnant_preview_v2.bbmodel.
+[08:02:36] [pool-19-thread-2/WARN]: [ModelEngine] [A] --Warning: Missing hitbox.
+[08:02:36] [Server thread/INFO]: [Skript] Loading variables...
+[08:02:36] [Server thread/INFO]: [Skript] Loaded 0 variables in 0.0 seconds
+[08:02:36] [Craft Scheduler Thread - 9 - MiniMOTD/INFO]: [MiniMOTD] There is an update available for MiniMOTD!
+[08:02:36] [Craft Scheduler Thread - 9 - MiniMOTD/INFO]: [MiniMOTD] This server is running version v2.2.2, which is 2 versions outdated.
+[08:02:36] [Craft Scheduler Thread - 9 - MiniMOTD/INFO]: [MiniMOTD] Download the latest version, v2.2.4 from Modrinth at the link below:
+[08:02:36] [Craft Scheduler Thread - 9 - MiniMOTD/INFO]: [MiniMOTD] https://modrinth.com/plugin/minimotd
+[08:02:36] [Server thread/INFO]: [Skript] All scripts loaded without errors.
+[08:02:36] [Server thread/INFO]: [Skript]     No scripts were found, maybe you should write some ;)
+[08:02:36] [Server thread/INFO]: [Skript] Finished loading.
+[08:02:36] [Server thread/INFO]: [BetonQuest] Enabled compatibility for LuckPerms, WorldEdit, Skript, DecentHolograms, PlaceholderAPI, MythicLib, MMOItems, WorldGuard, ProtocolLib, Shopkeepers, MythicMobs, Vault!
+[08:02:36] [pool-19-thread-6/INFO]: [ModelEngine] [A] 
+[08:02:36] [pool-19-thread-6/INFO]: [ModelEngine] [A] Resource pack zipped.
+[08:02:36] [pool-19-thread-6/INFO]: [ModelEngine] [A] Generator Profiled:
+[08:02:36] [pool-19-thread-6/INFO]: [ModelEngine] [A]  - Import Phase: 35.2ms
+[08:02:36] [pool-19-thread-6/INFO]: [ModelEngine] [A]  - Assets Phase: 15.2ms
+[08:02:36] [pool-19-thread-6/INFO]: [ModelEngine] [A]  - Zipping Phase: 8.9ms
+[08:02:36] [Craft Scheduler Thread - 8 - BetonQuest/WARN]: [BetonQuest] Could not fetch version updates. Probably the host is currently not available: nexus.betonquest.org
+[08:02:37] [Server thread/INFO]: [BetonQuest] There are 23 conditions, 71 events, 1 objectives and 1 conversations loaded from 2 packages.
+[08:02:37] [Server thread/INFO]: [BetonQuest] Â§aReloaded 0Â§a menus
+[08:02:37] [Server thread/INFO]: Oraxen | Skipping zip entry with null input stream: assets/minecraft/textures/trims/models/armor/chainmail_leggings.png
+[08:02:37] [Server thread/INFO]: Oraxen | Skipping zip entry with null input stream: assets/minecraft/textures/trims/models/armor/chainmail.png
+[08:02:37] [Server thread/INFO]: Oraxen | Skipping zip entry with null input stream: assets/minecraft/textures/models/armor/chainmail_layer_2.png
+[08:02:37] [Server thread/INFO]: Oraxen | Skipping zip entry with null input stream: assets/minecraft/textures/models/armor/chainmail_layer_1.png
+[08:02:37] [Server thread/INFO]: [CoreProtect] WorldEdit logging successfully initialized.
+[08:02:37] [Server thread/INFO]: Done (17.123s)! For help, type "help"
+[08:02:37] [Server thread/INFO]: Timings Reset
+[08:02:37] [Server thread/INFO]: [PlaceholderAPI] An update for PlaceholderAPI (v2.12.2) is available at:
+[08:02:37] [Server thread/INFO]: [PlaceholderAPI] https://www.spigotmc.org/resources/placeholderapi.6245/
+[08:02:37] [Craft Scheduler Thread - 10 - Oraxen/INFO]: Oraxen | Automatic upload of the resource pack is enabled, uploading...
+[08:02:37] [Server thread/INFO]: 0 placeholder hook(s) registered!
+[08:02:37] [Craft Scheduler Thread - 10 - Oraxen/INFO]: Oraxen | Resourcepack uploaded to http://atlas.oraxen.com:8080/pack.zip?id=b18924e4eae03b8d65e5b763ad2b3c4285590913 in 744ms.
+[08:02:38] [Thread-35/INFO]: --------------------
+[08:02:38] [Thread-35/INFO]: [CoreProtect] Version 23.2 is now available.
+[08:02:38] [Thread-35/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
+[08:02:38] [Thread-35/INFO]: --------------------

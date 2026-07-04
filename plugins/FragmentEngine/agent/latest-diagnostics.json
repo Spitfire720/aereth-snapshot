@@ -1,8 +1,9 @@
 {
   "status": "ok",
   "notes": [
-    "Build 1 data backend active",
-    "Combat execution not implemented in Build 1",
-    "Legacy BetonQuest /aereth commands are shimmed"
+    "Build 2B data backend active",
+    "Race, progression, stats, and fragment foundations implemented",
+    "Combat execution not implemented yet",
+    "Intent slot system pending Build 2C"
   ]
 }

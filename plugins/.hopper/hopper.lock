@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "generated": "2026-07-04T12:02:23.326442070Z",
+  "dependencies": {
+    "CommandAPI": {
+      "name": "CommandAPI",
+      "resolvedVersion": "11.2.0",
+      "checksum": "16a9d2fe81a395b037f9003089c797935c18c3476570788dbc2c87a8b96ee8337bbd62d9e45b35df122048fde3114296689aaf316e903c501bdbb81b55765a5e",
+      "checksumType": "SHA512",
+      "downloadUrl": "https://cdn.modrinth.com/data/ExxvCi0y/versions/wtbh8UEY/CommandAPI-11.2.0-Paper.jar",
+      "fileName": "CommandAPI-11.2.0-Paper.jar"
+    }
+  }
+}

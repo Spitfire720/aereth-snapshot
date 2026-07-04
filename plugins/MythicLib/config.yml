@@ -76,24 +76,24 @@ ignore_offhand_click_triggers: false
 casting-delay:
   slowness: 60 # A % based speed reduction when casting
   cancel-on-move: false # If the casting should cancel if the player moves
-
+  
   cast-script: # MythicLib script called when the countdown begins
     enabled: true
     script:
       mechanics:
-        - 'sound{sound=BLOCK_END_PORTAL_FRAME_FILL;volume=1;pitch=2}'
-
+      - sound{sound=BLOCK_END_PORTAL_FRAME_FILL;volume=1;pitch=2}
+  
   cancel-script: # MythicLib script called if the countdown is cancelled
     enabled: true
     # Other format:
     # script: <public_script_name>
     script:
       mechanics:
-        - 'sound{sound=ENTITY_VILLAGER_NO;volume=1;pitch=2}'
-
+      - sound{sound=ENTITY_VILLAGER_NO;volume=1;pitch=2}
+  
   bossbar: # Displayed during casting delay
     enabled: true
-    format: 'CASTING'
+    format: CASTING
     style: SEGMENTED_20
     color: PURPLE
 
@@ -101,24 +101,24 @@ casting-delay:
 # stats all have a cooldown which can be reduced using the
 # '*** Cooldown Reduction' item stat.
 mitigation:
-
+  
   # Edit mitigation messages here. Leave to blank for no message.
   message:
-
+    
     # Whether or not they should display on action bar instead of chat
     action-bar: true
-
+    
     parry: '&cYou just parried #damage# damage.'
     block: '&cYou just blocked #damage# damage.' # Use #power# to display block power.
     dodge: '&cYou just dodged #damage# damage.'
-
+  
   block:
     cooldown: 5.0
-
+  
   dodge:
     knockback: 1.0
     cooldown: 5
-
+  
   parry:
     knockback: 1.0
     cooldown: 8.0
@@ -154,42 +154,42 @@ hologram-provider: TEXT_DISPLAYS
 # Displays in-game damage or heal indicators.
 # Changes apply on server restart.
 game-indicators:
-
+  
   # When an entity is being damaged
   # Use format: 'ᜌ{icon} &f{value}ᜌ' along with the resource pack
   # provided in the wiki in order to remove the gray background
   damage:
     enabled: true
-    decimal-format: '0.#'
+    decimal-format: 0.#
     format: '{icon} &f{value}'
     custom-font:
       enabled: false
       normal:
-        '0': 'ᜀ'
-        '1': 'ᜁ'
-        '2': 'ᜂ'
-        '3': 'ᜃ'
-        '4': 'ᜄ'
-        '5': 'ᜅ'
-        '6': 'ᜆ'
-        '7': 'ᜇ'
-        '8': 'ᜈ'
-        '9': 'ᜉ'
-        'dot': 'ᜊ'
-        'inter': 'ᜍ'
+        '0': ᜀ
+        '1': ᜁ
+        '2': ᜂ
+        '3': ᜃ
+        '4': ᜄ
+        '5': ᜅ
+        '6': ᜆ
+        '7': ᜇ
+        '8': ᜈ
+        '9': ᜉ
+        dot: ᜊ
+        inter: ᜍ
       crit:
-        '0': 'ᜐ'
-        '1': 'ᜑ'
-        '2': 'ᜒ'
-        '3': 'ᜓ'
-        '4': '᜔'
-        '5': '᜕'
-        '6': '᜖'
-        '7': '᜗'
-        '8': '᜘'
-        '9': '᜙'
-        'dot': 'ᜋ'
-        'inter': 'ᜍ'
+        '0': ᜐ
+        '1': ᜑ
+        '2': ᜒ
+        '3': ᜓ
+        '4': ᜔
+        '5': ᜕
+        '6': ᜖
+        '7': ᜗
+        '8': ᜘
+        '9': ᜙
+        dot: ᜋ
+        inter: ᜍ
     icon:
       weapon:
         normal: '&c🗡'
@@ -208,26 +208,26 @@ game-indicators:
     entity-width-percent: 0.75
     tick-period: 3
     lifespan: 20
-
+  
   # When an entity regens some health
   regen:
     enabled: false
-    decimal-format: '0.#'
+    decimal-format: 0.#
     format: '&a+#'
     custom-font:
       enabled: false
-      '0': 'ᜀ'
-      '1': 'ᜁ'
-      '2': 'ᜂ'
-      '3': 'ᜃ'
-      '4': 'ᜄ'
-      '5': 'ᜅ'
-      '6': 'ᜆ'
-      '7': 'ᜇ'
-      '8': 'ᜈ'
-      '9': 'ᜉ'
-      'dot': 'ᜊ'
-      'inter': 'ᜍ'
+      '0': ᜀ
+      '1': ᜁ
+      '2': ᜂ
+      '3': ᜃ
+      '4': ᜄ
+      '5': ᜅ
+      '6': ᜆ
+      '7': ᜇ
+      '8': ᜈ
+      '9': ᜉ
+      dot: ᜊ
+      inter: ᜍ
     move: true
     radial-velocity: 1
     gravity: 1
@@ -273,18 +273,18 @@ fix-too-large-packets: false
 #
 # Restart server to apply changes.
 fix_reset_attribute_modifiers:
-
+  
   enabled: false
-
+  
   # Increase this number everytime you want to reset your players'
   # attribute modifiers again.
   rev_id: 1
-
+  
   # Set to [] to apply
   attributes:
-    - MAX_HEALTH
-    - ATTACK_DAMAGE
-    - MOVEMENT_SPEED
+  - MAX_HEALTH
+  - ATTACK_DAMAGE
+  - MOVEMENT_SPEED
 
 # Whether or not a player performing an offensive/support action
 # can interact with another player. This accounts for skills,
@@ -293,21 +293,21 @@ fix_reset_attribute_modifiers:
 # More info available on the wiki
 # https://gitlab.com/phoenix-dvpmt/mmocore/-/wikis/Combat
 interaction_rules:
-
+  
   # When enabled, apply PvP interaction rules for skills, melee and projectile hits.
   # This option is toggled off by default to reduce confusion for new users.
   enabled: true
-
+  
   # When disabled, support-based skills (buffs or heals)
   # may only be applied onto players.
   support_skills_on_mobs: true
-
+  
   # When PvP is turned off
   pvp_off:
-
+    
     offense:
       self: false # Self-friendly fire when PvP is off
-
+    
     # Ability to heal self/other players when PvP is off
     support:
       party_member: true
@@ -316,10 +316,10 @@ interaction_rules:
       guild_neutral: true
       guild_enemy: true
       self: true # Ability to self-cast buffs
-
-  ## When PvP is turned on
+  
+  # # When PvP is turned on
   pvp_on:
-
+    
     # Ability to heal self/other players when PvP is on
     support:
       party_member: true
@@ -328,10 +328,97 @@ interaction_rules:
       guild_neutral: true
       guild_enemy: false
       self: true
-
+    
     # Friendly fire for guilds/parties
     offense:
       party_member: false
       guild_ally: false
       guild_neutral: true
-      self: false  # Self-friendly fire when PvP is on
+      self: false # Self-friendly fire when PvP is on
+damage_types:
+  
+  # Unless stated otherwise (by MMOItems item types or skills),
+  # what damage types should be applied to vanilla melee attacks
+  # or projectiles?
+  #
+  # This includes, for instance, melee attacks done with vanilla
+  # weapons (MMOItems weapons all have custom damage types), damage
+  # dealt using vanilla bows and crossbows....
+  default:
+    melee_weapon:
+    - WEAPON
+    - PHYSICAL
+    melee_unarmed:
+    - UNARMED
+    - PHYSICAL
+    melee_default:
+    - PHYSICAL
+    bow:
+    - WEAPON
+    - PROJECTILE
+    - PHYSICAL
+    skills:
+    - SKILL
+    - MAGIC
+  
+  # Links Bukkit DamageCause's to MythicLib damage types.
+  # For instance, you can map damage dealt by Ender Dragon Breath
+  # damage to MAGIC damage type.
+  #
+  # Available Bukkit damage causes available here:
+  # https://hub.spigotmc.org/javadocs/spigot/org/bukkit/event/entity/EntityDamageEvent.DamageCause.html
+  bukkit:
+    MAGIC:
+    - MAGIC
+    DRAGON_BREATH:
+    - MAGIC
+    POISON:
+    - MAGIC
+    - DOT
+    WITHER:
+    - MAGIC
+    - DOT
+    FIRE_TICK:
+    - PHYSICAL
+    - DOT
+    MELTING:
+    - PHYSICAL
+    - DOT
+    STARVATION:
+    - DOT
+    DRYOUT:
+    - DOT
+    FREEZE:
+    - DOT
+    FIRE:
+    - PHYSICAL
+    LAVA:
+    - PHYSICAL
+    HOT_FLOOR:
+    - PHYSICAL
+    SONIC_BOOM:
+    - PHYSICAL
+    LIGHTNING:
+    - PHYSICAL
+    FALL:
+    - PHYSICAL
+    THORNS:
+    - PHYSICAL
+    CONTACT:
+    - PHYSICAL
+    ENTITY_EXPLOSION:
+    - PHYSICAL
+    ENTITY_SWEEP_ATTACK:
+    - PHYSICAL
+    FALLING_BLOCK:
+    - PHYSICAL
+    FLY_INTO_WALL:
+    - PHYSICAL
+    BLOCK_EXPLOSION:
+    - PHYSICAL
+    SUFFOCATION:
+    - PHYSICAL
+    CRAMMING:
+    - PHYSICAL
+    DROWNING:
+    - PHYSICAL

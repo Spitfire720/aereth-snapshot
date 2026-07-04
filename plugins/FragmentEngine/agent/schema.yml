@@ -16,3 +16,10 @@ character-fields:
   - derived
   - fragments
   - intent
+fragment-fields:
+  - fragments.capacity
+  - fragments.discovered-list
+  - fragments.equipped
+  - fragments.total-pressure
+  - fragments.stability
+  - fragments.erasure-pressure

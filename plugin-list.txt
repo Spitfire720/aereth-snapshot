@@ -2,6 +2,7 @@
 AerethCreatorFragmentBridge-1.0.1.jar
 BetonQuest.jar
 bluemap-5.15-paper.jar
+CommandAPI-11.2.0-Paper.jar
 CoreProtect-CE-23.1.jar
 DecentHolograms-2.9.9.jar
 DeluxeMenus-1.14.1-Release.jar
@@ -9,10 +10,12 @@ FragmentEngine-1.10.0.jar
 GriefPrevention.jar
 LuckPerms-Bukkit-5.5.21.jar
 minimotd-bukkit-2.2.2.jar
+MMOItems-6.10.1-SNAPSHOT.jar
 ModelEngine-4.0.9.jar
 multiverse-core-5.3.4.jar
-MythicLib-1.7.jar
+MythicLib-1.7.1-SNAPSHOT.jar
 MythicMobs-5.9.5.jar
+oraxen-1.211.0.jar
 PlaceholderAPI-2.11.7.jar
 PlayerTitles-1.2.jar
 ProtocolLib.jar
