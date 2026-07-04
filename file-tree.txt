@@ -2997,6 +2997,8 @@ logs\2026-07-04-4.log.gz
 logs\2026-07-04-5.log.gz
 logs\2026-07-04-6.log.gz
 logs\2026-07-04-7.log.gz
+logs\2026-07-04-8.log.gz
+logs\2026-07-04-9.log.gz
 logs\latest-tail.txt
 main\datapacks\bukkit\pack.mcmeta
 main\datapacks\oraxen_jukebox\pack.mcmeta
@@ -3169,6 +3171,8 @@ plugins\BetonQuest\logs\26-07-04-07-59-1.log
 plugins\BetonQuest\logs\26-07-04-08-02-1.log
 plugins\BetonQuest\logs\26-07-04-10-10-1.log
 plugins\BetonQuest\logs\26-07-04-10-52-1.log
+plugins\BetonQuest\logs\26-07-04-10-58-1.log
+plugins\BetonQuest\logs\26-07-04-11-29-1.log
 plugins\BetonQuest\logs\latest.log
 plugins\BetonQuest\logs\latest.log.lck
 plugins\BetonQuest\menuConfig.yml
@@ -3203,10 +3207,12 @@ plugins\FragmentEngine\agent\manifest.yml
 plugins\FragmentEngine\agent\schema.yml
 plugins\FragmentEngine\config.yml
 plugins\FragmentEngine\fragments.yml
+plugins\FragmentEngine\intents.yml
 plugins\FragmentEngine\races.yml
 plugins\GriefPreventionData\_schemaVersion
 plugins\GriefPreventionData\bannedWords.txt
 plugins\GriefPreventionData\config.yml
+plugins\GriefPreventionData\Logs\2026_07_04.log
 plugins\GriefPreventionData\messages.yml
 plugins\LuckPerms\config.yml
 plugins\LuckPerms\contexts.json
@@ -3303,6 +3309,7 @@ plugins\MMOItems\modifiers\example_modifiers.yml
 plugins\MMOItems\plugindata\mm_factions.yml
 plugins\MMOItems\tooltips\example_tooltips.yml
 plugins\MMOItems\upgrade-templates.yml
+plugins\MMOItems\userdata\4b4818c2-6201-4cf7-9f35-035ef8fb19aa.yml
 plugins\ModelEngine\.data\cache.json
 plugins\ModelEngine\blockbench_models\aereth_delver_preview.bbmodel
 plugins\ModelEngine\blockbench_models\aereth_echoform_locked_preview.bbmodel

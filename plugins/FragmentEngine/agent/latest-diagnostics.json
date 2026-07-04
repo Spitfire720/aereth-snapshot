@@ -1,9 +1,9 @@
 {
   "status": "ok",
   "notes": [
-    "Build 2B data backend active",
-    "Race, progression, stats, and fragment foundations implemented",
+    "Build 2C data backend active",
+    "Race, progression, stats, fragments, and intent foundations implemented",
     "Combat execution not implemented yet",
-    "Intent slot system pending Build 2C"
+    "Disciplines pending Build 3A"
   ]
 }
