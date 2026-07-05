@@ -1,400 +1,400 @@
-﻿[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_stairs.json: default/crystalmush/crystalmush_planks_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+﻿[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_leaves.json: default/crystalmush/crystalmush_leaves_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door_lower_hinge.json: default/crystalmush/crystalmush_door_bottom_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_leaves.json: default/crystalmush/crystalmush_leaves_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door_lower_hinge.json: default/crystalmush/crystalmush_door_top_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/gold_cog.json: default/gold_cog
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/obsidian_helmet.json: default/armors/obsidian_helmet
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door_lower.json: default/crystalmush/crystalmush_door_bottom_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_trapdoor_top.json: default/crystalmush/crystalmush_trapdoor_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door_lower.json: default/crystalmush/crystalmush_door_top_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_trapdoor.json: default/crystalmush/crystalmush_trapdoor_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/grape_seeds.json: default/grape_seeds
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/gold_cog.json: default/gold_cog
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/glass_sword.json: default/glass_sword
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/onyx_hammer.json: default/onyx_hammer
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_slab.json: default/crystalmush/crystalmush_planks_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door_upper_open.json: default/crystalmush/crystalmush_door_bottom_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_slab.json: default/crystalmush/crystalmush_planks_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door_upper_open.json: default/crystalmush/crystalmush_door_top_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_slab.json: default/crystalmush/crystalmush_planks_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/arrow_next_icon.json: required/arrow_next_icon
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_stairs.json: default/crystalmush/crystalmush_planks_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_stairs_outer.json: default/crystalmush/crystalmush_planks_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_stairs.json: default/crystalmush/crystalmush_planks_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_stairs_outer.json: default/crystalmush/crystalmush_planks_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_stairs.json: default/crystalmush/crystalmush_planks_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_stairs_outer.json: default/crystalmush/crystalmush_planks_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/iron_serpe.json: default/iron_serpe
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/amethyst.json: default/amethyst
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/obsidian_chestplate.json: default/armors/obsidian_chestplate
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_trapdoor.json: default/crystalmush/crystalmush_trapdoor_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/orax_ore.json: default/orax_ore
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_door.json: default/crystalmush/crystalmush_door_icon
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/onyx_ore.json: default/onyx_ore
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/weed_seed.json: default/weed/seed
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/daffodil.json: default/flowers/daffodil
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/onyx.json: default/onyx
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/obsidian_sword.json: default/obsidian_sword
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/iron_cog.json: default/iron_cog
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_leaves.json: default/crystalmush/crystalmush_leaves_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/diamond_cog.json: default/diamond_cog
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/iron_cog.json: default/iron_cog
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door_upper_hinge_open.json: default/crystalmush/crystalmush_door_bottom_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door_upper.json: default/crystalmush/crystalmush_door_bottom_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door_upper_hinge_open.json: default/crystalmush/crystalmush_door_top_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door_upper.json: default/crystalmush/crystalmush_door_top_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_trapdoor_open.json: default/crystalmush/crystalmush_trapdoor_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_stairs_inner.json: default/crystalmush/crystalmush_planks_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/ruby_chestplate.json: default/armors/ruby_chestplate
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_stairs_inner.json: default/crystalmush/crystalmush_planks_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/orax_ore.json: default/orax_ore
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_stairs_inner.json: default/crystalmush/crystalmush_planks_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_stairs.json: default/crystalmush/crystalmush_planks_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door_lower_open.json: default/crystalmush/crystalmush_door_bottom_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_stairs.json: default/crystalmush/crystalmush_planks_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door_lower_open.json: default/crystalmush/crystalmush_door_top_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_stairs.json: default/crystalmush/crystalmush_planks_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_slab.json: default/crystalmush/crystalmush_planks_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/emerald_leggings.json: default/armors/emerald_leggings
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_slab.json: default/crystalmush/crystalmush_planks_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/arrow_previous_icon.json: required/arrow_previous_icon
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_slab.json: default/crystalmush/crystalmush_planks_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/ruby_boots.json: default/armors/ruby_boots
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/amethyst.json: default/amethyst
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/miner_sandwitch.json: default/sandwitch
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/weed_seed.json: default/weed/seed
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_stairs_inner.json: default/crystalmush/crystalmush_planks_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/onyx.json: default/onyx
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_stairs_inner.json: default/crystalmush/crystalmush_planks_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_log.json: default/crystalmush/wood_crystalmush_side_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_stairs_inner.json: default/crystalmush/crystalmush_planks_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_log.json: default/crystalmush/wood_crystalmush_top_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/exit_icon.json: required/exit_icon
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_trapdoor_open.json: default/crystalmush/crystalmush_trapdoor_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/weed_leaf.json: default/weed/leaf
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/emerald_leggings.json: default/armors/emerald_leggings
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/ruby_ore.json: default/ruby_ore
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/dailily.json: default/flowers/dailily
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/daffodil.json: default/flowers/daffodil
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/ruby_helmet.json: default/armors/ruby_helmet
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/welcome_disk.json: default/welcome_disk
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_trapdoor.json: default/crystalmush/crystalmush_trapdoor_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_slab.json: default/crystalmush/crystalmush_planks_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/orax.json: default/orax
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_slab.json: default/crystalmush/crystalmush_planks_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/arrow_next_icon.json: required/arrow_next_icon
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_slab.json: default/crystalmush/crystalmush_planks_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/ruby_leggings.json: default/armors/ruby_leggings
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_planks.json: default/crystalmush/crystalmush_planks_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_trapdoor.json: default/crystalmush/crystalmush_trapdoor_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/obsidian_boots.json: default/armors/obsidian_boots
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_stairs_outer.json: default/crystalmush/crystalmush_planks_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/glass_sword.json: default/glass_sword
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_stairs_outer.json: default/crystalmush/crystalmush_planks_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/emerald_boots.json: default/armors/emerald_boots
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_stairs_outer.json: default/crystalmush/crystalmush_planks_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/dailily.json: default/flowers/dailily
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door_upper_hinge.json: default/crystalmush/crystalmush_door_bottom_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_leaves.json: default/crystalmush/crystalmush_leaves_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door_upper_hinge.json: default/crystalmush/crystalmush_door_top_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_leaves.json: default/crystalmush/crystalmush_leaves_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/weed_leaf.json: default/weed/leaf
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door_upper_hinge.json: default/crystalmush/crystalmush_door_bottom_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/emerald_helmet.json: default/armors/emerald_helmet
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door_upper_hinge.json: default/crystalmush/crystalmush_door_top_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/amethyst_ore.json: default/amethyst_ore
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door_lower_open.json: default/crystalmush/crystalmush_door_bottom_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_slab_top.json: default/crystalmush/crystalmush_planks_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door_lower_open.json: default/crystalmush/crystalmush_door_top_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_slab_top.json: default/crystalmush/crystalmush_planks_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/grape.json: default/grape
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_slab_top.json: default/crystalmush/crystalmush_planks_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/grape_seeds.json: default/grape_seeds
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/obsidian_boots.json: default/armors/obsidian_boots
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/orax.json: default/orax
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/emerald_boots.json: default/armors/emerald_boots
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_slab_double.json: default/crystalmush/crystalmush_planks_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/ruby_ore.json: default/ruby_ore
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_log.json: default/crystalmush/wood_crystalmush_side_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/onyx_hammer.json: default/onyx_hammer
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_log.json: default/crystalmush/wood_crystalmush_top_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/obsidian_leggings.json: default/armors/obsidian_leggings
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_slab.json: default/crystalmush/crystalmush_planks_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_trapdoor_top.json: default/crystalmush/crystalmush_trapdoor_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_slab.json: default/crystalmush/crystalmush_planks_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/amethyst_hammer.json: default/amethyst_hammer
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_slab.json: default/crystalmush/crystalmush_planks_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_door.json: default/crystalmush/crystalmush_door_icon
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/ruby_leggings.json: default/armors/ruby_leggings
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door.json: default/crystalmush/crystalmush_door_bottom_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_slab_top.json: default/crystalmush/crystalmush_planks_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door.json: default/crystalmush/crystalmush_door_top_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_slab_top.json: default/crystalmush/crystalmush_planks_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/arrow_previous_icon.json: required/arrow_previous_icon
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_slab_top.json: default/crystalmush/crystalmush_planks_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/ruby.json: default/ruby
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/iron_serpe.json: default/iron_serpe
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/welcome_disk.json: default/welcome_disk
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/orax_hammer.json: default/orax_hammer
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/orax_hammer.json: default/orax_hammer
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/fire_hammer.json: default/fire_hammer
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/emerald_chestplate.json: default/armors/emerald_chestplate
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_leaves.json: default/crystalmush/crystalmush_leaves_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/ruby_boots.json: default/armors/ruby_boots
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/onyx_ore.json: default/onyx_ore
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/grape.json: default/grape
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/emerald_hammer.json: default/emerald_hammer
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/obsidian_pickaxe.json: default/obsidian_pickaxe
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/emerald_helmet.json: default/armors/emerald_helmet
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/emerald_hammer.json: default/emerald_hammer
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/brunnera.json: default/flowers/brunnera
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door_upper_open.json: default/crystalmush/crystalmush_door_bottom_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door_upper_open.json: default/crystalmush/crystalmush_door_top_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/obsidian_helmet.json: default/armors/obsidian_helmet
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_trapdoor_bottom.json: default/crystalmush/crystalmush_trapdoor_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/diamond_cog.json: default/diamond_cog
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door_lower_hinge.json: default/crystalmush/crystalmush_door_bottom_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door_lower_hinge.json: default/crystalmush/crystalmush_door_top_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door_lower_hinge_open.json: default/crystalmush/crystalmush_door_bottom_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door_lower_hinge_open.json: default/crystalmush/crystalmush_door_top_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/miner_sandwitch.json: default/sandwitch
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_slab_double.json: default/crystalmush/crystalmush_planks_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/ruby_chestplate.json: default/armors/ruby_chestplate
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door_upper_hinge_open.json: default/crystalmush/crystalmush_door_bottom_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[05:29:09] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door_upper_hinge_open.json: default/crystalmush/crystalmush_door_top_anim
-[05:29:09] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[05:29:09] [Server thread/INFO]: Oraxen | Found unreadable texture at assets/minecraft/textures/trims/models/armor/chainmail.png
-[05:29:09] [Server thread/INFO]: Oraxen | Found unreadable texture at assets/minecraft/textures/trims/models/armor/chainmail_leggings.png
-[05:29:09] [Server thread/INFO]: Oraxen | Pack contains malformed texture(s) and/or model(s)
-[05:29:09] [Server thread/INFO]: Oraxen | These need to be fixed, otherwise the resourcepack will be broken
-[05:29:09] [Server thread/INFO]: Oraxen | Attempting to exclude malformed textures from atlas-file
-[05:29:09] [Server thread/INFO]: Oraxen | Excluding malformed texture from atlas-file: assets/minecraft/textures/trims/models/armor/chainmail_leggings.png
-[05:29:09] [Server thread/INFO]: Oraxen | Excluding malformed texture from atlas-file: assets/minecraft/textures/trims/models/armor/chainmail.png
-[05:29:09] [Server thread/INFO]: Oraxen | Generated Jukebox datapack. A server restart is required for this feature to work.
-[05:29:09] [Server thread/INFO]: Oraxen | Successfully loaded on Ubuntu 24.04.2 LTS (noble)
-[05:29:09] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: oraxen [1.211.0]
-[05:29:09] [Server thread/INFO]: Oraxen | Plugin "PlaceholderAPI" detected, enabling hooks
-[05:29:09] [Server thread/INFO]: Oraxen | Plugin "MythicMobs" detected, enabling hooks
-[05:29:09] [Server thread/INFO]: Oraxen | Skript compatibility enabled - Oraxen syntax registered
-[05:29:09] [Server thread/INFO]: Oraxen | Plugin "Skript" detected, enabling hooks
-[05:29:09] [Server thread/INFO]: Oraxen | This is a compiled version of Oraxen.
-[05:29:09] [Server thread/INFO]: Oraxen | Compiled versions come without Default assets and support is not provided.
-[05:29:09] [Server thread/INFO]: Oraxen | Consider purchasing Oraxen on SpigotMC or Polymart for access to the full version.
-[05:29:09] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v23.1
-[05:29:09] [Server thread/INFO]: [CoreProtect] CoreProtect Community Edition has been successfully enabled! 
-[05:29:09] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
-[05:29:09] [Server thread/INFO]: --------------------
-[05:29:09] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Join our Discord!
-[05:29:09] [Server thread/INFO]: [CoreProtect] Discord: www.coreprotect.net/discord/
-[05:29:09] [Server thread/INFO]: --------------------
-[05:29:09] [Server thread/INFO]: [BlueMap] Enabling BlueMap v5.15
-[05:29:09] [Server thread/INFO]: [BlueMap] Saving all worlds once, to make sure the level.dat is present...
-[05:29:09] [Server thread/WARN]: A manual (plugin-induced) save has been detected while server is configured to auto-save. This may affect performance.
-[05:29:10] [BlueMap-Load/INFO]: [BlueMap] Loading...
-[05:29:10] [Server thread/INFO]: [WorldFracture] Enabling WorldFracture v1.7.0
-[05:29:10] [Server thread/WARN]: [WorldFracture] Could not save zones.yml to plugins/WorldFracture/zones.yml because zones.yml already exists.
-[05:29:10] [Server thread/INFO]: [WorldFracture] WorldFracture enabled. The world is listening.
-[05:29:10] [Server thread/INFO]: [MiniMOTD] Enabling MiniMOTD v2.2.2
-[05:29:10] [Server thread/INFO]: [SimpleScore] Enabling SimpleScore v4.0.1
-[05:29:10] [Server thread/INFO]: [TheNewEconomy] Enabling TheNewEconomy v0.1.4.0
-[05:29:10] [BlueMap-Load/INFO]: [BlueMap] Loading resources...
-[05:29:11] [Server thread/WARN]: [TheNewEconomy] Unable to contact update server!
-[05:29:11] [Server thread/WARN]: [TheNewEconomy] Unable to contact update server!
-[05:29:11] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: tne [0.1.4.0]
-[05:29:11] [Server thread/INFO]: [TheNewEconomy] The New Economy has been enabled!
-[05:29:11] [Server thread/INFO]: [spark] Enabling spark v1.10.173
-[05:29:11] [BlueMap-Load/INFO]: [BlueMap] Resources loaded.
-[05:29:11] [BlueMap-Load/INFO]: [BlueMap] Initializing Storage: 'file' (Type: 'bluemap:file')
-[05:29:11] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world'...
-[05:29:11] [Server thread/INFO]: [spark] Using Paper ServerTickStartEvent for tick monitoring
-[05:29:11] [Server thread/INFO]: [spark] Starting background profiler...
-[05:29:11] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world_the_end'...
-[05:29:11] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world_nether'...
-[05:29:11] [BlueMap-Load/INFO]: [BlueMap] WebServer bound to all network interfaces on port 8100
-[05:29:11] [Thread-21/INFO]: [BlueMap] WebServer started.
-[05:29:11] [BlueMap-Load/INFO]: [BlueMap] Loaded!
-[05:29:11] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: spark [1.10.173]
-[05:29:11] [Server thread/INFO]: [spark] Registered PlaceholderAPI placeholders
-[05:29:11] [Server thread/INFO]: [PlayerTitles] Enabling PlayerTitles v1.2
-[05:29:12] [Server thread/INFO]: [DeluxeMenus] Enabling DeluxeMenus v1.14.1-Release
-[05:29:12] [Server thread/INFO]: [DeluxeMenus] Successfully hooked into PlaceholderAPI!
-[05:29:12] [Server thread/INFO]: [DeluxeMenus] Successfully hooked into Vault!
-[05:29:12] [Server thread/WARN]: [DeluxeMenus] Found 'data' option for item: teststone in menu: basics_menu. This option is deprecated and will be removed soon. Please use 'damage' instead.
-[05:29:12] [Server thread/INFO]: [DeluxeMenus] 3 GUI menus loaded!
-[05:29:12] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: deluxemenus [1.14.1-Release]
-[05:29:12] [Server thread/INFO]: [DeluxeMenus] You are running the latest version of DeluxeMenus!
-[05:29:12] [Server thread/INFO]: [AerethCreatorFragmentBridge] Enabling AerethCreatorFragmentBridge v1.0.1
-[05:29:12] [Server thread/INFO]: [AerethCreatorFragmentBridge] AerethCreatorFragmentBridge enabled. CharacterCreator -> FragmentEngine mirror armed.
-[05:29:12] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[05:29:12] [Server thread/INFO]: Running delayed init tasks
-[05:29:12] [ForkJoinPool.commonPool-worker-7/INFO]: [ModelEngine] [A] 
-[05:29:12] [ForkJoinPool.commonPool-worker-7/INFO]: [ModelEngine] [A] [Importing models]
-[05:29:12] [ForkJoinPool.commonPool-worker-7/INFO]: [ModelEngine] [A] Loading cache version: R4.0.8
-[05:29:12] [Craft Scheduler Thread - 4 - DecentHolograms/INFO]: 
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/obsidian_pickaxe.json: default/obsidian_pickaxe
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/obsidian_chestplate.json: default/armors/obsidian_chestplate
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/obsidian_leggings.json: default/armors/obsidian_leggings
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/amethyst_hammer.json: default/amethyst_hammer
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door_lower.json: default/crystalmush/crystalmush_door_bottom_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door_lower.json: default/crystalmush/crystalmush_door_top_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/amethyst_ore.json: default/amethyst_ore
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_trapdoor_bottom.json: default/crystalmush/crystalmush_trapdoor_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door_lower_hinge_open.json: default/crystalmush/crystalmush_door_bottom_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door_lower_hinge_open.json: default/crystalmush/crystalmush_door_top_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door.json: default/crystalmush/crystalmush_door_bottom_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door.json: default/crystalmush/crystalmush_door_top_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door_upper.json: default/crystalmush/crystalmush_door_bottom_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door_upper.json: default/crystalmush/crystalmush_door_top_anim
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/ruby.json: default/ruby
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/emerald_chestplate.json: default/armors/emerald_chestplate
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/obsidian_sword.json: default/obsidian_sword
+[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+
+[08:31:00] [Server thread/INFO]: Oraxen | Found unreadable texture at assets/minecraft/textures/trims/models/armor/chainmail.png
+[08:31:00] [Server thread/INFO]: Oraxen | Found unreadable texture at assets/minecraft/textures/trims/models/armor/chainmail_leggings.png
+[08:31:00] [Server thread/INFO]: Oraxen | Pack contains malformed texture(s) and/or model(s)
+[08:31:00] [Server thread/INFO]: Oraxen | These need to be fixed, otherwise the resourcepack will be broken
+[08:31:00] [Server thread/INFO]: Oraxen | Attempting to exclude malformed textures from atlas-file
+[08:31:00] [Server thread/INFO]: Oraxen | Excluding malformed texture from atlas-file: assets/minecraft/textures/trims/models/armor/chainmail_leggings.png
+[08:31:00] [Server thread/INFO]: Oraxen | Excluding malformed texture from atlas-file: assets/minecraft/textures/trims/models/armor/chainmail.png
+[08:31:00] [Server thread/INFO]: Oraxen | Generated Jukebox datapack. A server restart is required for this feature to work.
+[08:31:00] [Server thread/INFO]: Oraxen | Successfully loaded on Ubuntu 24.04.2 LTS (noble)
+[08:31:00] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: oraxen [1.211.0]
+[08:31:00] [Server thread/INFO]: Oraxen | Plugin "PlaceholderAPI" detected, enabling hooks
+[08:31:00] [Server thread/INFO]: Oraxen | Plugin "MythicMobs" detected, enabling hooks
+[08:31:00] [Server thread/INFO]: Oraxen | Skript compatibility enabled - Oraxen syntax registered
+[08:31:00] [Server thread/INFO]: Oraxen | Plugin "Skript" detected, enabling hooks
+[08:31:00] [Server thread/INFO]: Oraxen | This is a compiled version of Oraxen.
+[08:31:00] [Server thread/INFO]: Oraxen | Compiled versions come without Default assets and support is not provided.
+[08:31:00] [Server thread/INFO]: Oraxen | Consider purchasing Oraxen on SpigotMC or Polymart for access to the full version.
+[08:31:00] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v23.1
+[08:31:01] [Server thread/INFO]: [CoreProtect] CoreProtect Community Edition has been successfully enabled! 
+[08:31:01] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[08:31:01] [Server thread/INFO]: --------------------
+[08:31:01] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Join our Discord!
+[08:31:01] [Server thread/INFO]: [CoreProtect] Discord: www.coreprotect.net/discord/
+[08:31:01] [Server thread/INFO]: --------------------
+[08:31:01] [Server thread/INFO]: [BlueMap] Enabling BlueMap v5.15
+[08:31:01] [Server thread/INFO]: [BlueMap] Saving all worlds once, to make sure the level.dat is present...
+[08:31:01] [Server thread/WARN]: A manual (plugin-induced) save has been detected while server is configured to auto-save. This may affect performance.
+[08:31:01] [BlueMap-Load/INFO]: [BlueMap] Loading...
+[08:31:01] [Server thread/INFO]: [WorldFracture] Enabling WorldFracture v1.7.0
+[08:31:01] [Server thread/WARN]: [WorldFracture] Could not save zones.yml to plugins/WorldFracture/zones.yml because zones.yml already exists.
+[08:31:01] [Server thread/INFO]: [WorldFracture] WorldFracture enabled. The world is listening.
+[08:31:01] [Server thread/INFO]: [MiniMOTD] Enabling MiniMOTD v2.2.2
+[08:31:01] [Server thread/INFO]: [SimpleScore] Enabling SimpleScore v4.0.1
+[08:31:01] [Server thread/INFO]: [TheNewEconomy] Enabling TheNewEconomy v0.1.4.0
+[08:31:01] [BlueMap-Load/INFO]: [BlueMap] Loading resources...
+[08:31:02] [BlueMap-Load/INFO]: [BlueMap] Resources loaded.
+[08:31:02] [BlueMap-Load/INFO]: [BlueMap] Initializing Storage: 'file' (Type: 'bluemap:file')
+[08:31:02] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world'...
+[08:31:02] [Server thread/WARN]: [TheNewEconomy] Unable to contact update server!
+[08:31:02] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world_the_end'...
+[08:31:02] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world_nether'...
+[08:31:02] [BlueMap-Load/INFO]: [BlueMap] WebServer bound to all network interfaces on port 8100
+[08:31:02] [Thread-21/INFO]: [BlueMap] WebServer started.
+[08:31:02] [BlueMap-Load/INFO]: [BlueMap] Loaded!
+[08:31:02] [Server thread/WARN]: [TheNewEconomy] Unable to contact update server!
+[08:31:02] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: tne [0.1.4.0]
+[08:31:02] [Server thread/INFO]: [TheNewEconomy] The New Economy has been enabled!
+[08:31:02] [Server thread/INFO]: [spark] Enabling spark v1.10.173
+[08:31:02] [Server thread/INFO]: [spark] Using Paper ServerTickStartEvent for tick monitoring
+[08:31:02] [Server thread/INFO]: [spark] Starting background profiler...
+[08:31:02] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: spark [1.10.173]
+[08:31:02] [Server thread/INFO]: [spark] Registered PlaceholderAPI placeholders
+[08:31:02] [Server thread/INFO]: [PlayerTitles] Enabling PlayerTitles v1.2
+[08:31:02] [Server thread/INFO]: [DeluxeMenus] Enabling DeluxeMenus v1.14.1-Release
+[08:31:02] [Server thread/INFO]: [DeluxeMenus] Successfully hooked into PlaceholderAPI!
+[08:31:03] [Server thread/INFO]: [DeluxeMenus] Successfully hooked into Vault!
+[08:31:03] [Server thread/WARN]: [DeluxeMenus] Found 'data' option for item: teststone in menu: basics_menu. This option is deprecated and will be removed soon. Please use 'damage' instead.
+[08:31:03] [Server thread/INFO]: [DeluxeMenus] 3 GUI menus loaded!
+[08:31:03] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: deluxemenus [1.14.1-Release]
+[08:31:03] [Server thread/INFO]: [DeluxeMenus] You are running the latest version of DeluxeMenus!
+[08:31:03] [Server thread/INFO]: [AerethCreatorFragmentBridge] Enabling AerethCreatorFragmentBridge v1.0.1
+[08:31:03] [Server thread/INFO]: [AerethCreatorFragmentBridge] AerethCreatorFragmentBridge enabled. CharacterCreator -> FragmentEngine mirror armed.
+[08:31:03] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[08:31:03] [Server thread/INFO]: Running delayed init tasks
+[08:31:03] [ForkJoinPool.commonPool-worker-9/INFO]: [ModelEngine] [A] 
+[08:31:03] [ForkJoinPool.commonPool-worker-9/INFO]: [ModelEngine] [A] [Importing models]
+[08:31:03] [ForkJoinPool.commonPool-worker-9/INFO]: [ModelEngine] [A] Loading cache version: R4.0.8
+[08:31:03] [pool-42-thread-2/INFO]: [ModelEngine] [A] 
+[08:31:03] [pool-42-thread-2/INFO]: [ModelEngine] [A] Importing aereth_remnant_preview_v2.bbmodel.
+[08:31:03] [pool-42-thread-2/WARN]: [ModelEngine] [A] --Warning: Missing hitbox.
+[08:31:03] [pool-42-thread-1/INFO]: [ModelEngine] [A] 
+[08:31:03] [pool-42-thread-1/INFO]: [ModelEngine] [A] Importing aereth_delver_preview_v2.bbmodel.
+[08:31:03] [pool-42-thread-1/WARN]: [ModelEngine] [A] --Warning: Missing hitbox.
+[08:31:03] [pool-42-thread-4/INFO]: [ModelEngine] [A] 
+[08:31:03] [pool-42-thread-4/INFO]: [ModelEngine] [A] Importing aereth_vireborn_preview_v2.bbmodel.
+[08:31:03] [pool-42-thread-4/WARN]: [ModelEngine] [A] --Warning: Missing hitbox.
+[08:31:03] [pool-42-thread-3/INFO]: [ModelEngine] [A] 
+[08:31:03] [pool-42-thread-3/INFO]: [ModelEngine] [A] Importing aereth_sylvae_preview_v2.bbmodel.
+[08:31:03] [pool-42-thread-3/WARN]: [ModelEngine] [A] --Warning: Missing hitbox.
+[08:31:03] [pool-42-thread-5/INFO]: [ModelEngine] [A] 
+[08:31:03] [pool-42-thread-5/INFO]: [ModelEngine] [A] Importing internal_fire.bbmodel.
+[08:31:03] [Craft Scheduler Thread - 3 - MiniMOTD/INFO]: [MiniMOTD] There is an update available for MiniMOTD!
+[08:31:03] [Craft Scheduler Thread - 3 - MiniMOTD/INFO]: [MiniMOTD] This server is running version v2.2.2, which is 2 versions outdated.
+[08:31:03] [Craft Scheduler Thread - 3 - MiniMOTD/INFO]: [MiniMOTD] Download the latest version, v2.2.4 from Modrinth at the link below:
+[08:31:03] [Craft Scheduler Thread - 3 - MiniMOTD/INFO]: [MiniMOTD] https://modrinth.com/plugin/minimotd
+[08:31:03] [Server thread/INFO]: [Skript] Loading variables...
+[08:31:03] [Craft Scheduler Thread - 8 - BetonQuest/WARN]: [BetonQuest] Could not fetch version updates. Probably the host is currently not available: nexus.betonquest.org
+[08:31:03] [pool-42-thread-9/INFO]: [ModelEngine] [A] 
+[08:31:03] [pool-42-thread-9/INFO]: [ModelEngine] [A] Resource pack zipped.
+[08:31:03] [pool-42-thread-9/INFO]: [ModelEngine] [A] Generator Profiled:
+[08:31:03] [pool-42-thread-9/INFO]: [ModelEngine] [A]  - Import Phase: 60.5ms
+[08:31:03] [pool-42-thread-9/INFO]: [ModelEngine] [A]  - Assets Phase: 12.9ms
+[08:31:03] [pool-42-thread-9/INFO]: [ModelEngine] [A]  - Zipping Phase: 59.3ms
+[08:31:03] [Server thread/INFO]: [Skript] Loaded 0 variables in 0.0 seconds
+[08:31:03] [Server thread/INFO]: [Skript] All scripts loaded without errors.
+[08:31:03] [Server thread/INFO]: [Skript]     No scripts were found, maybe you should write some ;)
+[08:31:03] [Server thread/INFO]: [Skript] Finished loading.
+[08:31:03] [Server thread/INFO]: [BetonQuest] Enabled compatibility for LuckPerms, WorldEdit, Skript, DecentHolograms, PlaceholderAPI, MythicLib, MMOItems, WorldGuard, ProtocolLib, Shopkeepers, MythicMobs, Vault!
+[08:31:03] [Server thread/INFO]: [BetonQuest] There are 23 conditions, 71 events, 1 objectives and 1 conversations loaded from 2 packages.
+[08:31:03] [Server thread/INFO]: [BetonQuest] Â§aReloaded 0Â§a menus
+[08:31:03] [Craft Scheduler Thread - 9 - SimpleScore/WARN]: [SimpleScore] New version (v4.2.0) available. Download at:
+[08:31:03] [Craft Scheduler Thread - 9 - SimpleScore/WARN]: [SimpleScore] https://modrinth.com/plugin/simplescore
+[08:31:03] [Server thread/INFO]: Oraxen | Skipping zip entry with null input stream: assets/minecraft/textures/trims/models/armor/chainmail_leggings.png
+[08:31:03] [Server thread/INFO]: Oraxen | Skipping zip entry with null input stream: assets/minecraft/textures/trims/models/armor/chainmail.png
+[08:31:03] [Server thread/INFO]: Oraxen | Skipping zip entry with null input stream: assets/minecraft/textures/models/armor/chainmail_layer_2.png
+[08:31:03] [Server thread/INFO]: Oraxen | Skipping zip entry with null input stream: assets/minecraft/textures/models/armor/chainmail_layer_1.png
+[08:31:03] [Server thread/INFO]: [CoreProtect] WorldEdit logging successfully initialized.
+[08:31:03] [Server thread/INFO]: Done (17.228s)! For help, type "help"
+[08:31:03] [Server thread/INFO]: Timings Reset
+[08:31:03] [Server thread/INFO]: [PlaceholderAPI] An update for PlaceholderAPI (v2.12.2) is available at:
+[08:31:03] [Server thread/INFO]: [PlaceholderAPI] https://www.spigotmc.org/resources/placeholderapi.6245/
+[08:31:03] [Craft Scheduler Thread - 0 - DecentHolograms/INFO]: 
 A newer version of DecentHolograms is available. Download it from: 
 - https://www.spigotmc.org/resources/96927/
 - https://modrinth.com/plugin/decentholograms
-[05:29:12] [pool-19-thread-2/INFO]: [ModelEngine] [A] 
-[05:29:12] [pool-19-thread-2/INFO]: [ModelEngine] [A] Importing aereth_remnant_preview_v2.bbmodel.
-[05:29:12] [pool-19-thread-2/WARN]: [ModelEngine] [A] --Warning: Missing hitbox.
-[05:29:12] [pool-19-thread-1/INFO]: [ModelEngine] [A] 
-[05:29:12] [pool-19-thread-1/INFO]: [ModelEngine] [A] Importing aereth_delver_preview_v2.bbmodel.
-[05:29:12] [pool-19-thread-1/WARN]: [ModelEngine] [A] --Warning: Missing hitbox.
-[05:29:12] [pool-19-thread-3/INFO]: [ModelEngine] [A] 
-[05:29:12] [pool-19-thread-3/INFO]: [ModelEngine] [A] Importing aereth_sylvae_preview_v2.bbmodel.
-[05:29:12] [pool-19-thread-3/WARN]: [ModelEngine] [A] --Warning: Missing hitbox.
-[05:29:12] [pool-19-thread-5/INFO]: [ModelEngine] [A] 
-[05:29:12] [pool-19-thread-5/INFO]: [ModelEngine] [A] Importing internal_fire.bbmodel.
-[05:29:12] [pool-19-thread-4/INFO]: [ModelEngine] [A] 
-[05:29:12] [pool-19-thread-4/INFO]: [ModelEngine] [A] Importing aereth_vireborn_preview_v2.bbmodel.
-[05:29:12] [pool-19-thread-4/WARN]: [ModelEngine] [A] --Warning: Missing hitbox.
-[05:29:12] [Server thread/INFO]: [Skript] Loading variables...
-[05:29:12] [Craft Scheduler Thread - 9 - MiniMOTD/INFO]: [MiniMOTD] There is an update available for MiniMOTD!
-[05:29:12] [Craft Scheduler Thread - 9 - MiniMOTD/INFO]: [MiniMOTD] This server is running version v2.2.2, which is 2 versions outdated.
-[05:29:12] [Craft Scheduler Thread - 9 - MiniMOTD/INFO]: [MiniMOTD] Download the latest version, v2.2.4 from Modrinth at the link below:
-[05:29:12] [Craft Scheduler Thread - 9 - MiniMOTD/INFO]: [MiniMOTD] https://modrinth.com/plugin/minimotd
-[05:29:12] [pool-19-thread-7/INFO]: [ModelEngine] [A] 
-[05:29:12] [pool-19-thread-7/INFO]: [ModelEngine] [A] Resource pack zipped.
-[05:29:12] [pool-19-thread-7/INFO]: [ModelEngine] [A] Generator Profiled:
-[05:29:12] [pool-19-thread-7/INFO]: [ModelEngine] [A]  - Import Phase: 39.8ms
-[05:29:12] [pool-19-thread-7/INFO]: [ModelEngine] [A]  - Assets Phase: 12.6ms
-[05:29:12] [pool-19-thread-7/INFO]: [ModelEngine] [A]  - Zipping Phase: 7.6ms
-[05:29:12] [Server thread/INFO]: [Skript] Loaded 0 variables in 0.0 seconds
-[05:29:12] [Server thread/INFO]: [Skript] All scripts loaded without errors.
-[05:29:12] [Server thread/INFO]: [Skript]     No scripts were found, maybe you should write some ;)
-[05:29:12] [Server thread/INFO]: [Skript] Finished loading.
-[05:29:12] [Server thread/INFO]: [BetonQuest] Enabled compatibility for LuckPerms, WorldEdit, Skript, DecentHolograms, PlaceholderAPI, MythicLib, MMOItems, WorldGuard, ProtocolLib, Shopkeepers, MythicMobs, Vault!
-[05:29:12] [Craft Scheduler Thread - 8 - BetonQuest/WARN]: [BetonQuest] Could not fetch version updates. Probably the host is currently not available: nexus.betonquest.org
-[05:29:12] [Server thread/INFO]: [BetonQuest] There are 23 conditions, 71 events, 1 objectives and 1 conversations loaded from 2 packages.
-[05:29:12] [Server thread/INFO]: [BetonQuest] Â§aReloaded 0Â§a menus
-[05:29:12] [Server thread/INFO]: Oraxen | Skipping zip entry with null input stream: assets/minecraft/textures/trims/models/armor/chainmail_leggings.png
-[05:29:12] [Server thread/INFO]: Oraxen | Skipping zip entry with null input stream: assets/minecraft/textures/trims/models/armor/chainmail.png
-[05:29:12] [Server thread/INFO]: Oraxen | Skipping zip entry with null input stream: assets/minecraft/textures/models/armor/chainmail_layer_2.png
-[05:29:12] [Server thread/INFO]: Oraxen | Skipping zip entry with null input stream: assets/minecraft/textures/models/armor/chainmail_layer_1.png
-[05:29:12] [Craft Scheduler Thread - 7 - SimpleScore/WARN]: [SimpleScore] New version (v4.2.0) available. Download at:
-[05:29:12] [Craft Scheduler Thread - 7 - SimpleScore/WARN]: [SimpleScore] https://modrinth.com/plugin/simplescore
-[05:29:12] [Server thread/INFO]: [CoreProtect] WorldEdit logging successfully initialized.
-[05:29:12] [Server thread/INFO]: Done (17.881s)! For help, type "help"
-[05:29:12] [Server thread/INFO]: Timings Reset
-[05:29:12] [Server thread/INFO]: [PlaceholderAPI] An update for PlaceholderAPI (v2.12.2) is available at:
-[05:29:12] [Server thread/INFO]: [PlaceholderAPI] https://www.spigotmc.org/resources/placeholderapi.6245/
-[05:29:12] [Craft Scheduler Thread - 6 - Oraxen/INFO]: Oraxen | Automatic upload of the resource pack is enabled, uploading...
-[05:29:12] [Server thread/INFO]: 0 placeholder hook(s) registered!
-[05:29:13] [Craft Scheduler Thread - 6 - Oraxen/INFO]: Oraxen | Resourcepack uploaded to http://atlas.oraxen.com:8080/pack.zip?id=895974219debf2f3c5230baff6af0f025a97fbad in 1138 ms
-[05:29:13] [Thread-35/INFO]: --------------------
-[05:29:13] [Thread-35/INFO]: [CoreProtect] Version 23.2 is now available.
-[05:29:13] [Thread-35/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
-[05:29:13] [Thread-35/INFO]: --------------------
-[05:30:27] [User Authenticator #0/INFO]: UUID of player SpitFire720 is 4b4818c2-6201-4cf7-9f35-035ef8fb19aa
-[05:30:27] [Folia Async Scheduler Thread Timer/INFO]: [WorldGuardRegionProtect] Checking for updates using Paper schedulers.
-[05:30:28] [Server thread/WARN]: [BetonQuest] Loaded 'core.xpRecovery' objective from the database, but it is not defined in configuration. Skipping.
-[05:30:28] [Server thread/INFO]: SpitFire720 joined the game
-[05:30:28] [Server thread/INFO]: SpitFire720[IP hidden] logged in with entity id 104 at ([creator_world]1566.7513833944442, 83.00615204863935, 2372.5349722332767)
-[05:30:49] [Server thread/INFO]: SpitFire720 issued server command: /aereth agent export
-[05:30:56] [Server thread/INFO]: SpitFire720 lost connection: Disconnected
-[05:30:56] [Server thread/INFO]: SpitFire720 left the game
+[08:31:03] [Craft Scheduler Thread - 9 - Oraxen/INFO]: Oraxen | Automatic upload of the resource pack is enabled, uploading...
+[08:31:03] [Server thread/INFO]: 0 placeholder hook(s) registered!
+[08:31:04] [Craft Scheduler Thread - 9 - Oraxen/INFO]: Oraxen | Resourcepack uploaded to http://atlas.oraxen.com:8080/pack.zip?id=895974219debf2f3c5230baff6af0f025a97fbad in 804 ms
+[08:31:04] [Thread-35/INFO]: --------------------
+[08:31:04] [Thread-35/INFO]: [CoreProtect] Version 23.2 is now available.
+[08:31:04] [Thread-35/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
+[08:31:04] [Thread-35/INFO]: --------------------

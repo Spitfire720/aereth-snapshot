@@ -3003,6 +3003,7 @@ logs\2026-07-04-7.log.gz
 logs\2026-07-04-8.log.gz
 logs\2026-07-04-9.log.gz
 logs\2026-07-05-1.log.gz
+logs\2026-07-05-2.log.gz
 logs\latest-tail.txt
 main\datapacks\bukkit\pack.mcmeta
 main\datapacks\oraxen_jukebox\pack.mcmeta
@@ -3183,6 +3184,7 @@ plugins\BetonQuest\logs\26-07-04-16-25-1.log
 plugins\BetonQuest\logs\26-07-04-16-39-1.log
 plugins\BetonQuest\logs\26-07-04-16-55-1.log
 plugins\BetonQuest\logs\26-07-04-18-05-1.log
+plugins\BetonQuest\logs\26-07-05-05-29-1.log
 plugins\BetonQuest\logs\latest.log
 plugins\BetonQuest\logs\latest.log.lck
 plugins\BetonQuest\menuConfig.yml

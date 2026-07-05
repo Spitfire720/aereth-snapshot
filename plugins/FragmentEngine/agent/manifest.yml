@@ -1,6 +1,6 @@
 plugin: FragmentEngine
-version: "1.13.0"
-schema-version: 5
+version: "1.14.0"
+schema-version: 6
 exports:
   - schema.yml
   - latest-status.json

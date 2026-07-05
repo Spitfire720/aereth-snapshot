@@ -43,3 +43,8 @@ discipline-fields:
   - discipline.progression.xp-required
   - discipline.progression.progress-percent
   - discipline.progression.max-rank
+discipline-passive-fields:
+  - stats.discipline-bonus
+  - derived.discipline-bonus
+  - discipline.passives.stat-summary
+  - discipline.passives.derived-summary

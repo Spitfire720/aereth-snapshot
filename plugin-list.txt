@@ -6,7 +6,7 @@ CommandAPI-11.2.0-Paper.jar
 CoreProtect-CE-23.1.jar
 DecentHolograms-2.9.9.jar
 DeluxeMenus-1.14.1-Release.jar
-FragmentEngine-1.13.0.jar
+FragmentEngine-1.14.0.jar
 GriefPrevention.jar
 LuckPerms-Bukkit-5.5.21.jar
 minimotd-bukkit-2.2.2.jar
