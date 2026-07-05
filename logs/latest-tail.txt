@@ -1,179 +1,4 @@
-﻿[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/gold_cog.json: default/gold_cog
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/onyx_hammer.json: default/onyx_hammer
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door_upper_open.json: default/crystalmush/crystalmush_door_bottom_anim
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door_upper_open.json: default/crystalmush/crystalmush_door_top_anim
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/arrow_next_icon.json: required/arrow_next_icon
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_stairs_outer.json: default/crystalmush/crystalmush_planks_anim
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_stairs_outer.json: default/crystalmush/crystalmush_planks_anim
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_stairs_outer.json: default/crystalmush/crystalmush_planks_anim
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/amethyst.json: default/amethyst
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_trapdoor.json: default/crystalmush/crystalmush_trapdoor_anim
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_door.json: default/crystalmush/crystalmush_door_icon
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/weed_seed.json: default/weed/seed
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/onyx.json: default/onyx
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/iron_cog.json: default/iron_cog
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/diamond_cog.json: default/diamond_cog
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door_upper_hinge_open.json: default/crystalmush/crystalmush_door_bottom_anim
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door_upper_hinge_open.json: default/crystalmush/crystalmush_door_top_anim
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_trapdoor_open.json: default/crystalmush/crystalmush_trapdoor_anim
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/ruby_chestplate.json: default/armors/ruby_chestplate
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/orax_ore.json: default/orax_ore
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_stairs.json: default/crystalmush/crystalmush_planks_anim
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_stairs.json: default/crystalmush/crystalmush_planks_anim
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_stairs.json: default/crystalmush/crystalmush_planks_anim
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/emerald_leggings.json: default/armors/emerald_leggings
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/arrow_previous_icon.json: required/arrow_previous_icon
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/ruby_boots.json: default/armors/ruby_boots
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/miner_sandwitch.json: default/sandwitch
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_stairs_inner.json: default/crystalmush/crystalmush_planks_anim
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_stairs_inner.json: default/crystalmush/crystalmush_planks_anim
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_stairs_inner.json: default/crystalmush/crystalmush_planks_anim
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/exit_icon.json: required/exit_icon
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/weed_leaf.json: default/weed/leaf
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/ruby_ore.json: default/ruby_ore
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/daffodil.json: default/flowers/daffodil
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/welcome_disk.json: default/welcome_disk
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_slab.json: default/crystalmush/crystalmush_planks_anim
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_slab.json: default/crystalmush/crystalmush_planks_anim
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_slab.json: default/crystalmush/crystalmush_planks_anim
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_planks.json: default/crystalmush/crystalmush_planks_anim
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/obsidian_boots.json: default/armors/obsidian_boots
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/glass_sword.json: default/glass_sword
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/emerald_boots.json: default/armors/emerald_boots
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/dailily.json: default/flowers/dailily
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_leaves.json: default/crystalmush/crystalmush_leaves_anim
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_leaves.json: default/crystalmush/crystalmush_leaves_anim
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door_upper_hinge.json: default/crystalmush/crystalmush_door_bottom_anim
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door_upper_hinge.json: default/crystalmush/crystalmush_door_top_anim
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door_lower_open.json: default/crystalmush/crystalmush_door_bottom_anim
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door_lower_open.json: default/crystalmush/crystalmush_door_top_anim
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/grape.json: default/grape
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/grape_seeds.json: default/grape_seeds
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/orax.json: default/orax
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_slab_double.json: default/crystalmush/crystalmush_planks_anim
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_log.json: default/crystalmush/wood_crystalmush_side_anim
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/crystalmush_log.json: default/crystalmush/wood_crystalmush_top_anim
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_slab.json: default/crystalmush/crystalmush_planks_anim
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_slab.json: default/crystalmush/crystalmush_planks_anim
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_slab.json: default/crystalmush/crystalmush_planks_anim
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/ruby_leggings.json: default/armors/ruby_leggings
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
+﻿[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
 [08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_slab_top.json: default/crystalmush/crystalmush_planks_anim
 [08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
@@ -398,3 +223,178 @@ A newer version of DecentHolograms is available. Download it from:
 [10:30:44] [Server thread/INFO]: SpitFire720 issued server command: /aereth agent export
 [10:31:27] [Server thread/INFO]: SpitFire720 lost connection: Disconnected
 [10:31:27] [Server thread/INFO]: SpitFire720 left the game
+[11:01:50] [Server thread/INFO]: Stopping the server
+[11:01:51] [Server thread/INFO]: Stopping server
+[11:01:51] [Server thread/INFO]: [AerethCreatorFragmentBridge] Disabling AerethCreatorFragmentBridge v1.0.1
+[11:01:51] [Server thread/INFO]: [DeluxeMenus] Disabling DeluxeMenus v1.14.1-Release
+[11:01:51] [Server thread/INFO]: [PlayerTitles] Disabling PlayerTitles v1.2
+[11:01:51] [Server thread/INFO]: [spark] Disabling spark v1.10.173
+[11:01:51] [Server thread/INFO]: [TheNewEconomy] Disabling TheNewEconomy v0.1.4.0
+[11:01:51] [Server thread/INFO]: [SimpleScore] Disabling SimpleScore v4.0.1
+[11:01:51] [Server thread/INFO]: [MiniMOTD] Disabling MiniMOTD v2.2.2
+[11:01:51] [Server thread/INFO]: [WorldFracture] Disabling WorldFracture v1.7.0
+[11:01:51] [Server thread/INFO]: [WorldFracture] WorldFracture disabled. Zone memory saved.
+[11:01:51] [Server thread/INFO]: [BlueMap] Disabling BlueMap v5.15
+[11:01:51] [Server thread/INFO]: [BlueMap] Stopping...
+[11:01:51] [Server thread/INFO]: [BlueMap] Saved and stopped!
+[11:01:51] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v23.1
+[11:01:51] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[11:01:51] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v23.1
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Disabling WorldGuardRegionProtect v1.10.11.21
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Saving all configuration files before the plugin shuts down...
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: CONFIG_VERSION = 5
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: LANG = en_US
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: SEND_NO_UPDATE = true
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: UPDATE_CHECKER = true
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: INTERACT_TYPE = [player, bat, armor_stand, end_crystal, bucket, water_bucket, lava_bucket, tropical_fish_bucket, pufferfish_bucket, axolotl_bucket, cod_bucket, salmon_bucket, tadpole_bucket, item_frame, glow_item_frame, painting]
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: VEHICLE_TYPE = [minecart, tnt_minecart, command_block_minecart, hopper_minecart, chest_minecart, furnace_minecart, oak_boat, oak_chest_boat, spruce_boat, spruce_chest_boat, birch_boat, birch_chest_boat, jungle_boat, jungle_chest_boat, acacia_boat, acacia_chest_boat, dark_oak_boat, dark_oak_chest_boat, mangrove_boat, mangrove_chest_boat, cherry_boat, cherry_chest_boat, bamboo_raft, bamboo_chest_raft]
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: ANIMAL_TYPE = [axolotl, villager, donkey, parrot, allay, trader_llama, horse, polar_bear, ocelot, cat, frog, cow, fox, mushroom_cow, zombie_horse, panda, bee, skeleton_horse, pig, llama, goat, wolf, chicken, sniffer, sheep, rabbit, turtle, wandering_trader, mule, tadpole, camel, snowman, iron_golem]
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: MONSTER_TYPE = [vindicator, guardian, creeper, vex, hoglin, cave_spider, evoker, elder_guardian, husk, wither, enderman, spider, skeleton, piglin, wither_skeleton, giant, zombie_villager, endermite, warden, ravager, zombified_piglin, silverfish, phantom, stray, drowned, blaze, illusioner, piglin_brute, zombie, shulker, witch, pillager, zoglin, breeze, bogged, creaking]
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: ENEMY_ENTITY_TYPE = [ender_dragon, magma_cube, slime, ghast]
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: MISC_ENTITY_TYPE = [egg, ender_pearl, experience_orb, snowball]
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: WATER_MOB_TYPE = [squid, dolphin, glow_squid, cod, tropical_fish, salmon, pufferfish]
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: SIGN_TYPE = [oak_sign, spruce_sign, birch_sign, jungle_sign, acacia_sign, dark_oak_sign, mangrove_sign, cherry_sign, bamboo_sign, crimson_sign, warped_sign, oak_hanging_sign, spruce_hanging_sign, birch_hanging_sign, jungle_hanging_sign, acacia_hanging_sign, dark_oak_hanging_sign, mangrove_hanging_sign, cherry_hanging_sign, bamboo_hanging_sign, crimson_hanging_sign, warped_hanging_sign]
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: ENTITY_EXPLODE_TYPE = [fireball, primed_tnt, end_crystal, minecart_tnt, wither_skull]
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: NATURAL_BLOCK_OR_ITEM = [oak_sapling, spruce_sapling, birch_sapling, jungle_sapling, dark_oak_sapling, mangrove_propagule, dead_bush, fern, azalea, flowering_azalea, dandelion, poppy, blue_orchid, allium, azure_bluet, red_tulip, orange_tulip, white_tulip, pink_tulip, oxeye_daisy, cornflower, lily_of_the_valley, bamboo, sugar_cane, cactus, wither_rose, crimson_roots, warped_roots, cherry_sapling, torchflower]
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_COLLISION_WITH_VEHICLE = true
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_SIT_AS_PASSENGER_IN_VEHICLE = true
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_DAMAGE_VEHICLE = true
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_TAKE_LECTERN_BOOK = true
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_MANIPULATE_WITH_FLOWERPOT = true
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_LAVA_FLOW_TO_REGION = true
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_FORM_BLOCK_FROM_LAVA_AND_WATER = true
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_USE_SUPER_PICKAXE = true
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_CREATURE_SPAWN = true
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_MOB_SPAWN_FROM_SPAWNER = true
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_MOB_NATURALLY_SPAWN = true
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_WATER_FLOW_TO_REGION = true
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_INTERACT_WITH_FLOWER_POT = true
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_PLACE_ITEM_FRAME_OR_PAINTING = true
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_INTERACT_WITH_ITEM_FRAME = true
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_DAMAGE_ITEM_FRAME_OR_PAINTING = true
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_STONECUTTER_RECIPE_SELECT = true
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_LOOM_PATTERN_SELECT = true
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: CHECK_PLAYER_IN_STANDING_REGION = false
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: CMD_WE = [//set, //replace, //overlay, //walls, //deform, //fill, //fillr, //fixlava, //hollow, //move, //stack, //smooth, //cut, //replacenear]
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: CMD_WE_C = [//cyl, //hcyl, //drain, //rep]
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: CMD_WE_P = [//pyramid, //hpyramid]
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: CMD_WE_S = [//sphere, //hsphere]
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: CMD_WE_U = [//up, /up]
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: CMD_WE_CP = [//paste, //place, //replacenear, //hollow]
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DENY_EXPLODE_ENTITY = true
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: REGION_MESSAGE_PROTECT_BY_PLAYER = true
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: REGION_MESSAGE_PROTECT = true
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: REGION_MESSAGE_PROTECT_WE = true
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: IS_SPY_COMMAND_NOTIFY_CONSOLE_ENABLE = true
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: IS_SPY_COMMAND_NOTIFY_ADMIN_ENABLE = true
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: IS_SPY_COMMAND_NOTIFY_ADMIN_PLAY_SOUND_ENABLE = true
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: SPY_COMMAND_NOTIFY_PLAY_SOUND_TYPE = BLOCK_ANVIL_PLACE
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: SPY_COMMAND_LIST = [//set, //replace, //overlay, //walls, //deform, //fill, //fillr, //fixlava, //hollow, //move, //stack, //smooth, //cut, //replacenear]
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_ENABLE = false
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_HOST = localhost
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_PORT = 3306
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_DATABASE = wgrp_core
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_USER = null
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_PASSWORD = root
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_TABLE = null
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_MAX_POOL_SIZE = 10
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_MAX_LIFE_TIME = 1800
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_CONNECTION_TIMEOUT = 5000
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_USE_SSL = true
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Checking and saving field: DATA_SOURCE_INTERVAL_RELOAD = 60
+[11:01:51] [Server thread/INFO]: [WorldGuardRegionProtect] Saved complete. Good luck and thanks for using WorldGuardRegionProtect!
+[11:01:51] [Server thread/INFO]: [Oraxen] Disabling Oraxen v1.211.0
+[11:01:51] [Server thread/INFO]: Oraxen | Unhooking plugin "Skript"
+[11:01:51] [Server thread/INFO]: Oraxen | Unhooking plugin "MythicMobs"
+[11:01:51] [Server thread/INFO]: Oraxen | Unhooking plugin "PlaceholderAPI"
+[11:01:51] [Server thread/INFO]: Oraxen | Successfully unloaded
+[11:01:51] [Server thread/INFO]: [FragmentEngine] Disabling FragmentEngine v1.14.0
+[11:01:51] [Server thread/INFO]: [FragmentEngine] FragmentEngine disabled. Memory has been sealed.
+[11:01:51] [Server thread/INFO]: [CommandAPI] Disabling CommandAPI v11.2.0
+[11:01:51] [Server thread/INFO]: [ModelEngine] Disabling ModelEngine vR4.0.9
+[11:01:51] [Server thread/INFO]: [BetonQuest] Disabling BetonQuest v2.2.1
+[11:01:51] [Server thread/INFO]: [BetonQuest] BetonQuest successfully disabled!
+[11:01:51] [Server thread/INFO]: [AerethCharacterCreatorCore] Disabling AerethCharacterCreatorCore v1.0.0
+[11:01:51] [Server thread/INFO]: [MMOItems] Disabling MMOItems v6.10.1-SNAPSHOT
+[11:01:52] [Server thread/INFO]: [Skript] Disabling Skript v2.12.2
+[11:01:52] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v2.22.2
+[11:01:52] [Server thread/INFO]: [DecentHolograms] Disabling DecentHolograms v2.9.9
+[11:01:52] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.4.0
+[11:01:52] [Server thread/INFO]: [MythicLib] Disabling MythicLib v1.7.1-SNAPSHOT
+[11:01:52] [Server thread/INFO]: [GriefPrevention] Disabling GriefPrevention v16.18.5
+[11:01:52] [Server thread/INFO]: [GriefPrevention] GriefPrevention disabled.
+[11:01:52] [Server thread/INFO]: [MythicMobs] Disabling MythicMobs v5.9.5-f13ab4a1
+[11:01:52] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
+[11:01:52] [Server thread/INFO]: [MythicMobs] - 
+[11:01:52] [Server thread/INFO]: [MythicMobs] - Unloading Mythic...
+[11:01:52] [Server thread/INFO]: [MythicMobs] - 
+[11:01:52] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
+[11:01:52] [Server thread/INFO]: [MythicMobs] - Spawners saved and unloaded...
+[11:01:52] [Server thread/INFO]: [MythicMobs] - Mobs saved and unloaded...
+[11:01:52] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[11:01:52] [Server thread/INFO]: [MythicMobs] âœ“Saving Finished
+[11:01:52] [Server thread/INFO]: [MythicMobs] - Variables saved...
+[11:01:52] [Server thread/INFO]: [MythicMobs] - All active settings have been saved!
+[11:01:52] [Server thread/INFO]: [MythicMobs] - Mythic has been unloaded!
+[11:01:52] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
+[11:01:52] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[11:01:52] [Server thread/INFO]: [MythicMobs] âœ“Saving Finished
+[11:01:52] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v5.3.4
+[11:01:52] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.10+d9424b1
+[11:01:52] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[11:01:52] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.9+6959-7adf70b
+[11:01:52] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[11:01:52] [Server thread/INFO]: [Vault] Disabling Vault v2.17.0
+[11:01:52] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.21
+[11:01:52] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[11:01:52] [Server thread/INFO]: [LuckPerms] Closing storage...
+[11:01:52] [Server thread/INFO]: [LuckPerms] Goodbye!
+[11:01:52] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.7
+[11:01:52] [Server thread/INFO]: Saving players
+[11:01:52] [Server thread/INFO]: Saving worlds
+[11:01:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[main]'/minecraft:overworld
+[11:01:52] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'main'
+[11:01:52] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'main'
+[11:01:52] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'main'
+[11:01:52] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 23 entity chunks, 0 poi chunks in world 'main' in 0.00s
+[11:01:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (main): All chunks are saved
+[11:01:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[main_nether]'/minecraft:the_nether
+[11:01:52] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'main_nether'
+[11:01:52] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'main_nether'
+[11:01:52] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'main_nether'
+[11:01:52] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 3 entity chunks, 0 poi chunks in world 'main_nether' in 0.00s
+[11:01:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:01:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[main_the_end]'/minecraft:the_end
+[11:01:52] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'main_the_end'
+[11:01:52] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'main_the_end'
+[11:01:52] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'main_the_end'
+[11:01:52] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'main_the_end' in 0.00s
+[11:01:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:01:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[creator_world]'/minecraft:creator_world
+[11:01:52] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'creator_world'
+[11:01:52] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'creator_world'
+[11:01:52] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'creator_world'
+[11:01:52] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 16 entity chunks, 0 poi chunks in world 'creator_world' in 0.00s
+[11:01:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (creator_world): All chunks are saved
+[11:01:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:world_the_end
+[11:01:52] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[11:01:52] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[11:01:52] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[11:01:52] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 5 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[11:01:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:01:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[build]'/minecraft:build
+[11:01:52] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'build'
+[11:01:52] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'build'
+[11:01:52] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'build'
+[11:01:52] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 7 entity chunks, 0 poi chunks in world 'build' in 0.00s
+[11:01:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (build): All chunks are saved
+[11:01:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:world_nether
+[11:01:52] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[11:01:52] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[11:01:52] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[11:01:52] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[11:01:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:01:52] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11:01:52] [Server thread/INFO]: Flushing Chunk IO
+[11:01:52] [Server thread/INFO]: Closing Thread Pool
+[11:01:52] [Server thread/INFO]: Closing Server
