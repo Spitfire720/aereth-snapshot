@@ -1,21 +1,4 @@
-﻿[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door_lower_hinge.json: default/crystalmush/crystalmush_door_bottom_anim
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_door_lower_hinge.json: default/crystalmush/crystalmush_door_top_anim
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/obsidian_helmet.json: default/armors/obsidian_helmet
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_trapdoor_top.json: default/crystalmush/crystalmush_trapdoor_anim
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/block/crystalmush_trapdoor.json: default/crystalmush/crystalmush_trapdoor_anim
-[08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
-
-[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/gold_cog.json: default/gold_cog
+﻿[08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/gold_cog.json: default/gold_cog
 [08:31:00] [Server thread/INFO]: Oraxen | Verify that you have a texture in said path.
 
 [08:31:00] [Server thread/INFO]: Oraxen | Found invalid texture-path inside model-file assets/minecraft/models/onyx_hammer.json: default/onyx_hammer
@@ -398,3 +381,20 @@ A newer version of DecentHolograms is available. Download it from:
 [08:31:04] [Thread-35/INFO]: [CoreProtect] Version 23.2 is now available.
 [08:31:04] [Thread-35/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
 [08:31:04] [Thread-35/INFO]: --------------------
+[10:29:48] [User Authenticator #0/INFO]: UUID of player SpitFire720 is 4b4818c2-6201-4cf7-9f35-035ef8fb19aa
+[10:29:49] [Folia Async Scheduler Thread Timer/INFO]: [WorldGuardRegionProtect] Checking for updates using Paper schedulers.
+[10:29:49] [Server thread/WARN]: [BetonQuest] Loaded 'core.xpRecovery' objective from the database, but it is not defined in configuration. Skipping.
+[10:29:49] [Server thread/INFO]: SpitFire720 joined the game
+[10:29:49] [Server thread/INFO]: SpitFire720[IP hidden] logged in with entity id 104 at ([creator_world]1566.7513833944442, 83.00615204863935, 2372.5349722332767)
+[10:30:09] [Server thread/INFO]: SpitFire720 issued server command: /version FragmentEngine
+[10:30:13] [Server thread/INFO]: SpitFire720 issued server command: /aereth setlevel SpitFire720 16
+[10:30:16] [Server thread/INFO]: SpitFire720 issued server command: /aereth setdiscipline SpitFire720 vanguard
+[10:30:20] [Server thread/INFO]: SpitFire720 issued server command: /aereth setdisciplinerank SpitFire720 2
+[10:30:24] [Server thread/INFO]: SpitFire720 issued server command: /aereth stats SpitFire720
+[10:30:28] [Server thread/INFO]: SpitFire720 issued server command: /papi parse SpitFire720 %aereth_discipline_passive_stats%
+[10:30:32] [Server thread/INFO]: SpitFire720 issued server command: /papi parse SpitFire720 %aereth_discipline_passive_derived%
+[10:30:36] [Server thread/INFO]: SpitFire720 issued server command: /papi parse SpitFire720 %aereth_discipline_bonus_vitality%
+[10:30:40] [Server thread/INFO]: SpitFire720 issued server command: /papi parse SpitFire720 %aereth_discipline_bonus_endurance%
+[10:30:44] [Server thread/INFO]: SpitFire720 issued server command: /aereth agent export
+[10:31:27] [Server thread/INFO]: SpitFire720 lost connection: Disconnected
+[10:31:27] [Server thread/INFO]: SpitFire720 left the game

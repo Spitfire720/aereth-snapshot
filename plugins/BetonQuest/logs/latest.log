@@ -356,3 +356,38 @@
 [26.07.05 08:31:03 FINE]: [BetonQuest] (Schedules) Found 0 missed schedule runs that will be caught up.
 [26.07.05 08:31:03 FINE]: [BetonQuest] (Schedules) Realtime scheduler start complete.
 [26.07.05 08:31:03 INFO]: [BetonQuest] §aReloaded 0§a menus
+[26.07.05 10:29:48 FINE]: [BetonQuest] Loaded 1 objectives, 1 tags, 0 points, 0 journal entries and 0 items for SpitFire720 with profile SpitFire720
+[26.07.05 10:29:48 FINE]: [BetonQuest] Inserting data for SpitFire720 with profile SpitFire720
+[26.07.05 10:29:49 WARNING]: [BetonQuest] Loaded 'core.xpRecovery' objective from the database, but it is not defined in configuration. Skipping.
+[26.07.05 10:29:49 FINE]: [BetonQuest] Additional stacktrace:
+org.betonquest.betonquest.exceptions.ObjectNotFoundException: Objective 'core.xpRecovery' is not defined
+	at BetonQuest.jar//org.betonquest.betonquest.id.ID.<init>(ID.java:91)
+	at BetonQuest.jar//org.betonquest.betonquest.id.ObjectiveID.<init>(ObjectiveID.java:11)
+	at BetonQuest.jar//org.betonquest.betonquest.database.PlayerData.startObjectives(PlayerData.java:356)
+	at BetonQuest.jar//org.betonquest.betonquest.JoinQuitListener.onPlayerJoin(JoinQuitListener.java:62)
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor377.execute(Unknown Source)
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77)
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54)
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628)
+	at net.minecraft.server.players.PlayerList.placeNewPlayer(PlayerList.java:347)
+	at net.minecraft.server.network.ServerConfigurationPacketListenerImpl.handleConfigurationFinished(ServerConfigurationPacketListenerImpl.java:153)
+	at net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.handle(ServerboundFinishConfigurationPacket.java:22)
+	at net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.handle(ServerboundFinishConfigurationPacket.java:13)
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:55)
+	at net.minecraft.server.TickTask.run(TickTask.java:18)
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151)
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24)
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1511)
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:195)
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125)
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1488)
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1411)
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135)
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1377)
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1238)
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:323)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
