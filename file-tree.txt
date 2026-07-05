@@ -1,7 +1,4 @@
 ﻿.console_history
-.trash-c8af669c\70de7067fb2d7dbb59836e61fad6d8c8.yml
-.trash-c8af669c\a860b6b7fcf7711398ffad96a3fbe7a2.yml
-.trash-c8af669c\c18426c1b6d56b92710c7ec89c55f32d.bak
 banned-ips.json
 banned-players.json
 bluemap\logs\debug.log
@@ -2996,6 +2993,7 @@ logs\2026-07-04-11.log.gz
 logs\2026-07-04-12.log.gz
 logs\2026-07-04-13.log.gz
 logs\2026-07-04-14.log.gz
+logs\2026-07-04-15.log.gz
 logs\2026-07-04-2.log.gz
 logs\2026-07-04-3.log.gz
 logs\2026-07-04-4.log.gz
@@ -3004,6 +3002,7 @@ logs\2026-07-04-6.log.gz
 logs\2026-07-04-7.log.gz
 logs\2026-07-04-8.log.gz
 logs\2026-07-04-9.log.gz
+logs\2026-07-05-1.log.gz
 logs\latest-tail.txt
 main\datapacks\bukkit\pack.mcmeta
 main\datapacks\oraxen_jukebox\pack.mcmeta
@@ -3183,6 +3182,7 @@ plugins\BetonQuest\logs\26-07-04-14-46-1.log
 plugins\BetonQuest\logs\26-07-04-16-25-1.log
 plugins\BetonQuest\logs\26-07-04-16-39-1.log
 plugins\BetonQuest\logs\26-07-04-16-55-1.log
+plugins\BetonQuest\logs\26-07-04-18-05-1.log
 plugins\BetonQuest\logs\latest.log
 plugins\BetonQuest\logs\latest.log.lck
 plugins\BetonQuest\menuConfig.yml
